@@ -1,0 +1,20 @@
+<Root>
+	<Page id="Page_PopPwd" drawable="bt_pwd_bg" size="536,371">
+		<Text id="PopPwd_Txt_Title" text="bt_pin_prompt" rect="23,7,499,52" h="24" paraStr="Left" color="#FFFFFF"/>
+		<View rect="128,122,280,11" drawable="bt_pwd_tv"/>
+		<Text id="PopPwd_Txt_Pwd" rect="128,82,280,45" h="32" color="#FFFFFF"/>
+		<Button id="PopPwd_Backspace" rect="415,74,79,59" drawable="bt_pwddel"/>
+		<Button id="PopPwd_0" rect="428,215,102,77" drawable="bt_pwd0"/>
+		<Button id="PopPwd_1" rect="7,136,102,77" drawable="bt_pwd1"/>
+		<Button id="PopPwd_2" rect="112,136,102,77" drawable="bt_pwd2"/>
+		<Button id="PopPwd_3" rect="217,136,102,77" drawable="bt_pwd3"/>
+		<Button id="PopPwd_4" rect="323,136,102,77" drawable="bt_pwd4"/>
+		<Button id="PopPwd_5" rect="428,136,102,77" drawable="bt_pwd5"/>
+		<Button id="PopPwd_6" rect="7,215,102,77" drawable="bt_pwd6"/>
+		<Button id="PopPwd_7" rect="112,215,102,77" drawable="bt_pwd7"/>
+		<Button id="PopPwd_8" rect="217,215,102,77" drawable="bt_pwd8"/>
+		<Button id="PopPwd_9" rect="323,215,102,77" drawable="bt_pwd9"/>
+		<Button id="PopPwd_Ok" rect="7,293,522,77" drawable="bt_pwdok"/>
+	</Page>
+</Root>
+

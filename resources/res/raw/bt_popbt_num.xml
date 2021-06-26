@@ -1,0 +1,18 @@
+<Root>
+	<Page id="Page_PopBt_Num" size="1024,173"> 
+		<View rect="0,0,1024,173" drawable="bt_navikeyshow_bk"/>
+		<Button id="PopBt_Btn_1" rect="60,15,135,74" drawable="bt_navi1"/>
+		<Button id="PopBt_Btn_2" rect="215,15,135,74" drawable="bt_navi2"/>
+		<Button id="PopBt_Btn_3" rect="368,15,135,74" drawable="bt_navi3"/>
+		<Button id="PopBt_Btn_4" rect="522,15,135,74" drawable="bt_navi4"/>
+		<Button id="PopBt_Btn_5" rect="676,15,135,74" drawable="bt_navi5"/>
+		<Button id="PopBt_Btn_J" rect="830,15,135,74" drawable="bt_navij"/>
+		<Button id="PopBt_Btn_6" rect="60,96,135,74" drawable="bt_navi6"/>
+		<Button id="PopBt_Btn_7" rect="215,96,135,74" drawable="bt_navi7"/>
+		<Button id="PopBt_Btn_8" rect="368,96,135,74" drawable="bt_navi8"/>
+		<Button id="PopBt_Btn_9" rect="522,96,135,74" drawable="bt_navi9"/>
+		<Button id="PopBt_Btn_0" longclick="1" rect="676,96,135,74" drawable="bt_navi0"/>
+		<Button id="PopBt_Btn_X" rect="830,96,135,74" drawable="bt_navix"/>
+	</Page>
+</Root>
+

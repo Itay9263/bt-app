@@ -1,0 +1,37 @@
+<Root>
+	<Page id="Page_History" paraStr="Dial_Btn_1">
+	    <View rect="0,0,1024,600" drawable="bthistory_bk"/>
+	    
+	    <View rect="0,0,1024,69" drawable="bt_contacttxt_bk"/>
+	    <Text rect="43,3,402,60" text="bt_contact_dial" paraStr="Left" h="42" color="#ffffff"/>
+	    <Button id="Func_Btn_Back" rect="920,5,73,57" drawable="back"/>
+	    
+	    <View rect="21,77,550,511" drawable="bt_dialtxt_bk"/>
+	    <Button id="Dial_Btn_1" rect="28,174,130,100" drawable="bt_dial1"/>
+		<Button id="Dial_Btn_2" rect="161,174,130,100" drawable="bt_dial2"/>
+		<Button id="Dial_Btn_3" rect="295,174,130,100" drawable="bt_dial3"/>
+		<Button id="Dial_Btn_4" rect="28,279,130,100" drawable="bt_dial4"/>
+		<Button id="Dial_Btn_5" rect="161,279,130,100" drawable="bt_dial5"/>
+		<Button id="Dial_Btn_6" rect="295,279,130,100" drawable="bt_dial6"/>
+		<Button id="Dial_Btn_7" rect="28,384,130,100" drawable="bt_dial7"/>
+		<Button id="Dial_Btn_8" rect="161,384,130,100" drawable="bt_dial8"/>
+		<Button id="Dial_Btn_9" rect="295,384,130,100" drawable="bt_dial9"/>
+		<Button id="Dial_Btn_X" rect="28,488,130,100" drawable="bt_dialx"/>
+		<Button id="Dial_Btn_0" longclick="1" rect="161,488,130,100" drawable="bt_dial0"/>
+		<Button id="Dial_Btn_J" rect="295,488,130,100" drawable="bt_dialj"/>
+		
+		<View rect="28,83,523,90" drawable="bt_dialnum_bk"/>
+		<Text id="Dial_Txt_Num3" rect="36,91,403,75" h="45" paraStr="Right" color="#ffffff"/>
+		<Button id="Dial_Btn_Backspace" longclick="1" rect="445,93,99,72" drawable="bt_dialdel"/>
+		<Button id="Dial_Btn_LinkCut" rect="453,182,100,90" drawable="bt_linkcut"/>	
+		<Button id="Dial_Btn_Dial" rect="452,376,100,207" drawable="bt_historydial"/>
+		<View rect="986,82,14,502" drawable="bt_historyright_bk"/>
+		
+		<View rect="581,81,390,86" drawable="bt_historylist_bk">
+		    <Text text="bt_history" rect="669,98,300,60" h="42" paraStr="Left" color="#ffffff"/>
+		</View>
+		<GridView id="History_ListView" longclick="1" rect="581,166,395,378" paraStr="Page_HistoryItem" h="7"/>
+		<GridView id="Dial_SearchListView" longclick="1" rect="581,166,395,378" paraStr="Page_DialItem" h="7"/>
+	</Page>
+</Root>
+

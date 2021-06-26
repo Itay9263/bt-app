@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="suspend_time">
+        <item>40   دوم</item>
+        <item>20   دوم</item>
+        <item>10   دوم</item>
+        <item>  5   دوم</item>
+        <item> OFF </item>
+    </array>
+</resources>

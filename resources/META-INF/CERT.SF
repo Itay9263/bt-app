@@ -1,0 +1,3859 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: VgnMBoMmAJHv2S7J4GUETyHnBKk=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-nodpi-v4/pink_btav_next.png
+SHA1-Digest: 8ssFLOiNSOaG7chlmU4YUd8riAI=
+
+Name: res/drawable-nodpi-v4/pink_bt_navisound_p.png
+SHA1-Digest: uQQ+uz1bWmazDokM6n73Cj18+Mg=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial9_p.png
+SHA1-Digest: s508Dyxm72mDEXktMzifUdWugpE=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial8.png
+SHA1-Digest: cwBGZCoKN7Uv7SEsez3Nnj78JSo=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial7.png
+SHA1-Digest: srQTSiAaE+apbjysU7Bmd1Owg48=
+
+Name: res/drawable-nodpi-v4/blue_btav_play_p.png
+SHA1-Digest: jqmvaxOToFnQaqVZaBExqsbD+j0=
+
+Name: res/drawable-nodpi-v4/thirdphone_hang_p.png
+SHA1-Digest: FaeBjerhMo1u1eW2kZgIWeZDHE4=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd1.png
+SHA1-Digest: wqi3NpyELkqoLgZvp/WtMEBuCKM=
+
+Name: res/drawable-nodpi-v4/blue_bt_load12.png
+SHA1-Digest: hoG1qQEiY0BknK49zdw9vgKc8b4=
+
+Name: res/drawable-nodpi-v4/bt_navi3.png
+SHA1-Digest: tzWSNke237l5+Y9P+Rt860xHA0U=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd_bg.png
+SHA1-Digest: TVE+XyPqpgU2ChPjGwW1O80eKqk=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial4.png
+SHA1-Digest: a7p2r1TQciJRpZOrvNu7BRQcXas=
+
+Name: res/drawable-nodpi-v4/bt_navij_p.png
+SHA1-Digest: nUDD2UoPCj9otN3SwrGWsiE4zaM=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial3.png
+SHA1-Digest: xkW3x7l1VBZSi/N+SglUn3OVyhs=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial4.png
+SHA1-Digest: JLzXLqRuNecqt41YrKBIfeFrAL4=
+
+Name: res/anim/right_out.xml
+SHA1-Digest: khmcNa4SSGdXJaXHl0n5sWrjJh4=
+
+Name: res/drawable-nodpi-v4/pink_bt_menu_bk.png
+SHA1-Digest: jPDACwPrfQyiwD+0nS+zEWcc8P4=
+
+Name: res/drawable-nodpi-v4/pink_bt_navij.png
+SHA1-Digest: WnMtqipG+Rt/EhxAcw7YqKSpQoI=
+
+Name: res/drawable-nodpi-v4/bt_navihang_p.png
+SHA1-Digest: fLGHD9TiKElrUY/izaSpcfffS/Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd1_p.png
+SHA1-Digest: 8QqFsJxRtTrRDY/lN0DMtR6LLN4=
+
+Name: res/drawable-nodpi-v4/red_bt_itemdial.png
+SHA1-Digest: a2fVtLOqPJuGdt13/SaK/5f7xO4=
+
+Name: res/drawable-nodpi-v4/red_contact_item_p.png
+SHA1-Digest: xUNgKQ0k2/ITC7HoATGDzF+Cvaw=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd5_p.png
+SHA1-Digest: +sJQJQd2n5zKrHvo1SiaArhWTg0=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd0_p.png
+SHA1-Digest: K8v8bSqnc8AFhhUB9BhpUjDCFXE=
+
+Name: res/drawable-nodpi-v4/bt_historyout_p.png
+SHA1-Digest: hXp+K4rgDMPNPeXbiCvduV33na0=
+
+Name: res/drawable-nodpi-v4/pink_btav_prev.png
+SHA1-Digest: Tu2RTbX5G2v9Jd+q52imcGBpKBk=
+
+Name: res/drawable-nodpi-v4/pink_bt_navidial_p.png
+SHA1-Digest: H8LBp8vCr6li0zm4NReTeobsR7c=
+
+Name: res/drawable-nodpi-v4/bt_dialpan_bk.png
+SHA1-Digest: emoyhRLDx+oQUz6qUDJ0yxMJA7g=
+
+Name: res/drawable-nodpi-v4/blue_switch_on.png
+SHA1-Digest: yTUdFLCQH85soREomk2a9yYEg7M=
+
+Name: res/drawable-nodpi-v4/blue_bt_itemdial_p.png
+SHA1-Digest: 7+FeRXgUTsOQ7D1psWq6BweNuc8=
+
+Name: res/drawable-nodpi-v4/blue_bt_load04.png
+SHA1-Digest: VqEbiCfhoo5tgewAQpexRzakZII=
+
+Name: res/drawable-nodpi-v4/red_bt_navi3.png
+SHA1-Digest: O7HKBY7OQF2kGGyxFMuG8xykV10=
+
+Name: res/anim/pop_add_contacts_show.xml
+SHA1-Digest: 3nij8WkiaGkbbd2XYTXBnz/GoSM=
+
+Name: res/drawable-nodpi-v4/bt_load01.png
+SHA1-Digest: L2iMgimgh8ApbLaun2q7d3ATL3g=
+
+Name: res/drawable-nodpi-v4/bt_pwd5_p.png
+SHA1-Digest: +9Kh210ANcSaYt7WQTxKxXN3GE0=
+
+Name: res/drawable-nodpi-v4/red_bt_navi9_p.png
+SHA1-Digest: 4UjaG95w5NMbWxSQ9K9g9pCwor0=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial3.png
+SHA1-Digest: YtMjoR1xf8uSX7h+ME2dAHTR3b8=
+
+Name: res/drawable-nodpi-v4/bt_navikeyhide_bk.png
+SHA1-Digest: zKIoM3a7vixGlEnXCauFpNfVDYo=
+
+Name: res/drawable-nodpi-v4/pink_bt_historyleft_bk.png
+SHA1-Digest: TrA2eZM60FmvTvpbo3ceAXNRoEQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial8_p.png
+SHA1-Digest: AihpX1k0RTtMzEDT8BqISw/KSko=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialdial_p.png
+SHA1-Digest: LnRDJyZ5MNvTlu3NoG8WgMozEXk=
+
+Name: res/drawable-nodpi-v4/red_bt_set_btn_p.png
+SHA1-Digest: GDASBDMxIsb8KxyRsgBnWa2wWVA=
+
+Name: res/drawable-nodpi-v4/sw_bottom.png
+SHA1-Digest: N3gpKpGC44697N70pBLQjD3eSXw=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi3_p.png
+SHA1-Digest: CbdjJXBz98iKqGiIg9gvJCQGnfs=
+
+Name: res/drawable-nodpi-v4/pink_bt_load08.png
+SHA1-Digest: KI3pc0ilwQ1gbE03U5xB1XGqcBc=
+
+Name: res/drawable-nodpi-v4/pink_btav_pan_bk.png
+SHA1-Digest: ZhQM8EFMeKl35SjHE844BF7S3MM=
+
+Name: res/drawable-nodpi-v4/purple_bt_historylist_bk.png
+SHA1-Digest: g/ecDbIO83czHx1oBcL/qwcxPvI=
+
+Name: res/drawable-nodpi-v4/blue_bt_menudial.png
+SHA1-Digest: PMlUtsnKjapVVbkplJsV4fo7Uvw=
+
+Name: res/drawable/bt_icon_1.png
+SHA1-Digest: ZVaJRJofcIoUh8/6YcapoMfgbgA=
+
+Name: res/drawable-nodpi-v4/blue_bt_navidial_p.png
+SHA1-Digest: 5NR2n9ELE73CVUtv2qj7ssIzUgs=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi6_p.png
+SHA1-Digest: j/5cC2Rj7dTg584KW2oYjC/BJAI=
+
+Name: res/drawable-nodpi-v4/red_bt_linkcut.png
+SHA1-Digest: 4TB+dI8PITx2c71+TfsB4QWL2s4=
+
+Name: res/drawable-nodpi-v4/pink_bt_editcontact_btn_p.png
+SHA1-Digest: ilO7UdnKOeMXxr3Guj3tZA6OWNU=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd7_p.png
+SHA1-Digest: brg6gOv/8IP2gYGLVaUEKCkN4dI=
+
+Name: res/drawable-nodpi-v4/bt_dialnum_bk.png
+SHA1-Digest: C9yRqEcHy8QimlIalQSNvp+uq/w=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd7.png
+SHA1-Digest: KV6qtRt7SX/s0UmTMRqyxRNRuVY=
+
+Name: res/drawable-nodpi-v4/red_bt_load02.png
+SHA1-Digest: 2ak7osmDKNVLFQ/kpaYzvKqSPd8=
+
+Name: res/drawable-nodpi-v4/blue_bt_contacttxt_bk.png
+SHA1-Digest: XmoM/aKTzZNNppCfOV50uTOkcA8=
+
+Name: res/drawable-nodpi-v4/red_bt_navi4_p.png
+SHA1-Digest: vPvycJOzRtT2HPy2C2OLL1lffOk=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd8_p.png
+SHA1-Digest: S25F8OKYNmpDV0/+Ihh6FLjc7vM=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd6.png
+SHA1-Digest: s/wmZB/C2lC3LgWIWYaa0oyU2FA=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial2.png
+SHA1-Digest: jxvZTqLejoFAP1/x8MuwHvhQaxE=
+
+Name: res/anim/pop_add_contacts_hidden.xml
+SHA1-Digest: nFWWibdRV7rEBCTFMvffQdaPkME=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd0.png
+SHA1-Digest: JShtAPJifGHsEVzuTeJUblAen88=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial3.png
+SHA1-Digest: 7XGeC1uD/OYZ+g4USqi428FcMWY=
+
+Name: res/drawable-nodpi-v4/bt_navi4.png
+SHA1-Digest: aTgKZUzyF6uwDNRlR47VVZ1Axes=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial4.png
+SHA1-Digest: lC5IktrQVKw7KlX6yCaxhDvMfXM=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial5.png
+SHA1-Digest: hz7uFtgcePNIC/rG5Il0vfA9hPc=
+
+Name: res/drawable-nodpi-v4/red_recsound_btn.png
+SHA1-Digest: TfeKnayCDlkb0VZL+Ua9P7dq2fs=
+
+Name: res/raw/bt_set.xml
+SHA1-Digest: tjlDRI50V1tR1nAtw+Jv8Wyn4UA=
+
+Name: res/drawable-nodpi-v4/bt_pop_dialx_p.png
+SHA1-Digest: UiTRic6E2DHzhs+e5VE0jCpvezw=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial5.png
+SHA1-Digest: RG75jelwCvF8gCcZexgOArzEMEM=
+
+Name: res/drawable-nodpi-v4/bt_icocut.png
+SHA1-Digest: Go0MRPBXBwcVIuIPgIaZ96/wTGQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi1.png
+SHA1-Digest: tAV3XgE6BNUqo08VsKqK1h7+0LY=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_hang.png
+SHA1-Digest: 4E8xs3mJ5MeCZNA/+b2kZPt3SHM=
+
+Name: res/drawable-nodpi-v4/red_bt_pairlink_p.png
+SHA1-Digest: vKBInLueWJ95+b3qqZAapEpySWc=
+
+Name: res/drawable-nodpi-v4/bt_pwd0.png
+SHA1-Digest: Vtj03ZohY4z06chMCzFpYHs+1Lw=
+
+Name: res/raw/bt_history.xml
+SHA1-Digest: WkrFzLDNMvEkpJqdDbbnH2PKUDY=
+
+Name: res/drawable-nodpi-v4/thirdphone_accept_p.png
+SHA1-Digest: 0fGHC4CqcjO6G8zyKam9+T1YmOA=
+
+Name: res/drawable-nodpi-v4/blue_recsound_btn_p.png
+SHA1-Digest: IoWBPdghvB9Kro7/B+yMeSjnTJU=
+
+Name: res/drawable-nodpi-v4/bt_load02.png
+SHA1-Digest: ncWJACF/tYH5zBc1LE/pyiwxpS0=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial6.png
+SHA1-Digest: W024frilZeeW8jUZfN24EdhV+GE=
+
+Name: res/drawable-nodpi-v4/purple_bt_historymiss.png
+SHA1-Digest: H+39hAyCL74D/k/qQ1YLdaUap5c=
+
+Name: res/drawable-nodpi-v4/bt_navi9_p.png
+SHA1-Digest: kFY4uSgmzDMWdl/jNUadtWV+BpM=
+
+Name: res/drawable-nodpi-v4/blue_bt_load03.png
+SHA1-Digest: Bh5w1WyMP7aIlUPCLRRw4xlrtmY=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial3_p.png
+SHA1-Digest: nac2i4NE1O6mOPkGF9VYW1e/cY8=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi0_p.png
+SHA1-Digest: NUnH0kEhsdWb2GBZW+iEGl2/Z9s=
+
+Name: res/drawable-nodpi-v4/btav_next_p.png
+SHA1-Digest: x23BNq48EnepIDQ+tHip4nqvUTI=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi1_p.png
+SHA1-Digest: HgKwTv5QBMXwi3WFNJgruikXr38=
+
+Name: res/drawable-nodpi-v4/red_bt_dial0_p.png
+SHA1-Digest: EqaUtybjaf4A1Qma87z/bD/GD2Q=
+
+Name: res/drawable-nodpi-v4/red_bthistory_bk.png
+SHA1-Digest: TBDXoMj5tDCwS+OIYJFd9iA7Sto=
+
+Name: res/drawable-nodpi-v4/bt_menucontact.png
+SHA1-Digest: uOM9DooKCBjWYv3rJQ49BPQN9DI=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial7_p.png
+SHA1-Digest: j9cAUwSagALY8YR71Qwj1od7PS0=
+
+Name: res/drawable-nodpi-v4/red_bt_historydial_p.png
+SHA1-Digest: iqsbvhIbQVeIipBeAmsBD7xvR/g=
+
+Name: res/drawable-nodpi-v4/pink_bt_keyboardshow_p.png
+SHA1-Digest: Qpj47e9kIMSNY1xWNh9a1QaJThk=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_switch_p.png
+SHA1-Digest: lXqKXWmsmWa4jWbCByn/FKCdZx0=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial2_p.png
+SHA1-Digest: r86dEl5ctPg3+uN2J+wTCCeRkX4=
+
+Name: res/drawable-nodpi-v4/blue_bt_voiceswitch.png
+SHA1-Digest: 8RATM4wpnjM75A0WwR+nWRyKdcs=
+
+Name: res/raw/bt_main.xml
+SHA1-Digest: ZYqfgbQv+0KqlBQu3lv2MZzbPGE=
+
+Name: res/drawable-nodpi-v4/pink_bt_navix.png
+SHA1-Digest: hAsjGC9PTPHQttRQOeOqZHYaT5s=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialdel.png
+SHA1-Digest: 9IuC99SrEAqYgoAo/Wa/rQXlu0Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial7.png
+SHA1-Digest: 6+FZN1N0RvlvoBW82TdeOrbSvpQ=
+
+Name: res/drawable-nodpi-v4/bt_pop_dialtxt_bk.png
+SHA1-Digest: zbRrQNqRCbf5e8GUYudx8SC/o60=
+
+Name: res/drawable-nodpi-v4/pink_bt_menupair.png
+SHA1-Digest: V9XHwIZt6HmAQWYLtB5BxRjyvyg=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial4_p.png
+SHA1-Digest: Wlwgiz11voH3hbjSORPMU9/FTOQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialdial.png
+SHA1-Digest: u/5MdNyhwxZFwrFr57OixW2LWKM=
+
+Name: res/drawable-nodpi-v4/blue_bt_navisound.png
+SHA1-Digest: tndqnmdqCS1lrBEcFrCUrYVgGpI=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwddel.png
+SHA1-Digest: o3AbQFR/Vl7bmKbo64q8+T41KyM=
+
+Name: res/drawable-nodpi-v4/bt_historydel_p.png
+SHA1-Digest: yaUf4TFoenJrUSIhY+4Ghr+FiLc=
+
+Name: res/drawable-nodpi-v4/purple_bt_menuset_p.png
+SHA1-Digest: VT03Qw+qnpgt+OD2b0RvJDBFvkI=
+
+Name: res/drawable-nodpi-v4/pink_bt_historymiss_p.png
+SHA1-Digest: garPAfp9T23F8iprWAcoQuxADSg=
+
+Name: res/drawable-nodpi-v4/bt_dial5_p.png
+SHA1-Digest: 1fb/oiCr4uMoo3p/RAMMiboLxMg=
+
+Name: res/drawable-nodpi-v4/bt_link.png
+SHA1-Digest: gVF9Ul/ZEr+vjq1XlkS+V/40hZE=
+
+Name: res/drawable-nodpi-v4/jiu_set_bg1.9.png
+SHA1-Digest: GWaCazoVHGgdgM8pC6jUcHjN+lg=
+
+Name: res/drawable-nodpi-v4/pink_bt_holdon_p.png
+SHA1-Digest: Dy90vNUFZj4QMoRqFFGqOPWAmtA=
+
+Name: res/drawable-nodpi-v4/red_bt_contactsave.png
+SHA1-Digest: FOO+l60lz1VI+GCqzrfcxKO+zeU=
+
+Name: res/drawable-nodpi-v4/pink_bt_menuav_p.png
+SHA1-Digest: UZqCOfvuaYfxrprFG+W13ze0MOY=
+
+Name: res/drawable-nodpi-v4/bt_pairsearch.png
+SHA1-Digest: qN5q/LTH8RQeiaTHio9rp84+/hs=
+
+Name: res/raw/bt_pairitem.xml
+SHA1-Digest: Ik3EbslhA3MH97fGNceLcbPAFkM=
+
+Name: res/drawable-nodpi-v4/connect_ico_p.png
+SHA1-Digest: WyfcfXp5/M1vrLFsrm0FJJbnXP0=
+
+Name: res/drawable-nodpi-v4/pink_bt_load07.png
+SHA1-Digest: TLLrNDIDSOf+QYLxzbLIxZ50jmo=
+
+Name: res/drawable-nodpi-v4/btav_stop.png
+SHA1-Digest: Spmd6S1bXEW7Cm6SbdeHPWrVLDY=
+
+Name: res/drawable-nodpi-v4/bt_pwd0_p.png
+SHA1-Digest: aRu5++Uy9ZIlF1qu/UJf+bmOkXk=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactpan_bk.png
+SHA1-Digest: 8QJO6wfrE8dSEVZ1va9ikgUwodg=
+
+Name: res/drawable-nodpi-v4/bt_historyright_bk.png
+SHA1-Digest: OT5h0YHldxxmSxZI7hqbdsRClkM=
+
+Name: res/drawable-nodpi-v4/purple_bt_menucontact_p.png
+SHA1-Digest: dN4pkWvM7qrbFUL5sXEdY563hHA=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial5_p.png
+SHA1-Digest: O33f26NyX3/DyGqzY7J3jHMO404=
+
+Name: res/drawable-nodpi-v4/purple_bt_menupair.png
+SHA1-Digest: pJnZi2fT63FtcFQHyylrH+F2Jk8=
+
+Name: res/drawable-nodpi-v4/bt_set_btn.png
+SHA1-Digest: OPaonj1HuWbqj55ZqW6AFoobuas=
+
+Name: res/drawable-nodpi-v4/red_bt_load01.png
+SHA1-Digest: lZd+nUYWkoHbwyw81VjuurlGSyw=
+
+Name: res/drawable-nodpi-v4/red_bt_historydel_p.png
+SHA1-Digest: RQnl5DJYYYI3rmD2cqzzhEj8E9U=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial2.png
+SHA1-Digest: cB6tkLJZxfDc6Jx6uUw2dPQyVz0=
+
+Name: res/drawable-nodpi-v4/red_bt_contactclear.png
+SHA1-Digest: Q9IgRjCHXLgOuAdk15PDyHSILqo=
+
+Name: res/drawable-nodpi-v4/bt_dial6_p.png
+SHA1-Digest: X10Npk+Tw9mehm8t8wUTwGp0uaU=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial4.png
+SHA1-Digest: JtjVPnPEcAa+zSIL8/49VOrFAkA=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial3.png
+SHA1-Digest: Na5H+gXgJX7/7gElIRsd36z2pKo=
+
+Name: res/drawable-nodpi-v4/red_bt_menudial.png
+SHA1-Digest: v4HtHWf5+7rOMSAaCqhdspJnjzs=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi0.png
+SHA1-Digest: 5qgYg/yUW4BZAysLfkU0QsFzUBE=
+
+Name: res/drawable-nodpi-v4/purple_btav_next_p.png
+SHA1-Digest: l4iguxENjoxX3MjJU7xCtE9PT0A=
+
+Name: res/drawable-nodpi-v4/pink_bt_menudial_p.png
+SHA1-Digest: +ocnxIuTJUgJVIqhcsWQdOelPdc=
+
+Name: res/drawable-nodpi-v4/bt_load11.png
+SHA1-Digest: DL2BOZl4xasUXvHoE/hZSxXcAFA=
+
+Name: res/drawable-nodpi-v4/red_btav_stop_p.png
+SHA1-Digest: YAHASapLstEVgsYXxVmBatIhYNY=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial6_p.png
+SHA1-Digest: vaRc4vXKS71Leu9STHuGTUC37cc=
+
+Name: res/drawable-nodpi-v4/purple_recsound_btn.png
+SHA1-Digest: gEQLqW4BEiRvcNWbVx+EZ/Pf9/c=
+
+Name: res/raw/bt_popphonemicset.xml
+SHA1-Digest: qoArP1Z6NbRJC5ylGBe4r8i8ZBY=
+
+Name: res/drawable-nodpi-v4/blue_bt_cut_p.png
+SHA1-Digest: L6S3569p4Z19IBeZK67leo/tWa8=
+
+Name: res/drawable-nodpi-v4/bt_load03.png
+SHA1-Digest: SPwVBF0YModapAalxCMCPtpsZak=
+
+Name: res/drawable-nodpi-v4/purple_bt_holdon_p.png
+SHA1-Digest: gJuwfz8JlOEwFfJvl04+hFT6thU=
+
+Name: res/drawable-nodpi-v4/red_bt_historyin_p.png
+SHA1-Digest: nX0I+fskovn/pDDKdawmzKa6pIU=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial3_p.png
+SHA1-Digest: 4IgPcicaXfMmn6WU8QcifBp1WYk=
+
+Name: res/drawable-nodpi-v4/blue_bt_menudial_p.png
+SHA1-Digest: 4mHDafh4dm6S7BuFugjejYPU9fA=
+
+Name: res/drawable-nodpi-v4/blue_bt_historylist_bk.png
+SHA1-Digest: gwlnoq/s/YIdeEFlEwUHOufzv1E=
+
+Name: res/drawable-nodpi-v4/blue_bt_load02.png
+SHA1-Digest: PLjiEMezewaqNmpwcEuJrTWLnt8=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi2_p.png
+SHA1-Digest: YWaUhyDOQ/gvSRBaDci+BVjzrnE=
+
+Name: res/drawable-nodpi-v4/bt_keyboardhide_p.png
+SHA1-Digest: lymN3NrSHPRiwqYNUd4KRJfn82o=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial9.png
+SHA1-Digest: QNT+gcj8s1xQ/NCS7e25acyRHmc=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_switch_p.png
+SHA1-Digest: RkMTvfxJynxFznamPfWVMfe6K7Y=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial3_p.png
+SHA1-Digest: oez4Xo79xIwDCxwnJOFGAcwrVYc=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial5.png
+SHA1-Digest: FKkekzr2nsQLkeZuQR9OtsWszgA=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial2.png
+SHA1-Digest: J3hTgtB5TMXukMxXMbGLx7yDSyE=
+
+Name: res/drawable-nodpi-v4/red_bt_navi1.png
+SHA1-Digest: tpTyhF3ts4iaPHs0soBXBnODzF8=
+
+Name: res/raw/bt_poprecsound.xml
+SHA1-Digest: wTEbK8ovX9nUiJ4nn2cnaw7Rv+c=
+
+Name: res/drawable-nodpi-v4/pink_bt_holdon.png
+SHA1-Digest: 52LLjfTzSkWj+Mil/FBXF91rG5Y=
+
+Name: res/drawable-nodpi-v4/red_bt_navi0_p.png
+SHA1-Digest: PUBEbguZ3h22IFY55kXf+siJAn0=
+
+Name: res/drawable-nodpi-v4/purple_bthistory_bk.png
+SHA1-Digest: PjS81Q/mRntsdTiXnJ7ccEo3xsk=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial6.png
+SHA1-Digest: FIK0krElartZXCqU+ogg4QDgH6s=
+
+Name: res/drawable-nodpi-v4/pink_recsound_btn.png
+SHA1-Digest: dd+6UBs3H5SluCm3SCQYtfHrvJI=
+
+Name: assets/fonts/ystextlight.otf
+SHA1-Digest: RbP8YQHudDkFRUHM3ZBXeXoUooE=
+
+Name: res/drawable-nodpi-v4/pink_bt_navikeyshow_bk.png
+SHA1-Digest: a5b9TW/xxQhr2FswX7P5i8famLg=
+
+Name: res/drawable-nodpi-v4/purple_bt_history_bk.png
+SHA1-Digest: tE7fxLSgaZQ2kpWlTpeOAlRV8oA=
+
+Name: res/drawable-nodpi-v4/red_bt_historyout_p.png
+SHA1-Digest: 0uQcWPulQAfWh3PWiyQlxZaj2vA=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd3.png
+SHA1-Digest: K2bQPrNEdF+5r0hXHC5W07otbHo=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_bk.png
+SHA1-Digest: xjm4gh552WZTmF6FYbscVyiJsrY=
+
+Name: res/drawable-nodpi-v4/purple_bt_icocontact.png
+SHA1-Digest: j3pv1HzDORbcaNjTYzbCXcvGWmY=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial0_p.png
+SHA1-Digest: PjqCI3hrO29aM6QOcRED8lKMr6w=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial6.png
+SHA1-Digest: CIycq4fmIb8qdayzCRBR3C7Q3kU=
+
+Name: res/drawable-nodpi-v4/seekbar_p.png
+SHA1-Digest: 9sRLjNcJCUc+IpTxdfAFa9wMkyk=
+
+Name: res/drawable-nodpi-v4/blue_bt_voiceswitch_p.png
+SHA1-Digest: qE7HjaXhPBBIPYqUBIprLyOBdy4=
+
+Name: res/anim/right_in.xml
+SHA1-Digest: ox5Mor5d+MPCfBlSyTwTjDAGk/Y=
+
+Name: res/drawable-nodpi-v4/bt_navi5.png
+SHA1-Digest: e112BrQDiIZ/NZ+Uj1kTkM5vaKo=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial5.png
+SHA1-Digest: 12tqYDpeLNcoL23xJCTfJI9E3Jk=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactsave_p.png
+SHA1-Digest: /4wpxKL2oYTHFSSmTi62X0ioxD4=
+
+Name: res/drawable-nodpi-v4/purple_bt_navisound_p.png
+SHA1-Digest: 47fdaGr0B1jIN52jyje2wZ8AsL8=
+
+Name: res/drawable-nodpi-v4/purple_bt_navix_p.png
+SHA1-Digest: xESekmPyWrSo12DgMySpiXY+8Fs=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyclear_p.png
+SHA1-Digest: pKyDp2/eRKAb89J356slM94mUPg=
+
+Name: res/drawable-nodpi-v4/bt_navix_p.png
+SHA1-Digest: 70NWW0dTKSF2wEkXPbucudgGa4Y=
+
+Name: res/drawable-nodpi-v4/pink_bthistory_bk.png
+SHA1-Digest: ggTyWfxYEmNBbJ//3PQbsBuj4oQ=
+
+Name: res/drawable-nodpi-v4/bt_historyclear_p.png
+SHA1-Digest: g8nkcvGZAM6YfNLiQHljXcihnAQ=
+
+Name: res/drawable-nodpi-v4/red_bt_navi4.png
+SHA1-Digest: dUMQfPPijHRa1MLkBBe9yjihRmQ=
+
+Name: res/drawable-nodpi-v4/red_bt_historylist_bk.png
+SHA1-Digest: 88b+ostpBcbSutesmT1wx0KrOQw=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyout.png
+SHA1-Digest: o4Agpi/tqpMUTRZSvBzr4TmGKkY=
+
+Name: res/drawable-nodpi-v4/purple_bt_menurecord_p.png
+SHA1-Digest: 12wxVK9mQFEUnA+g2yXh7EnvHv0=
+
+Name: res/drawable-nodpi-v4/pink_bt_load06.png
+SHA1-Digest: pSdDQdPSvgIzQ9yWkrTV6f3iVYI=
+
+Name: res/drawable-nodpi-v4/switch_off.png
+SHA1-Digest: rH1oNTtn7mRD++2WledKDf1rJm8=
+
+Name: res/drawable-nodpi-v4/blue_bt_link_p.png
+SHA1-Digest: 9MRE1rmOXn1GKv/1M/1BtVAIBdw=
+
+Name: res/drawable-nodpi-v4/purple_bt_keyboardshow.png
+SHA1-Digest: GZlEblWz3fDbZAP2oAVWm6/2wVg=
+
+Name: res/drawable-nodpi-v4/bt_contactclear_p.png
+SHA1-Digest: bVN/TokQizdHNaehQ4+Uoakl4ys=
+
+Name: res/drawable-nodpi-v4/purple_bt_pairlink_p.png
+SHA1-Digest: HwR0dRVp5IDx86v0oXQKU9ac5Z8=
+
+Name: res/drawable-nodpi-v4/blue_btav_prev_p.png
+SHA1-Digest: PWVsLjr9abSJUT08tJIY9Ku/SgE=
+
+Name: res/drawable-nodpi-v4/red_bt_dialhang_p.png
+SHA1-Digest: bkTPwDnmzyXA1gCVeI+v7eLdqYw=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd9.png
+SHA1-Digest: ctYZwpDSIEVKZ1ndX7FEt6qLAvk=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_switch.png
+SHA1-Digest: UiqTwp7s8ymwW0aK+LR2LZUDhxs=
+
+Name: res/drawable-nodpi-v4/red_bt_history_bk.png
+SHA1-Digest: VP+tgVHvEqvCsRGY+8oRo364g9w=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial3.png
+SHA1-Digest: GoHa6swOgyOeDPWQruPDPTzRxlU=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial1.png
+SHA1-Digest: fB/mrjo+Zplf02U7QnEgIe/P4Ao=
+
+Name: res/drawable-nodpi-v4/red_bt_historymiss_p.png
+SHA1-Digest: c1ksbE29oRQ9b8DHQ62mdYG+2Lc=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial2_p.png
+SHA1-Digest: daAx4EYbDRNc4cPBOdivLwn7pWg=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyleft_bk.png
+SHA1-Digest: Dx8o5VmEYIdW7WKflfVywij/aCg=
+
+Name: res/drawable-nodpi-v4/purple_bt_set_btn.png
+SHA1-Digest: y3dDZby2qGv1s7d3SQHIKIhl+uM=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi4_p.png
+SHA1-Digest: y7N1oRMaGwjO3eygQUMfNitwLrc=
+
+Name: res/drawable-nodpi-v4/red_bt_historyclear_p.png
+SHA1-Digest: WTJyxiImOjPGzsl2eU3tb9hE78A=
+
+Name: res/drawable-nodpi-v4/purple_bt_load08.png
+SHA1-Digest: IoW32fFaWmYWuqY03pM6ISM2NP0=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd7.png
+SHA1-Digest: BmLlKGv6hidaPuZdYkeYuLpK770=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial7_p.png
+SHA1-Digest: vDuImdIMb3vflV2dAW8ymlmbz6Q=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial8.png
+SHA1-Digest: ch6dS/yAZFtY+6i/ZzQ7oHGwUFs=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dialx_p.png
+SHA1-Digest: 5eimGPG1RihXffjvmTf2pS1Kc9E=
+
+Name: res/drawable-nodpi-v4/bt_itemdial_p.png
+SHA1-Digest: Kkpt12X4aeab3Q8wm9ygt9Hkku0=
+
+Name: res/drawable-nodpi-v4/bt_dial8.png
+SHA1-Digest: wYkWb1ojxyOt+w7q0++w5r6t71Q=
+
+Name: res/drawable-nodpi-v4/purple_switch_pointer.png
+SHA1-Digest: 7wAq/pGwUyZA7jfA0w9F/gsTTsE=
+
+Name: res/drawable-nodpi-v4/red_bt_navij.png
+SHA1-Digest: iqCnlzr2ERjDrbRDdp1lEWKUzhw=
+
+Name: res/drawable-nodpi-v4/red_switch_off.png
+SHA1-Digest: 5frkLpmj/EQVSvtKcdToVsfTJ9o=
+
+Name: res/drawable-nodpi-v4/blue_bt_menuhistory.png
+SHA1-Digest: x7YdZUQ5Ftu8ObVVgi7Cx3AJL98=
+
+Name: res/drawable-nodpi-v4/pink_btav_right_bk.png
+SHA1-Digest: m+y3PZjHK9K0pRetUUvroiIe4hU=
+
+Name: res/drawable-nodpi-v4/blue_btav_right_bk.png
+SHA1-Digest: cry5/WGBLuZ7OODdIMEF7MDQoAE=
+
+Name: res/drawable-nodpi-v4/bt_menuset_p.png
+SHA1-Digest: D59/9KWdAUsnd3k+1ZJN1f7BLp8=
+
+Name: res/raw/bt_menu.xml
+SHA1-Digest: vN5RoOR5iLT4fNkDqXuazBom5H4=
+
+Name: res/drawable-nodpi-v4/pink_bt_navihang_p.png
+SHA1-Digest: CPVIVVERDIRTW0n4oVRr3NjkL4s=
+
+Name: res/drawable-nodpi-v4/bt_icooutcall.png
+SHA1-Digest: 27w6dHBbTQ27U8KBQpC51r5bJbs=
+
+Name: res/anim/pop_suspend_hidden.xml
+SHA1-Digest: V76Uawp82xtk/t4NyditjKqYbac=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi9.png
+SHA1-Digest: ShSRQNhy6TdnOone8wk29V5b1XY=
+
+Name: res/raw/conf_screen.xml
+SHA1-Digest: N64ozHSsnAMFJ6qecb12znHGwwQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial6.png
+SHA1-Digest: vtEPTdOXhFQuiI6K7qYvyYWI7TE=
+
+Name: res/drawable-nodpi-v4/red_bt_navix_p.png
+SHA1-Digest: sDaX/2fGOZik7jTwDi+HomrQEsY=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial8_p.png
+SHA1-Digest: xt9+eHi/jM30bvxQL4RiynicyxY=
+
+Name: res/drawable-nodpi-v4/blue_bt_historydial.png
+SHA1-Digest: CExPu1wDugqYDa0hx4IleQQEn9M=
+
+Name: res/drawable-nodpi-v4/red_bt_dialdial_p.png
+SHA1-Digest: Gc8T75Z5loVrbusd3qOnDvx3zkQ=
+
+Name: res/drawable-nodpi-v4/blue_btav_playpause.png
+SHA1-Digest: a+LPvM+aUBl2kGHP0YCjBgHu2v0=
+
+Name: res/drawable-nodpi-v4/red_bt_navi2.png
+SHA1-Digest: olH4FycpbeCzGyWRs3h4AZOREhw=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial7.png
+SHA1-Digest: +pDbXIN4exoK1l1od8qceP+9JOs=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd9.png
+SHA1-Digest: geXRmB76E9mRJyBIJPk4n5CFHrc=
+
+Name: res/drawable-nodpi-v4/blue_back.png
+SHA1-Digest: PE9KctIsYqDmjZTvGJQmduTBCKw=
+
+Name: res/drawable-nodpi-v4/purple_bt_navidial.png
+SHA1-Digest: RJ0X8aEMzcZnYheD3/Idp3yvQ0A=
+
+Name: res/drawable-nodpi-v4/blue_bthistory_bk.png
+SHA1-Digest: LfXk8Q794PtcjBikhCgtAwKl6PE=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial1.png
+SHA1-Digest: t567GCYMxQD6nlou5cSSEjFEHFs=
+
+Name: res/drawable-nodpi-v4/bt_navi6.png
+SHA1-Digest: HiR4ZrbC7tV7XntGBzkD8P+svYc=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial4.png
+SHA1-Digest: qrXP1DYYuVBny7SCMN/kIz5UZBI=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi0.png
+SHA1-Digest: bDxOZGJU/UVDmeFeNjYGP3kHAUg=
+
+Name: res/drawable-nodpi-v4/purple_bt_menuav.png
+SHA1-Digest: UiPBG30m7wC2Gav1Btw6/tZRmi4=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi9_p.png
+SHA1-Digest: CRFN/fYYfc9z6SbT9/+4Ayx9/CY=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi9.png
+SHA1-Digest: 7d4ziEYTfRIoho5f2Mof1DZ5Jss=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd2.png
+SHA1-Digest: y5jJ1j1/uz7VQavOysRSsCrFffQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd3_p.png
+SHA1-Digest: MxJVM3g1FPVwOIMFjDSIQOda+1A=
+
+Name: res/drawable-nodpi-v4/blue_bt_menuhistory_p.png
+SHA1-Digest: vFvbuxf6LP+lPXSBsCk9x81Z6Ew=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial4_p.png
+SHA1-Digest: ep2vALUFlFAutuzHH/M0iQjc/yU=
+
+Name: res/drawable-nodpi-v4/pink_contact_edit.png
+SHA1-Digest: o+JrxXruNQbmuJ7dAVyUwXQepTc=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyout_p.png
+SHA1-Digest: mGSwDlUUt8y7RgfwvB/TgO2gKyM=
+
+Name: res/drawable-nodpi-v4/bt_bk.png
+SHA1-Digest: wfrSGFJ31cTGyZhSfaoMjHOub0Q=
+
+Name: res/drawable-nodpi-v4/bt_contactpan_bk.png
+SHA1-Digest: 3MjdW5kVYG/beiSKHR7RGtK2OS0=
+
+Name: res/drawable-nodpi-v4/bt_dialico_bk.png
+SHA1-Digest: 4VGP4PK+7vGb214MxtlncMbE+9k=
+
+Name: res/drawable-nodpi-v4/pink_bt_menuset.png
+SHA1-Digest: 2iYcGIT/pWV+09wxEs51SReo9Aw=
+
+Name: res/drawable-nodpi-v4/blue_bt_navix.png
+SHA1-Digest: jQikgZFOMLOcBps1nXUeC9F+A3A=
+
+Name: res/drawable-nodpi-v4/pink_bt_pairlink.png
+SHA1-Digest: Aib9QLxw252VlLzTaB3J6mkfdc4=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi7_p.png
+SHA1-Digest: 0+ncslVounjQri+KxGugJW36K+A=
+
+Name: res/drawable-nodpi-v4/bt_menucontact_p.png
+SHA1-Digest: HIIWwJ+IZcU72wnKqGXzrnKeOD4=
+
+Name: res/drawable-nodpi-v4/red_bt_contactdown.png
+SHA1-Digest: +hY5+F3J3NCqjlou5949mggDLWs=
+
+Name: res/drawable-nodpi-v4/red_bt_menupair_p.png
+SHA1-Digest: PoOhAQHESH4e5U90IbLWeKxxM0g=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd8.png
+SHA1-Digest: ttvIh9uFGeHvQIca5ClYSMfDZEE=
+
+Name: res/drawable-nodpi-v4/red_bt_menuset_p.png
+SHA1-Digest: 4kWrkBIcbyIzvdik0El0g4QFtvk=
+
+Name: res/drawable-nodpi-v4/bt_keyboardhide.png
+SHA1-Digest: KcueAraEz70R13MUpI7ewFjji1M=
+
+Name: res/drawable-nodpi-v4/blue_bt_itemdial.png
+SHA1-Digest: aYh0Rp6E+6pRfCwopwimsqF+LsU=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd4_p.png
+SHA1-Digest: rpLZOdi3CoXth6tS1MLVnNzCOUk=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd6_p.png
+SHA1-Digest: w84/oVhMVVUsL678xunt5GTnj+w=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialhang_p.png
+SHA1-Digest: 0uKLala2HCt0yH7J2cbBgqKPRAI=
+
+Name: res/drawable-nodpi-v4/purple_bt_editcontact_btn.png
+SHA1-Digest: CT/pElF0M77TMfs2EdYaN1mD/rE=
+
+Name: res/drawable-nodpi-v4/blue_bt_keyboardhide.png
+SHA1-Digest: FuulknNAaGFfs3SU+0Iu0kzRPew=
+
+Name: res/drawable-nodpi-v4/bt_dial9.png
+SHA1-Digest: OZKAc4KJQk3FNKZWSlGVTc5LQho=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dialj.png
+SHA1-Digest: MYGORxRCjJfgZjM6zMoBw+xf7Jo=
+
+Name: res/raw/bt_dial.xml
+SHA1-Digest: zSsoQU4vK0dVaI5DpSlY60SGbrg=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial5_p.png
+SHA1-Digest: dI+ah0KkyTiGJiO6oqk6GTxU7Jc=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialj_p.png
+SHA1-Digest: 1y0BoNIQcT8WK1FQ5seOB3W77Xw=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd5_p.png
+SHA1-Digest: 8u7sGxNKLlQBwtHylL7Xcnp7j2E=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd8.png
+SHA1-Digest: Qw9gO0SYWUyK/juZ89Cfr1b9uYQ=
+
+Name: res/drawable-nodpi-v4/bt_dialtxt_bk.png
+SHA1-Digest: wfiIGMeJqIMIzJnjT00Vgj67CfQ=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_accept.png
+SHA1-Digest: O5ImBwqkKlg9IaYDke8dpdzKkNA=
+
+Name: res/drawable-nodpi-v4/purple_bt_navix.png
+SHA1-Digest: npNrEBbGSiOpdyomRSBweAMHRf4=
+
+Name: res/drawable-nodpi-v4/red_btav_play_p.png
+SHA1-Digest: gmog3fT81OG5TJvtIS6VEt/844o=
+
+Name: res/drawable-nodpi-v4/red_switch_on.png
+SHA1-Digest: UL3rCqDAF76XlDikvcmSMh0TdhE=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi8_p.png
+SHA1-Digest: 2yBnLuixRFneGRt5IYnWfZwKdn4=
+
+Name: res/drawable-nodpi-v4/pink_recsound_bk.png
+SHA1-Digest: dC9AWhwRrLnjb2YBl+aIM/7mELI=
+
+Name: res/drawable-nodpi-v4/blue_bt_navihang_p.png
+SHA1-Digest: AEfKNzwJvswzMp3eZse1Zv77OLk=
+
+Name: res/drawable-nodpi-v4/purple_bt_load09.png
+SHA1-Digest: Ar308rF4rrOX7cI4fpFGSNWq3kg=
+
+Name: res/drawable-nodpi-v4/purple_switch_off.png
+SHA1-Digest: GjRHOuAA9xu83GDZhiWps/L7zkM=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyin.png
+SHA1-Digest: n9L9kp+7l+mHreNdhFqW+PmsA+0=
+
+Name: res/drawable-nodpi-v4/purple_bt_historymiss_p.png
+SHA1-Digest: jR0vqSn2xluzDoL/vhIHrVLQTLg=
+
+Name: res/drawable-nodpi-v4/purple_bt_menucontact.png
+SHA1-Digest: 8xevf5U0pct1APlwW415sYWuUlc=
+
+Name: res/drawable-nodpi-v4/bt_load04.png
+SHA1-Digest: dm6on5gyM810dN4pbL841n6bKsY=
+
+Name: res/drawable-nodpi-v4/bt_set_btn_p.png
+SHA1-Digest: WcsjEo7SXlCCds2O9LfK72MZXQs=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd_tv.png
+SHA1-Digest: EY9fh7+uVBYeB5pBbCM7eP8g6sY=
+
+Name: assets/ru_search_tone.wav
+SHA1-Digest: jFPUqEEt21ACBXaaU0fqNzGEiqk=
+
+Name: res/drawable-nodpi-v4/bt_load10.png
+SHA1-Digest: kBpKRp/p0Yqc30owNyXI1pxAn3Y=
+
+Name: res/drawable-nodpi-v4/bt_bookdel.png
+SHA1-Digest: af4l0MDYvKk2jgPJ7LXR6IWzHxo=
+
+Name: res/drawable-nodpi-v4/purple_back_p.png
+SHA1-Digest: y7ZEFg9GJeDaWhLVUG7vh9LIQiA=
+
+Name: res/drawable-nodpi-v4/blue_back_p.png
+SHA1-Digest: A1X5A7XsSb3mdJqkdg0jjHk9HrM=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial2.png
+SHA1-Digest: tg7xjnXOKC38H6wUF1IWhPD+woo=
+
+Name: res/drawable-nodpi-v4/pink_bt_menucontact_p.png
+SHA1-Digest: G3P2dimP8Y8mZoWqzaVyW+n3yHc=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_switch_p.png
+SHA1-Digest: +nZtVT5vdQX6FHq745MXbOXAlrM=
+
+Name: res/drawable-nodpi-v4/pink_bt_load05.png
+SHA1-Digest: Y8cRLW5sTcks934qT+tMKCk7v3A=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd9_p.png
+SHA1-Digest: c8isifKEoITjMHVO1AZgSAcKyBA=
+
+Name: res/drawable-nodpi-v4/pink_bt_historydial.png
+SHA1-Digest: JS4bvRkYuo38nt9TFT+YTUq2338=
+
+Name: res/drawable-nodpi-v4/blue_bt_navitxt_bk.png
+SHA1-Digest: YjsbaBRcBXB/LG+3kJXZ6tUiN2I=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialdel.png
+SHA1-Digest: a0R/vXzvrqnEKXTvHN5WexkUDnc=
+
+Name: res/anim/left_out.xml
+SHA1-Digest: L56zWAQ3jjoyiVIRJ/UISFLhU1A=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dialx.png
+SHA1-Digest: dc6t1bLUcZ62TX+EhB7qWfqU7XI=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial6_p.png
+SHA1-Digest: 1NPTyXYJNS6toUAsuOf2QggeP6w=
+
+Name: res/drawable-nodpi-v4/purple_bt_menuav_p.png
+SHA1-Digest: VwHqAOPtlvIHE7PwZ9InuXWQYQ8=
+
+Name: res/drawable-nodpi-v4/jiu_set_bg0.9.png
+SHA1-Digest: lGnBnLTCzDzWh0XWxc5f+L6j8sw=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd1_p.png
+SHA1-Digest: XO2p/hfLskvi71DRN8I1t3/ox24=
+
+Name: res/drawable-nodpi-v4/red_bt_dial4_p.png
+SHA1-Digest: qYVvae55MaWqeIiOMTqC16WpCsk=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyin_p.png
+SHA1-Digest: cikkXi5URiH8WRNpv5whktqXUCI=
+
+Name: res/drawable-nodpi-v4/blue_bt_set_editbk.png
+SHA1-Digest: E4g0ckU+QWUpNhJYpkQohgEgWJ0=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial0.png
+SHA1-Digest: 3M46tlrmCrbvwdjVog4AgZNsAyo=
+
+Name: res/drawable-nodpi-v4/pink_bt_load12.png
+SHA1-Digest: ChXCxmWRmJVh9GLwkF//kfBocgY=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd0.png
+SHA1-Digest: xl7M+o42WOcaRrfgWGqtn65XXRQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial6_p.png
+SHA1-Digest: 1WikjZVwUlLPK3THNyKVMwfp46A=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi5_p.png
+SHA1-Digest: /qEZykydvkF8+hDazTfEwsuGZxE=
+
+Name: res/drawable-nodpi-v4/purple_bt_contact_bk.png
+SHA1-Digest: XemsWo3xWA8xxpWm+BZn/98ET6g=
+
+Name: res/drawable-nodpi-v4/blue_bt_talking_bk.png
+SHA1-Digest: Fs76LvfzoZsk7IUo5OldpmLIR+0=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dialj_p.png
+SHA1-Digest: nXDWtjGoOYKTmjgvKfPqwEuVKdY=
+
+Name: res/drawable-nodpi-v4/red_bt_menuhistory_p.png
+SHA1-Digest: 9KxYFUqB7JTknp2AuCsknUUBNWY=
+
+Name: res/drawable-nodpi-v4/red_bt_navi3_p.png
+SHA1-Digest: 0myIe7+NskgTLFfYq13eFoBdCKQ=
+
+Name: res/drawable-nodpi-v4/red_bt_navihang.png
+SHA1-Digest: IHOyNnuJaLGVWafNB+ibFBrPJu0=
+
+Name: res/drawable-nodpi-v4/bt_menuline_bk.png
+SHA1-Digest: qPCHymA9xyEo1gqeOHzH9kBARks=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial2_p.png
+SHA1-Digest: h8JZMOSE8hoEGvtyqURb9In0P+w=
+
+Name: res/drawable-nodpi-v4/red_bt_paircut.png
+SHA1-Digest: El7W5avvJr47+Y82iO0B0Yi/r/c=
+
+Name: res/drawable-nodpi-v4/pink_bt_keyboardshow.png
+SHA1-Digest: nlfQOGMKCPp2xYxqS8YOXK9cN1E=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial8.png
+SHA1-Digest: MmECxRN5EObQl8D1ed5XwPX20Co=
+
+Name: res/drawable-nodpi-v4/red_btav_pause.png
+SHA1-Digest: +eNn+wdGZQvA2AooiJc2TuLxi5c=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactpan_bk.png
+SHA1-Digest: sYRpRf1iRhvDpbyvreaijE3TDPw=
+
+Name: res/drawable-nodpi-v4/sw_mask.png
+SHA1-Digest: gEknz/DSAHzF9mkntbcXyoUKTDY=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: utKmkfVAXsgN4OsRjWvwhOBfFz4=
+
+Name: res/drawable-nodpi-v4/blue_btav_next_p.png
+SHA1-Digest: uPT4liC0Yb4iwQpSMTOcsiBiXMQ=
+
+Name: res/drawable-nodpi-v4/bt_pop_dialj.png
+SHA1-Digest: APAOLhxqC6Gs/gX4/mtNthrXBBY=
+
+Name: res/drawable-nodpi-v4/purple_btav_play_p.png
+SHA1-Digest: +1VLRI9FlSn6sStb4uvPx67pehU=
+
+Name: res/drawable-nodpi-v4/bt_navix.png
+SHA1-Digest: 8/1eDSa/t2zvCS25wsesLvUEuuM=
+
+Name: res/drawable-nodpi-v4/purple_bt_paircut_p.png
+SHA1-Digest: ABGZHaX5HsdSuEQ8rGQQjbxIrMc=
+
+Name: res/drawable-nodpi-v4/seekbar_popbk.png
+SHA1-Digest: i9gYaTXBZkMNLPZLIbfPEDdZDuQ=
+
+Name: res/drawable-nodpi-v4/red_bt_set_editbk.png
+SHA1-Digest: UImsA6ANHreqEMV1oJg7lQuwcCk=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial0.png
+SHA1-Digest: aE1bIk6xC1vMHxI0/exckJzbJF4=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial7.png
+SHA1-Digest: Hc7fiUZtYg9xwSlUCdnLy2ENoZ0=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial7.png
+SHA1-Digest: Hwshva5LPZTKDOUeg9LPnEykJog=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dialj.png
+SHA1-Digest: kkeOFOyeVDtpsueApurQqVXNmX4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6oApYdvu1x6pBqUGzP836/lqbQ0=
+
+Name: res/drawable-nodpi-v4/bt_navij.png
+SHA1-Digest: uW2gB7Hc+oNPNHZO5phaO6nXSsg=
+
+Name: res/drawable-nodpi-v4/pink_switch_pointer.png
+SHA1-Digest: aMkdM2vhM0Jxaam/5znPCLZi790=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial1_p.png
+SHA1-Digest: OnxizdEAFtTQ2eTjHQkBDaP5n94=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial0.png
+SHA1-Digest: Izu5FcsxQu3U7brgYKljLXAWBLg=
+
+Name: res/drawable-nodpi-v4/blue_bt_load08.png
+SHA1-Digest: sdTAcXrd7Ciay1/3iIVJ/Ev2fbg=
+
+Name: res/anim/pop_btgps_show.xml
+SHA1-Digest: tPBcVO+eBhzWLNoKNuqkLWUlp9w=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactsearch_p.png
+SHA1-Digest: yYdZNxQ24nvXohJ9i0vTOVIaQeM=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactsearch_p.png
+SHA1-Digest: Hvf/zdOUVSMDHZZ/DBJdARMvCpw=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial1.png
+SHA1-Digest: Tyv13qCyckHd8OLOLS3aOM/IkFc=
+
+Name: res/drawable-nodpi-v4/purple_btav_next.png
+SHA1-Digest: ohnbt930sgnQ6VT57Zfc6G2ka+Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial5.png
+SHA1-Digest: 2+lpmJo9aj8H3zq0Jpgr/PuPKpk=
+
+Name: res/drawable-nodpi-v4/blue_bt_linkcut.png
+SHA1-Digest: j3Sy7fwWwx0YbCrPa7VIW/gvINA=
+
+Name: res/drawable-nodpi-v4/red_bt_dial9_p.png
+SHA1-Digest: T3tSdQRe9S9tPyCpiQggf+dEwrQ=
+
+Name: res/drawable-nodpi-v4/red_bt_menucontact_p.png
+SHA1-Digest: djw29gbBFB/D4I+0TjSArJQCvU8=
+
+Name: res/drawable-nodpi-v4/bt_pairsearch_p.png
+SHA1-Digest: XfGTLUTUAi9vrvrm9YuRur2ynyk=
+
+Name: res/drawable-nodpi-v4/bt_dial6.png
+SHA1-Digest: NPvtYDtM0jA5Cs3OARx2okq1/L4=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd7_p.png
+SHA1-Digest: CmViu5ysGcFeKkAF8xOyDbmy6Fg=
+
+Name: res/drawable-nodpi-v4/blue_btav_stop.png
+SHA1-Digest: EZfvg48w2Au9P9lzQR3GjNny9cE=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd_tv.png
+SHA1-Digest: uaKOswlsehDAZ8Fj6j3/zp9wngI=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd6_p.png
+SHA1-Digest: 7PIB/AOAAEVpltKafJ7z+OUzaew=
+
+Name: res/drawable-nodpi-v4/bt_holdon.png
+SHA1-Digest: m2KsaLzPWLlqWH8PRyWDZql4zdg=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi0_p.png
+SHA1-Digest: GahyH3Mwxr0KIagRLA49omEdW4w=
+
+Name: res/drawable-nodpi-v4/purple_bt_navitxt_bk.png
+SHA1-Digest: MC50fx2GdNBmAuo3bigz19+h1oM=
+
+Name: res/drawable-nodpi-v4/bt_dialj.png
+SHA1-Digest: ecdP1dEWU/OgBLgY42THrblnKx4=
+
+Name: res/drawable-nodpi-v4/purple_bt_connect_bk.png
+SHA1-Digest: Zc8UCi8dIjcItK+plobVRXSY2to=
+
+Name: res/drawable-nodpi-v4/bt_load05.png
+SHA1-Digest: 8Sg+68s8MfY9jsq288JW0ZbUZi4=
+
+Name: res/drawable-nodpi-v4/purple_btav_play.png
+SHA1-Digest: MmqzT7aKFg1PPF58JVQoUaBO6A4=
+
+Name: res/drawable-nodpi-v4/purple_bt_keyboardshow_p.png
+SHA1-Digest: JE171t1iiLsvVD6TCjs4KgnRPLU=
+
+Name: res/drawable-nodpi-v4/red_bt_navi6.png
+SHA1-Digest: WDRYI92MKo7nlbDH5SIJK5s8mjg=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial7_p.png
+SHA1-Digest: 41mrHNQ/hxZBGcywT2yYur9Y+14=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_hang_p.png
+SHA1-Digest: AmIJox63gNTrAU56t91Wqbg1ES8=
+
+Name: res/drawable-nodpi-v4/red_bt_contactsearch.png
+SHA1-Digest: cwJIefRY+gsHOVqIy5X4oZ1c8mc=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial8_p.png
+SHA1-Digest: C9X+dyNRJhngnkPZMUY1ecQ/9h0=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd_bg.png
+SHA1-Digest: q5LnWFOzUcJt7m9ylgBn1LGAUhM=
+
+Name: res/drawable-nodpi-v4/pink_bt_load04.png
+SHA1-Digest: 66JWjpXWqI1s4ozROzrtFEvh7E4=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd2_p.png
+SHA1-Digest: F+YdWJmD2XRPx3rO55JGjaa8Scc=
+
+Name: res/anim/loading_anim.xml
+SHA1-Digest: t0MytWl91glBFpLtJkW68opxuC8=
+
+Name: res/drawable-nodpi-v4/blue_bt_contact_bk.png
+SHA1-Digest: xlmPyAoDgB9WKY1aCIHOT2Z+rW8=
+
+Name: res/drawable/bt_icon4.png
+SHA1-Digest: 4YyJfzotqXCNj4ZqqHnYmDGzaVo=
+
+Name: res/drawable-nodpi-v4/pink_bt_historydel_p.png
+SHA1-Digest: LjAPG0VPrkVKpEsxSon9c/jzVRQ=
+
+Name: res/drawable-nodpi-v4/blue_recsound_btn.png
+SHA1-Digest: O1/i1iKl2WZLq+WlP0n6jQLFDh8=
+
+Name: res/drawable-nodpi-v4/blue_bt_load01.png
+SHA1-Digest: exIO8sW89zq5HGNicKofAdkjaQA=
+
+Name: res/drawable-nodpi-v4/red_bt_dial6.png
+SHA1-Digest: XC6955U2L7WViJO5jQmDXTKy8nI=
+
+Name: res/drawable-nodpi-v4/purple_bt_historydial_p.png
+SHA1-Digest: 2q/YRRLgpqsHlxBrRr2A+rfj6dQ=
+
+Name: res/drawable-nodpi-v4/bt_pairclear.png
+SHA1-Digest: Hx/tZs0lWuHR+JosyO0I/ZNDFe0=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd9_p.png
+SHA1-Digest: keNSx2y6ia0hxn+hGCTl3FMYUZM=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_accept_p.png
+SHA1-Digest: PsOLH+QlgjborOvohIgUQjrm4EM=
+
+Name: res/drawable-nodpi-v4/red_bt_dial7.png
+SHA1-Digest: 111lFmC0jAo8IJBV3sxy410SuzM=
+
+Name: res/drawable-nodpi-v4/red_bt_load12.png
+SHA1-Digest: aDU4CRyAgfvU0PHq/Hi6TUg4wwc=
+
+Name: res/drawable-nodpi-v4/pink_bt_load03.png
+SHA1-Digest: ANXmNxwkYfEE8KHY0sjvPjBIjwo=
+
+Name: res/drawable-nodpi-v4/blue_bt_linkcut_p.png
+SHA1-Digest: 05p6yjDC4z+5ro/d62KqvuKcdDs=
+
+Name: res/drawable-nodpi-v4/bt_dialx_p.png
+SHA1-Digest: Ub28c1fsjUppvVWcLFIK8UyufiA=
+
+Name: res/drawable-nodpi-v4/seekbar_thums.png
+SHA1-Digest: 65zM5vUnm8n64oVFRh7Y3PyusUk=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialx.png
+SHA1-Digest: BI3cl3J8Kb6cJAsoA1l6MOTfjSc=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dialtxt_bk.png
+SHA1-Digest: pfcNqiZry9Lb+nTtWChrddslick=
+
+Name: res/drawable-nodpi-v4/bt_navidial_p.png
+SHA1-Digest: L5P25ELqaSd+wW2UqiCyzo9q/gc=
+
+Name: res/drawable-nodpi-v4/thirdphone_hang.png
+SHA1-Digest: aijfPYN6Fmt9NVpsPvUFuFqZQ2w=
+
+Name: res/raw/bt_av.xml
+SHA1-Digest: OREzljmuD3E/4SpIY4/6g18XFHg=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial9_p.png
+SHA1-Digest: NeiVaqTVU/9lonGKr/NwkdlN75c=
+
+Name: res/drawable-nodpi-v4/purple_bt_keyboardhide_p.png
+SHA1-Digest: YK4xL5gFaAsBwtvRYR0mn746jJs=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dialx_p.png
+SHA1-Digest: J4Vl5e0y9KZ6y2bYH7h41nXgK0k=
+
+Name: res/drawable-nodpi-v4/bt_itemdial.png
+SHA1-Digest: T9z4ejnlYCPiHi/GpkQwZhlG5z4=
+
+Name: res/drawable-nodpi-v4/pink_bt_linkcut_p.png
+SHA1-Digest: GwuEOf5315UfAOOCjbShEcr0OJA=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd8_p.png
+SHA1-Digest: duf54HPUqT1XQbIJR6MnCo58x5I=
+
+Name: res/drawable-nodpi-v4/blue_bt_menucontact_p.png
+SHA1-Digest: Vhh7HGcNwAMAGg6Fcr35oEQnnpQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd0_p.png
+SHA1-Digest: n9po9B/jOtJDMph/YjVlS9HVVcQ=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial6.png
+SHA1-Digest: +Cy9WGAgf/Kyk5D7iIAOBfYCa+8=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dialx_p.png
+SHA1-Digest: RkxE/YBX4TZQ8QaNIsidYd0q5HE=
+
+Name: res/drawable-nodpi-v4/blue_bt_navikeyshow_bk.png
+SHA1-Digest: jdnFbz1i62FcccXR6P0diWlK8Qc=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: /S2mpo+XV0VSmFwIEKPAmnXw/fQ=
+
+Name: res/drawable-nodpi-v4/red_bt_contactsave_p.png
+SHA1-Digest: v10ie5uMBB2OklaZH8rc6T8BTAg=
+
+Name: res/drawable-nodpi-v4/bt_pwd9.png
+SHA1-Digest: GwzRT0QvYOftTq+M6gc4p589m2s=
+
+Name: res/drawable-nodpi-v4/purple_history_item_p.png
+SHA1-Digest: BSPalGfc0buXI8cXE8EDZ2ajNmQ=
+
+Name: res/drawable-nodpi-v4/red_bt_navisound.png
+SHA1-Digest: ttuczjzrjGj9fYxnljrz/bYpqV8=
+
+Name: res/drawable-nodpi-v4/pink_bt_editcontact_bk.png
+SHA1-Digest: wsSyXiWk3fyU0lg5+LsxR8wu968=
+
+Name: res/drawable-nodpi-v4/btav_pan_bk.png
+SHA1-Digest: 45RFOyMqB8pQRevV5NYscWcoxcM=
+
+Name: res/drawable-nodpi-v4/red_bt_dialdel.png
+SHA1-Digest: sktZZ6UsadEMDkNUTT2UaG8/Jfo=
+
+Name: res/drawable-nodpi-v4/bt_navi0.png
+SHA1-Digest: +xBimgR+KGgDW8ro7qpp2YwLakU=
+
+Name: res/drawable-nodpi-v4/red_bt_keyboardhide_p.png
+SHA1-Digest: 4GB+sQ6AgTyiRVBX9YuFDnv8n/0=
+
+Name: res/drawable-nodpi-v4/bt_linknameico.png
+SHA1-Digest: D/raR4OriqA5AaLZDaSGyGoiLO0=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial6.png
+SHA1-Digest: pay6NuCrq5tqeeSWRtUq4SzNCxE=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialnum_bk.png
+SHA1-Digest: pSdtAuXk5DCyAF1WaK9pglaUSTw=
+
+Name: res/drawable-nodpi-v4/bt_dial7.png
+SHA1-Digest: F1q78cWa7lEHFdx+yJBjvibrF+0=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial1_p.png
+SHA1-Digest: xaiZgoD9kGd1VNnYliY8ImV3sXg=
+
+Name: res/drawable-nodpi-v4/pink_bt_voiceswitch.png
+SHA1-Digest: jcApylKQhDIZSFR1cX/9QgY6yeU=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi3_p.png
+SHA1-Digest: 9U1AqE9/5KuH7UUmeFtVGab/Er4=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwddel.png
+SHA1-Digest: gyPuJJqOo/xMrYIb0Dh20DObJ9U=
+
+Name: res/drawable-nodpi-v4/btav_play.png
+SHA1-Digest: WZsJRnXvm+g8iBL3mPnuPk++3Uw=
+
+Name: res/anim/bottom_out.xml
+SHA1-Digest: xPpB4SRKNyyOqpBBgZ4Sd5nUqgM=
+
+Name: res/drawable-nodpi-v4/blue_bt_load07.png
+SHA1-Digest: wnQ6330g80BTIKYOxhzgAzPINTY=
+
+Name: res/drawable-nodpi-v4/red_bt_navi5.png
+SHA1-Digest: QJI1n5TBwHMJSKzpy85TqxUY6aE=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial4_p.png
+SHA1-Digest: 93sNZZqKIvPJ9wA1GwkI3QYXOKM=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial0.png
+SHA1-Digest: 6idSBaGUnOk0nLBSr2ErUa1jGCw=
+
+Name: res/drawable-nodpi-v4/blue_btav_prev.png
+SHA1-Digest: kSAADep0LIhDWVkJKk77cPh8SS0=
+
+Name: res/raw/bt_popbt_num.xml
+SHA1-Digest: GoT8y9WCTNL2DTRp7p6d7zWAl4s=
+
+Name: res/drawable-nodpi-v4/blue_btav_playpause_p.png
+SHA1-Digest: f2y7DIAXmpI5Z7BflAqFIF2Pbz4=
+
+Name: res/drawable-nodpi-v4/blue_bt_navikeyhide_bk.png
+SHA1-Digest: 9gVOjwDfbxVnPeK5u/ZQREA/37Y=
+
+Name: assets/fonts/ystextregular.otf
+SHA1-Digest: eoi9HaSCxNFQSSTxO6ufzo8BFBY=
+
+Name: res/drawable-nodpi-v4/blue_bt_historydel_p.png
+SHA1-Digest: 7rXX08J4lXRDs+yVa8/lIqzvfss=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyleft_bk.png
+SHA1-Digest: y21Hho/YjXzvOrwuQyGo1rf32EU=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialnum_bk.png
+SHA1-Digest: R2Fp3jwDwryyw37nmPoGj6YwrQE=
+
+Name: res/drawable-nodpi-v4/bt_load06.png
+SHA1-Digest: 5qZDYSTrH2iSBV3aYuWqnP4PjMw=
+
+Name: res/raw/bt_popdel.xml
+SHA1-Digest: q5bo2yqG/Bvod1rgJfHggqluCq4=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialdel_p.png
+SHA1-Digest: p/IDHMuMXHDChENsSRXG+0kGALE=
+
+Name: res/drawable-nodpi-v4/purple_bt_itemdial.png
+SHA1-Digest: l6acW6xOJMb9ilPQhPLbMCRSNO8=
+
+Name: res/drawable-nodpi-v4/blue_btav_stop_p.png
+SHA1-Digest: DZCrU+kEQuCQomhPk0ui8tltui8=
+
+Name: res/drawable-nodpi-v4/purple_bt_menupair_p.png
+SHA1-Digest: /u3XEg9UrzSe7DikLwa7QMDByJU=
+
+Name: res/anim/pop_history_menu_hidden.xml
+SHA1-Digest: FwfkngXddMHImUeyM7d6XDS7AJI=
+
+Name: res/drawable-nodpi-v4/red_bt_navi1_p.png
+SHA1-Digest: G6LwxzqQa5LlNdYK2LFDeWaKTgg=
+
+Name: res/drawable-nodpi-v4/red_recsound_btn_p.png
+SHA1-Digest: JhFewj3c/ePhl/fuYGAE1EkgSIU=
+
+Name: res/drawable-nodpi-v4/bt_dialdial_p.png
+SHA1-Digest: A/jQs5pR3qvIFs32G5dTdJBqd7M=
+
+Name: res/drawable-nodpi-v4/pink_bt_menucontact.png
+SHA1-Digest: UF4tdk+y5guSMAvv4ZARFqkKsE0=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial4_p.png
+SHA1-Digest: 7KXO5WTYWcqSyU2O2E6bNnJUWYM=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialx.png
+SHA1-Digest: 1hWGobWuX1nBKBTPziE8hDII9wY=
+
+Name: res/drawable-nodpi-v4/bt_menu_bk.png
+SHA1-Digest: MflptyzLp8xHob2MdN/yebe1JfM=
+
+Name: res/drawable-nodpi-v4/red_bt_load11.png
+SHA1-Digest: HpaOMF8wLOMCYTAwXMmMhtliYiM=
+
+Name: res/drawable-nodpi-v4/jiu_app_bk_p.9.png
+SHA1-Digest: zVZcA0etgICA+cQH213FCg++DYo=
+
+Name: res/drawable-nodpi-v4/red_btav_pan_bk.png
+SHA1-Digest: yUQLO1NGDbMi0LUWLI5vAs5MNfI=
+
+Name: res/drawable-nodpi-v4/blue_bt_menuset_p.png
+SHA1-Digest: 0Xc1ECz22+FsSlbJJrLG2+Kdb08=
+
+Name: res/drawable-nodpi-v4/pink_bt_load02.png
+SHA1-Digest: NRbfilpPeISyUBAR759vfcUqRUo=
+
+Name: res/drawable-nodpi-v4/red_bt_menudial_p.png
+SHA1-Digest: OBGdKS2CmqZj69FnNeOd9L2Dat4=
+
+Name: res/drawable-nodpi-v4/bt_contactdown.png
+SHA1-Digest: NXWzereXxKc2Hb6yNkNKH5+zdZw=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd4_p.png
+SHA1-Digest: 0yUwxvEPLRM/C36gdAILLSNXEbo=
+
+Name: res/drawable-nodpi-v4/purple_bt_menuhistory.png
+SHA1-Digest: adWENN6LM3xXEW+T7kIG/Q5JFhU=
+
+Name: res/drawable-nodpi-v4/purple_btav_pan_bk.png
+SHA1-Digest: tS8n/Z1WC7B+hZXXJkhbR/yf4TQ=
+
+Name: res/drawable-nodpi-v4/red_bt_navi8.png
+SHA1-Digest: m6Y58IAn4q8l5x0rT821xQd8dKs=
+
+Name: res/drawable-nodpi-v4/blue_bt_historymiss.png
+SHA1-Digest: D9QdsKKrcg7hZzi2MN5OrKI8obM=
+
+Name: res/drawable-nodpi-v4/bt_linkcut_p.png
+SHA1-Digest: ysudHPrYYD4eWTNMeLu14L1odlg=
+
+Name: res/drawable-nodpi-v4/contact_item_p.png
+SHA1-Digest: wN2hAzf0Lgpucdpe273Ym5B80AY=
+
+Name: res/drawable-nodpi-v4/bt_historypan_bk.png
+SHA1-Digest: FT9U3KMVh9N1drTHo/0Sl6o8D1M=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial9_p.png
+SHA1-Digest: EKTPdde6QZysUppB7OCX/ylS4jQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi8_p.png
+SHA1-Digest: jNfAdjgLSGvWvDDBlp/eBuzXh8g=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial9_p.png
+SHA1-Digest: Z3Zl0ALk6x/GtTUr6e40Vx/zMDA=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyclear.png
+SHA1-Digest: PoxVb6QId1/TEzXCRiHpy0vJcRI=
+
+Name: res/drawable-nodpi-v4/red_bt_dial8.png
+SHA1-Digest: Sv/GC50CkTAiEwEuMOqqmrP68qo=
+
+Name: res/drawable-nodpi-v4/red_bt_dial1_p.png
+SHA1-Digest: ZSibrF16mPbGh/W44hNPjcEnKb8=
+
+Name: res/drawable-nodpi-v4/purple_bt_pairclear_p.png
+SHA1-Digest: XkEE1hF+NSb2OjsRrNWOqy+mSGc=
+
+Name: res/drawable-nodpi-v4/red_bt_dial7_p.png
+SHA1-Digest: EEJkbrUHwMeL8IOUyk0fwyt4j6k=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_accept.png
+SHA1-Digest: ppqtv+JgSUOVstfC6wGI+2SLFHw=
+
+Name: res/anim/pop_suspend_show.xml
+SHA1-Digest: CMHqrSsEfWv+avh7oQjKMgPn/Vk=
+
+Name: res/drawable-nodpi-v4/recsound_bk.png
+SHA1-Digest: GKnfs62hU4hbFYK/WE8nAQ3Hpps=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_switch.png
+SHA1-Digest: 69XkDAoIs+3LHXi2yHdGeuoX8d8=
+
+Name: res/drawable-nodpi-v4/bt_dial5.png
+SHA1-Digest: Qo+VhEeD97xRY+jIxCEcg/w1L04=
+
+Name: res/drawable-nodpi-v4/bthistory_bk.png
+SHA1-Digest: ZUYLJLCz2CgaYRu4Gng8SHA6KRE=
+
+Name: res/drawable-nodpi-v4/red_bt_navi6_p.png
+SHA1-Digest: m6IEXh1+oFbockyfHNuVS0UBZFQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_history_bk.png
+SHA1-Digest: r5JDBiGdcLt9n2N4PdI29JN0/Nc=
+
+Name: res/drawable-nodpi-v4/blue_bt_load06.png
+SHA1-Digest: s9FLUvrFv+2nJWvbwMQ4T+wkFN4=
+
+Name: res/drawable-nodpi-v4/bt_pairpage.png
+SHA1-Digest: OR9sIVKBqDttdvLRqtM95lVZbnQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialhang_p.png
+SHA1-Digest: ENvEYDdfSWHQ9pUlouw2kcplty0=
+
+Name: res/drawable-nodpi-v4/red_bt_dialtxt_bk.png
+SHA1-Digest: 74KcgAjwatEMUZCMHNYLOzQMu34=
+
+Name: res/drawable-nodpi-v4/red_btav_play.png
+SHA1-Digest: GkLj4GIhv2iDmV0NZPLlXqRSHO4=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial5_p.png
+SHA1-Digest: n7SoGxlz6vkbi32nWcJCC6dZ7bw=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial8_p.png
+SHA1-Digest: /nlHhl9UzMryn+pOyE0Zne6lidI=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi7_p.png
+SHA1-Digest: wihG0qv6OZzPb+4SotLk8OfEb+0=
+
+Name: res/drawable-nodpi-v4/purple_bt_set_btn_p.png
+SHA1-Digest: 6gwtyLSm/bLxXjdLvmxB78aIG/o=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial2_p.png
+SHA1-Digest: 5Qorwl4Cqqdj67Tn7sDy/cwoWYQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_load10.png
+SHA1-Digest: qLUmqfawfO8VJxTQrckmVeWHGC4=
+
+Name: res/drawable-nodpi-v4/bt_historydel.png
+SHA1-Digest: /XukS+aDjlsLt3jZo7enMwX+z3g=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial4_p.png
+SHA1-Digest: remUsrgJgOHSQDqw7HcXzY/2kQw=
+
+Name: res/drawable-nodpi-v4/red_bt_voiceswitch_p.png
+SHA1-Digest: a681oc7H3CCa16BswrfaDT0R2nw=
+
+Name: res/drawable-nodpi-v4/purple_bt_menu_bk.png
+SHA1-Digest: pjh73uV0/noLLiLgSJzORUAm92g=
+
+Name: res/drawable-nodpi-v4/pink_bt_menuav.png
+SHA1-Digest: 3k1k2EtxavaBh4l5iguwpYbVeRs=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwddel_p.png
+SHA1-Digest: 45fvF1jeNgBbR4/IBm5Ga0ohwi0=
+
+Name: res/drawable-nodpi-v4/pink_bt_paircut.png
+SHA1-Digest: 3IyZEt54J+bQBH6X2iW2j+3D4cs=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialdial.png
+SHA1-Digest: VQfcypwKNLk70llLYjJXGe+jO/k=
+
+Name: res/drawable-nodpi-v4/bt_pwd_tv.png
+SHA1-Digest: HFAB21sQNpFXWRZkXupbNTDLXQY=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial5.png
+SHA1-Digest: xUYvtUtsozqq3U6lbVDR/0rgt2w=
+
+Name: res/drawable-nodpi-v4/bt_load07.png
+SHA1-Digest: baonv0squkvDDaCbTZH47+eQNJc=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialtxt_bk.png
+SHA1-Digest: zek99ZLaRv2xVelkRhG/LtZlt/E=
+
+Name: res/drawable-nodpi-v4/red_bt_navi5_p.png
+SHA1-Digest: toRIpCER8ToBJFeTEo3NzzLRQI4=
+
+Name: res/raw/conf_client.xml
+SHA1-Digest: ruhYl6L97naYc+ywBWEnpu/ZDpg=
+
+Name: res/drawable-nodpi-v4/bt_menupair_p.png
+SHA1-Digest: ogNaw890qjj7s0727cASb40YgPk=
+
+Name: res/drawable-nodpi-v4/btav_icopinpu.png
+SHA1-Digest: WN+bvT3Vi9w13KHXOdoYJr6dylE=
+
+Name: res/drawable/loading_dialog_bg.xml
+SHA1-Digest: nsQSC4e6HBLgBmUfsT9Ktxvl3Eg=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial2.png
+SHA1-Digest: nkKoDlInu5saDFKFPIgnGdkrVL8=
+
+Name: res/drawable-nodpi-v4/purple_bt_historydial.png
+SHA1-Digest: DAeaV4NGfVXx3uef7YtIeQec/C8=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial1_p.png
+SHA1-Digest: XkTvhZ4ekLZfTvFwcze5kTUzl9M=
+
+Name: res/drawable-nodpi-v4/bt_keyboardshow_p.png
+SHA1-Digest: HizBsqREHbR1o9eeqvy6CK4L4ck=
+
+Name: res/drawable-nodpi-v4/pink_bt_keyboardhide.png
+SHA1-Digest: eZa67tUEfBOPKJgNzf7hA6L4/to=
+
+Name: res/raw/bt_popbtavmicset.xml
+SHA1-Digest: kNiZChh0u4M7urDMUMbZDIKa74M=
+
+Name: res/drawable/bt_icon2.png
+SHA1-Digest: d5Y8YgDi5vY63jsKKMD4Y0YgaqM=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd1.png
+SHA1-Digest: B9XNrf3yG7oYrgSRwM2D7R96an0=
+
+Name: res/drawable-nodpi-v4/switch_on.png
+SHA1-Digest: xfe3TgCvIW04O2ikppRMroyrOu4=
+
+Name: res/drawable-nodpi-v4/bt_menuav_p.png
+SHA1-Digest: AtopaXYz2vjluK7SsXxr9/rlj5M=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial3_p.png
+SHA1-Digest: x+HF4c8bE6fyIcOUQQxTygGa6tI=
+
+Name: res/drawable-nodpi-v4/pink_btav_pause_p.png
+SHA1-Digest: 3lfp+5pIjQ7pD9uKptAxeiafAok=
+
+Name: res/drawable-nodpi-v4/pink_btav_prev_p.png
+SHA1-Digest: y2H6vLkn5nXnUuITTpz6sZMzx4E=
+
+Name: res/menu/bluetooth.xml
+SHA1-Digest: r3OJ9sbo6Y4OityY5RimALt5uLs=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial0_p.png
+SHA1-Digest: gBh5fq5qg5FSsmAVPiWWPFISl/w=
+
+Name: res/drawable-nodpi-v4/thirdphone_switch.png
+SHA1-Digest: FVNgewtEgDA6P3Hbzz2EajMqZp4=
+
+Name: res/drawable-nodpi-v4/bt_navi1.png
+SHA1-Digest: W1U/RVXuahF5OnDuSrQOEdije/I=
+
+Name: res/drawable-nodpi-v4/pink_bt_navij_p.png
+SHA1-Digest: yndEce/0UYzsABFf5f1T6wN2JM0=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactclear.png
+SHA1-Digest: UFQ0OdBMFrafaPRiOiM97KZclT0=
+
+Name: res/drawable-nodpi-v4/pink_btav_pause.png
+SHA1-Digest: vbmc+qJYf49HLVHVN8vs6Jqm7y4=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_switch.png
+SHA1-Digest: DELJeAshDTkMxvWX22JSKoHwfOY=
+
+Name: res/drawable-nodpi-v4/red_bt_dial2_p.png
+SHA1-Digest: xKvuASr6Ew4OnMtZXTUcQghqndc=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial9.png
+SHA1-Digest: sxD6Rg+J5YG71QE6bgVJjpC4Lno=
+
+Name: res/drawable-nodpi-v4/pink_bt_keyboardhide_p.png
+SHA1-Digest: aq5cLaV3J2TX8ybsm6xrJifXg64=
+
+Name: res/drawable-nodpi-v4/recsound_btn.png
+SHA1-Digest: 7G4CjaHb9eNK/FefOEV/MMlZhqo=
+
+Name: res/drawable-nodpi-v4/btav_playpause_p.png
+SHA1-Digest: zJdwJniiSdjZFYJ6ySJUeYH6gPE=
+
+Name: res/drawable-nodpi-v4/red_bt_editcontact_btn.png
+SHA1-Digest: ycIAY4MmdnsOjJVoNJ9bOAjZxw4=
+
+Name: res/drawable-nodpi-v4/red_bt_dial8_p.png
+SHA1-Digest: qsh3BhUVcj/MyyulZwGaFAnb5Mg=
+
+Name: res/drawable-nodpi-v4/red_bt_navi7_p.png
+SHA1-Digest: pRrhxmcZbQJHJTfkVNPn/KpE9Jw=
+
+Name: res/drawable-nodpi-v4/purple_bt_navidial_p.png
+SHA1-Digest: 7wzyczX8c+bRf/4ek+sfKF0Tic0=
+
+Name: res/drawable-nodpi-v4/blue_bt_pairlink_p.png
+SHA1-Digest: UFsrRSwoYAwCVRqpb9aicM8qjTM=
+
+Name: res/drawable-nodpi-v4/red_bt_load10.png
+SHA1-Digest: 9cfvS9Rc8CKQdqfUlIvlLQPlZTg=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial3_p.png
+SHA1-Digest: ScFZh0baPb7cCXL7WKeFlS96hAA=
+
+Name: res/drawable-nodpi-v4/bt_navisound_p.png
+SHA1-Digest: r79RJnYuL1iZL8lnB94VLiJdPnE=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyout_p.png
+SHA1-Digest: OZ9vuAWoHonArBxRaSSraEnlpm4=
+
+Name: res/drawable-nodpi-v4/bt_navihang.png
+SHA1-Digest: JO4MhL5er7BlAQ9swFIAftRsreQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial0_p.png
+SHA1-Digest: A7gSNEZp7go8t9pH63EmCsyl1C4=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial6_p.png
+SHA1-Digest: cfmSXbZvjfMxFbvPUcvqptZZ2s0=
+
+Name: res/drawable-nodpi-v4/red_bt_icocontact.png
+SHA1-Digest: 7YW9e9G1kkayEvjoyPlwTQQpa/0=
+
+Name: res/raw/bt_pop3rdphone.xml
+SHA1-Digest: veKyC0rL0/1cozPafsI87ZB7RUw=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialj_p.png
+SHA1-Digest: /xJlLNDEPuaRk9jAxajCg9IowWY=
+
+Name: res/drawable-nodpi-v4/red_bt_keyboardshow_p.png
+SHA1-Digest: K+HYNxIVjrCyJvGcd12s8YUxxdI=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial9.png
+SHA1-Digest: eCWa0lLWvzOXr4FneHV83NqFnlQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyright_bk.png
+SHA1-Digest: wUC0x9/y9WTzzG1dJY9zk89HUI8=
+
+Name: res/drawable-nodpi-v4/bt_dialdial.png
+SHA1-Digest: 7z79ppzYUkCPQgr1NM82p4RPUg0=
+
+Name: res/drawable-nodpi-v4/red_bt_navij_p.png
+SHA1-Digest: 2ykK+cvJ9euL6+Ss+xyJYlADdq4=
+
+Name: res/drawable-nodpi-v4/bt_dial4.png
+SHA1-Digest: 1gHov4EQaKQ9NGY+8C1W7x2rEDk=
+
+Name: res/drawable-nodpi-v4/red_bt_dial9.png
+SHA1-Digest: DqdzN7Qjq7HPOAqNCR6kRwXELi4=
+
+Name: res/drawable-nodpi-v4/blue_history_item.png
+SHA1-Digest: klPJbezX1tcmQ3IjF3A8yphp+qo=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd5_p.png
+SHA1-Digest: 7Cd+JyDt7Dxl4HXB0f6Ropj8J9A=
+
+Name: res/drawable-nodpi-v4/bt_navitxt_bk.png
+SHA1-Digest: YMCgbeoGlVNpM6lCAQ2koVSPt0k=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactsearch_p.png
+SHA1-Digest: xBfF7KnfQqpIg5RjSM9vI0s0Pyc=
+
+Name: res/drawable-nodpi-v4/bt_cut_p.png
+SHA1-Digest: QsRL+Yp4YQv26L7zt+iKnuNDLjA=
+
+Name: res/drawable-nodpi-v4/bt_talking_bk.png
+SHA1-Digest: XxBXxbzeIBRItKrCWwDCq4vv+vg=
+
+Name: res/drawable-nodpi-v4/purple_bt_talking_bk.png
+SHA1-Digest: UXVEfGUbmQXa4LoyWw2o0nQzaO4=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial8_p.png
+SHA1-Digest: kti1xEOOEnUtXUQ+c8ZQPjODQ3c=
+
+Name: res/drawable-nodpi-v4/purple_bt_linkcut.png
+SHA1-Digest: RUvzScrfFq4QzAfuCaPL0zJHAVg=
+
+Name: res/drawable-nodpi-v4/bt_linkcut.png
+SHA1-Digest: k6LD4CK7J6VeAxMZ/ykunG1C/pI=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd2_p.png
+SHA1-Digest: UWB+itgCDezGr+SgXlq+6ZhrN6M=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialx_p.png
+SHA1-Digest: g2e8kyVSdfMPZxr0SWvP49RxuiI=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial5_p.png
+SHA1-Digest: ZS5Bzp2oM7fC8s94+zQ7KBxfFNE=
+
+Name: res/drawable-nodpi-v4/pink_bt_load01.png
+SHA1-Digest: z7X2EEYE1b6Ic4VQ4ETb1Ci5mE8=
+
+Name: res/drawable-nodpi-v4/blue_bt_load05.png
+SHA1-Digest: DLwQamqxYARxrOs7z05bLPC/Ktc=
+
+Name: res/drawable-nodpi-v4/bt_load09.png
+SHA1-Digest: XfJyIalOMWLsGJlg197gv9quEA0=
+
+Name: res/drawable-nodpi-v4/bt_cut.png
+SHA1-Digest: EfsAUqZohYn1K54zYSzCLDQlPY0=
+
+Name: res/drawable-nodpi-v4/red_bt_dial6_p.png
+SHA1-Digest: kh3RFUbPINbzS2utDcMQEPemOYU=
+
+Name: res/drawable-nodpi-v4/red_btav_prev_p.png
+SHA1-Digest: 1trvdvSNUo4wfjbnh/6McIuPS8s=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial4.png
+SHA1-Digest: L4rpbWF82cbEqEYSWP6a2A09n+8=
+
+Name: res/raw/conf_platform.xml
+SHA1-Digest: /iHrXc8L8nPF48B/ALrl6W6/iS0=
+
+Name: res/drawable-nodpi-v4/bt_load08.png
+SHA1-Digest: PBCdGKUotSdBzNFNne8Gq1T1hAk=
+
+Name: res/drawable/toast_bk.xml
+SHA1-Digest: JTEgOyXDGVewroX3yIG+dg8tUAk=
+
+Name: res/drawable-nodpi-v4/bt_link_p.png
+SHA1-Digest: iyxbasIV68QXw84mBZymrkTlli8=
+
+Name: res/drawable-nodpi-v4/red_bt_dialj_p.png
+SHA1-Digest: n5zX4NjBoZoBXtKhJ1XSaZdgmBw=
+
+Name: res/drawable-nodpi-v4/switch_pointer.png
+SHA1-Digest: GvzIYnMTZ0j+8jdTAc8teTLKXeA=
+
+Name: res/drawable-nodpi-v4/bt_historyclear.png
+SHA1-Digest: RAux2XPIrkYSCgJG3DyqaRvL6pE=
+
+Name: res/drawable-nodpi-v4/purple_bt_load11.png
+SHA1-Digest: XNH632C2iZQLIw6f5N3QFvICGP0=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_accept.png
+SHA1-Digest: jeN6Jpnz4pIM0MlQ8DLx5115jtc=
+
+Name: res/drawable-nodpi-v4/red_btav_playpause.png
+SHA1-Digest: rOjk7072HSu3n3FK9P1JH5rrwEE=
+
+Name: res/drawable-nodpi-v4/blue_bt_navix_p.png
+SHA1-Digest: S0GVbBsVRZQarR8cUGYInoMdWk4=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial4_p.png
+SHA1-Digest: RG6o04PV2NF9k28/mzQdk4wtArw=
+
+Name: res/drawable-nodpi-v4/blue_bt_menuset.png
+SHA1-Digest: 5WpQxXX1A4fuAoiAPcI213ZhFaU=
+
+Name: res/drawable-nodpi-v4/blue_bt_holdon.png
+SHA1-Digest: Xd5zMnoHzgxuSmXb6kEA8IpPUn8=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactdown_p.png
+SHA1-Digest: pJGP0fpyGFBtG+nWbfdWVxlXNBA=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial1.png
+SHA1-Digest: Ly7EeswnbKLuNaQx/nudd0fwRzI=
+
+Name: res/drawable-nodpi-v4/thirdphone_accept.png
+SHA1-Digest: CCB21CHYEeZfR+78fFctDbjbRpo=
+
+Name: assets/connect_tone.mp3
+SHA1-Digest: 7lqAYw5mPRWZNKavi86IQDZmcj0=
+
+Name: res/drawable-nodpi-v4/bt_navi2.png
+SHA1-Digest: bwrKANF/vfYoEQpldXGCy0RTDog=
+
+Name: res/drawable-nodpi-v4/pink_bt_itemdial_p.png
+SHA1-Digest: 4xsy4Uyg65IuACwSBrmCqAYuz5w=
+
+Name: res/drawable-nodpi-v4/pink_bt_menuhistory.png
+SHA1-Digest: 6xny4sbxqGNe2DHU2g4pZ1fviR0=
+
+Name: res/drawable-nodpi-v4/bt_contactsearch_p.png
+SHA1-Digest: YgL/SfzZZtCacQihiw+e09hNES4=
+
+Name: res/drawable-nodpi-v4/pink_bt_contact_bk_p.png
+SHA1-Digest: oPLATHmnWgvGOtNRRD8D/Go+m24=
+
+Name: res/drawable-nodpi-v4/bt_dialicon_bk.png
+SHA1-Digest: xlZeXO84X2PX1xo1Bfl+gg9dVao=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd3_p.png
+SHA1-Digest: xU6gKpvlsNzP6T/bz71rGejGLug=
+
+Name: res/drawable-nodpi-v4/red_bt_navi8_p.png
+SHA1-Digest: 14yHO60HvHK4QPsIMF7RdyWQyRQ=
+
+Name: res/drawable-nodpi-v4/purple_recsound_bk.png
+SHA1-Digest: RFASfvzZlCI8nO8boOGrq0WQOLo=
+
+Name: res/drawable-nodpi-v4/bt_connect_bk.png
+SHA1-Digest: m1Bd9vnaz7UMg7ZL0ao3R7iRcbg=
+
+Name: res/drawable-nodpi-v4/purple_bt_voiceswitch_p.png
+SHA1-Digest: iuOGwsCaE6extrYybIBCnvu3IQQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_menuset_p.png
+SHA1-Digest: rS9VPUgepug4/sPwmkSZ8BkFjJg=
+
+Name: res/drawable-nodpi-v4/blue_btav_pause_p.png
+SHA1-Digest: sAS1g/uI+K4P1hKinwy4l4XBqJE=
+
+Name: res/drawable-nodpi-v4/btav_play_p.png
+SHA1-Digest: bdl8ug5Mbi/jScWO/l5eMqVe1vg=
+
+Name: res/drawable-nodpi-v4/blue_history_item_p.png
+SHA1-Digest: ySR8yGNs4YMnMGSmDqwvc+2l3tM=
+
+Name: res/drawable-nodpi-v4/pink_bt_navidial.png
+SHA1-Digest: 5wrV1GJbrepEhPHqhufzyh975G8=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial8.png
+SHA1-Digest: ii/PYkbPNmNul1OOTZMaAA+gjrQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial7_p.png
+SHA1-Digest: b0ia2t1lCrHBJAz9OC2QxPhX27c=
+
+Name: res/drawable-nodpi-v4/purple_bt_navihang.png
+SHA1-Digest: VCG5dvd4G5Pw0kKHIGXH6OAb6HQ=
+
+Name: res/drawable-nodpi-v4/btav_pinbar_bk.png
+SHA1-Digest: PXgwaLhlz2XNp9dFEhC8t2+rxuA=
+
+Name: res/drawable-nodpi-v4/purple_bt_navihang_p.png
+SHA1-Digest: FQVY1LdTbpOUpbQyyIy8GOAZEVE=
+
+Name: res/drawable-nodpi-v4/pink_history_item.png
+SHA1-Digest: CyY0IOjozgobPX+7Ggkj9/YKfmU=
+
+Name: res/drawable-nodpi-v4/red_bt_dial5_p.png
+SHA1-Digest: F0xuo75k6ulgPTluKZ/qGs2uJOI=
+
+Name: classes.dex
+SHA1-Digest: KTqhJz+17d+enW1qxMhz0b/KjQk=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi9_p.png
+SHA1-Digest: 1MYAK3zFm3+RD+clEFTHrOeOjJk=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd2.png
+SHA1-Digest: fWyGBFzqHuB5CNynzvIJrZ0Ut2M=
+
+Name: res/drawable-nodpi-v4/red_contact_edit.png
+SHA1-Digest: 7xiDe0nh8i6eFd4bJsyMEAJeRUI=
+
+Name: res/drawable-nodpi-v4/purple_bt_voiceswitch.png
+SHA1-Digest: XbgX2UO0uO3MyaeeLj1Nk8HMwds=
+
+Name: res/drawable-nodpi-v4/red_bt_navi7.png
+SHA1-Digest: zvm2hl4n5kHPwC6J1DwTlwXItEk=
+
+Name: res/drawable-nodpi-v4/bt_dial3_p.png
+SHA1-Digest: Bi/F9klJEQ+h9wGCBE0DcfqizSo=
+
+Name: res/drawable-nodpi-v4/bt_naviico_bk.png
+SHA1-Digest: Ls37SgvUcYGbqtBn+Z56vSk0aUo=
+
+Name: res/drawable-nodpi-v4/red_bt_dialdel_p.png
+SHA1-Digest: gxOGLcCMI5RRu1sZtqF6wSMmbMQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_pairclear_p.png
+SHA1-Digest: Z9MVzaSpISquokrKBvEKf6KMc5s=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactsearch.png
+SHA1-Digest: Viq3YKs2keVev5ySYzGBdQwRrPc=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd1.png
+SHA1-Digest: 8OOSvK0Y3cF15B/uI2X7hC1ZwY0=
+
+Name: pinyindb/pinyin_mapping.xml
+SHA1-Digest: TKjPYz/2etGbJ22iJIZY10PyVKQ=
+
+Name: res/drawable-nodpi-v4/bt_historyleft_bk.png
+SHA1-Digest: G6R9h7l/spbYcgsZH1vW/ie3/gg=
+
+Name: res/raw/bt_poppwd.xml
+SHA1-Digest: KBc/nR0ZzXgflk6tu2XxrFpFySA=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi4.png
+SHA1-Digest: gd4WxvIZJm16HoDGh9rEqCDlI2U=
+
+Name: res/raw/bt_popringset.xml
+SHA1-Digest: C12gP2zGgDvxTTEevejPUc38zio=
+
+Name: res/drawable-nodpi-v4/connect_ico.png
+SHA1-Digest: EoYI1HhhiEZndlqtIFWz5kjx8Pc=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial3_p.png
+SHA1-Digest: r5QBz3ffP89CD2lzn+fHqWD6ZBQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd8.png
+SHA1-Digest: UrcIi2l/PgycGPLXXp+aAGSdtJM=
+
+Name: res/drawable-nodpi-v4/blue_bt_menuav_p.png
+SHA1-Digest: W3Tl9vz6q20MNpI/nIzXbllfIzk=
+
+Name: res/drawable-nodpi-v4/red_bt_navidial_p.png
+SHA1-Digest: +7eELPh80ZuuEAf47RskHp5CBMI=
+
+Name: res/drawable-nodpi-v4/pink_btav_playpause_p.png
+SHA1-Digest: +8zYVfprpHxC33GT07p+H5nO3x0=
+
+Name: res/drawable-nodpi-v4/act_bk.png
+SHA1-Digest: 6xSBAUHrGuWKZBRICWH8CHw8Xww=
+
+Name: res/drawable-nodpi-v4/red_bt_historyright_bk.png
+SHA1-Digest: JobuQtxQbtgcHPkm2gXBas3H86w=
+
+Name: res/drawable-nodpi-v4/red_bt_menuav_p.png
+SHA1-Digest: y0wAS3n4AZC+bOgKmSCw/I8/y3I=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi7_p.png
+SHA1-Digest: VKOmcie2EOadySan5GLN+J6vDmc=
+
+Name: res/drawable-nodpi-v4/red_bt_itemdial_p.png
+SHA1-Digest: CzsVIjH78aIOSwjiTThDL4azZ/M=
+
+Name: res/drawable-nodpi-v4/bt_historyin_p.png
+SHA1-Digest: NKh+poE3a21WZxVpCFGSo6bAKH0=
+
+Name: res/drawable-nodpi-v4/bt_navi7_p.png
+SHA1-Digest: 0WnXV5hIS2RDAeHba0iTjltx1N8=
+
+Name: res/drawable-nodpi-v4/purple_bt_load03.png
+SHA1-Digest: VIlQeqWjUh0fv3DwEDxYb48vWUY=
+
+Name: res/drawable-nodpi-v4/btn_on_p.png
+SHA1-Digest: YSPVnH1Te/2ai6iyItDeQFrHFnw=
+
+Name: res/drawable-nodpi-v4/purple_btav_playpause_p.png
+SHA1-Digest: zDIzfJirGRTVwxHBSwl69FFW6sM=
+
+Name: res/drawable-nodpi-v4/bt_dial3.png
+SHA1-Digest: tbV43AwdcpLKa5Z/uJ70zFeb054=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialx.png
+SHA1-Digest: gzNFWBhcg2LNcnf7gZVFwajV0lQ=
+
+Name: res/drawable-nodpi-v4/bt_contact_bk.png
+SHA1-Digest: PVU2d/44+I4+eV/SEDRDLHhcohI=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial8_p.png
+SHA1-Digest: JljSKMNUhEKMssBQ/czUHprfHPI=
+
+Name: res/anim/pop_pin_show.xml
+SHA1-Digest: RzcbGi+r4jeWgc3W5fhVTB3awvA=
+
+Name: resources.arsc
+SHA1-Digest: gs7hEOlEgKT6u9XLpATJlbw5e0M=
+
+Name: res/drawable-nodpi-v4/red_bt_dial2.png
+SHA1-Digest: m3oycY7Gup8Tr1gOyisgW9i/tzI=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial0_p.png
+SHA1-Digest: dHP1CiYmdlSOVeil1fxkAhH24kc=
+
+Name: res/drawable-nodpi-v4/purple_switch_on.png
+SHA1-Digest: We0VVw9V5WViHFEQSl0tE/ft+fI=
+
+Name: res/drawable-nodpi-v4/pink_btav_stop.png
+SHA1-Digest: aXIpNB2ZDU1b3fUlvCVsfmbCwxk=
+
+Name: res/drawable-nodpi-v4/bt_dial8_p.png
+SHA1-Digest: r922STOX47TZiJWP07fRSL7jjRA=
+
+Name: res/drawable-nodpi-v4/sw_frame.png
+SHA1-Digest: WYpt7Nx5nE0L+WtznRW0zhGdXRA=
+
+Name: res/drawable-nodpi-v4/blue_btav_pause.png
+SHA1-Digest: QTuAgPTulUmCLDESb5Xsxi6+BYo=
+
+Name: res/drawable-nodpi-v4/red_bt_contactpan_bk.png
+SHA1-Digest: NT832kypIzdJL5t6NiCct4e8B5g=
+
+Name: res/drawable-nodpi-v4/red_bt_dial3_p.png
+SHA1-Digest: DfyRJOhvVPCL8/4+oM/SCAR7rFs=
+
+Name: res/drawable-nodpi-v4/blue_bt_paircut.png
+SHA1-Digest: dlT61auYnb6VDaQb113d72vbRNs=
+
+Name: res/drawable-nodpi-v4/red_bt_load09.png
+SHA1-Digest: OAEq2F/UFc5ZXX4zsWsZv/TqzGk=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial8_p.png
+SHA1-Digest: KKqbMktEsvyDa3fJ0d73DTIXi8w=
+
+Name: res/drawable-nodpi-v4/bt_pwd7.png
+SHA1-Digest: f60yKAR8qeM2uAr2KNpQlx+IK2s=
+
+Name: res/drawable-nodpi-v4/pink_bt_navix_p.png
+SHA1-Digest: vMRBq4qV93POGDG0gLBvNr41fUs=
+
+Name: res/anim/pop_contacts_menu_hidden.xml
+SHA1-Digest: 8YfSfZGl29srHyvkZdE90BUaUBQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial1_p.png
+SHA1-Digest: zF3jsYdeL8gLNFYAwrdIvSNiE4g=
+
+Name: res/drawable-nodpi-v4/thirdphone_switch_p.png
+SHA1-Digest: qih/XzCaMSiU0bNVYMmNQ2L0B7U=
+
+Name: res/drawable-nodpi-v4/bt_dialhang.png
+SHA1-Digest: +0rkeR8xwgfClYk4GemV1cbk+xk=
+
+Name: res/drawable-nodpi-v4/red_bt_keyboardshow.png
+SHA1-Digest: N3A60oFKytjQgMbLTsI/VwPH4iI=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi5.png
+SHA1-Digest: g9Yt+LVjH2Sq8oGmiQbsRGZim1Y=
+
+Name: res/drawable-nodpi-v4/purple_bt_menuhistory_p.png
+SHA1-Digest: bgdUB3qzxOSheZJbRZKng3kk7I4=
+
+Name: res/anim/delete_btn_hide.xml
+SHA1-Digest: 4n+q5DE72cfqiQPTHBXR19Pv4tM=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd0.png
+SHA1-Digest: cdEkwuNoYuqqnrb84Qhyj+1Vcdg=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactclear_p.png
+SHA1-Digest: AddfQvR7rY66AXi2UnhCLVIWpc4=
+
+Name: res/drawable-nodpi-v4/purple_bt_load12.png
+SHA1-Digest: 4u28PzF5+D8zN9uRuH0duZHKzoE=
+
+Name: res/drawable-nodpi-v4/pink_bt_menudial.png
+SHA1-Digest: laJy4c6CZPJsWiUUhCFIvmxp75w=
+
+Name: res/drawable-nodpi-v4/red_bt_pairlink.png
+SHA1-Digest: EwCyUg7FxSqbOrDtHnnIalBF8WE=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi8.png
+SHA1-Digest: 1VJ7XpzRkltqrIi8Y9APk+69XI0=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial1.png
+SHA1-Digest: 3h4Ge6M+iKFjXEjnwD+gGU368iA=
+
+Name: res/drawable-nodpi-v4/red_bt_contact_bk_p.png
+SHA1-Digest: AjGCZTfvIHa5QZJKOYbHWCBR2FA=
+
+Name: res/drawable-nodpi-v4/red_bt_navidial.png
+SHA1-Digest: 0pbHH7Wptb9nVkcWa791DiRvhwk=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_hang.png
+SHA1-Digest: FCtQc/7g2g10w3KmxPEpPS6nj20=
+
+Name: res/drawable-nodpi-v4/red_bt_menurecord_p.png
+SHA1-Digest: IWkmyJPUJ8L73lQ0zEcSqz8A/9s=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactdown.png
+SHA1-Digest: k10KtU3OurcOKaqKbb3JLPfYLKA=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd1_p.png
+SHA1-Digest: +lrtjDYDJJrz55nxt6GxPq+4CN4=
+
+Name: res/raw/bt_dialitem.xml
+SHA1-Digest: aIyA6VloXxAVwdWX0uNRHHVBYJE=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd3.png
+SHA1-Digest: DNAtOu2n/y8yGy06gx+y1tNqE34=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd0_p.png
+SHA1-Digest: 6AGg5nHj6PonyIgV/3uczmsLKKg=
+
+Name: res/drawable-nodpi-v4/bt_set_editbk.png
+SHA1-Digest: MbIa1H5Uc6HIl/VwXiYsMetZ5oQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialj.png
+SHA1-Digest: nBZDwfJk/BQeIVtQi6FBA02TDq8=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial2_p.png
+SHA1-Digest: 6qyEwskt66OxYyVZTr7BPdys30g=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi2_p.png
+SHA1-Digest: 7rDIkBdapTM/9t6KzInxsNRRcAE=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwddel_p.png
+SHA1-Digest: M+YeaoVKXOXDIFBylGeBn/0/c44=
+
+Name: res/drawable-nodpi-v4/blue_contact_edit.png
+SHA1-Digest: 9PnUU2ITIJSS2CjRKOaGwXGHcrY=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi5.png
+SHA1-Digest: 2AmB33QzlyCFX+3uD3gR8xgW9mE=
+
+Name: res/drawable-nodpi-v4/bt_icolink.png
+SHA1-Digest: ip15jAHq3LJG6s0PzdY6+sVwBpE=
+
+Name: res/drawable-nodpi-v4/purple_bt_menurecord.png
+SHA1-Digest: e1r6S16/nsyRnBrDsJRpp4LW8W8=
+
+Name: res/drawable-nodpi-v4/pink_bt_pairlink_p.png
+SHA1-Digest: G7iwzf+wukmKgICvhbdSoYnB0kI=
+
+Name: res/drawable-nodpi-v4/purple_bt_menuset.png
+SHA1-Digest: sKnLmI1N4vaS9rxaJXMzlRRJUrs=
+
+Name: res/drawable-nodpi-v4/red_bt_navi9.png
+SHA1-Digest: M6+QKVpLb4DLGAJSu5PvI05P/cA=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dialj_p.png
+SHA1-Digest: k4hfqjYUZYc92w0VhbW9YrPArtY=
+
+Name: res/drawable-nodpi-v4/bt_dial2.png
+SHA1-Digest: WzEQA7ilA0jsPRIr+n5VhLlyVmU=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd_bg.png
+SHA1-Digest: r2Uck3MFZOK9dOW7XU6SQ4ct/4U=
+
+Name: res/drawable-nodpi-v4/red_bt_contacttxt_bk.png
+SHA1-Digest: LDlziGW3OGW1O4fnfy4LlyaVIEg=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd9.png
+SHA1-Digest: EuIPdVhUlW+OykHi8anbyjO8wGk=
+
+Name: res/drawable-nodpi-v4/pink_bt_historyclear_p.png
+SHA1-Digest: dOF214UHDSSoVFZfGnIfASSmcyc=
+
+Name: res/drawable-nodpi-v4/pink_bt_icocontact.png
+SHA1-Digest: /uPV9gTv/Rr6lV6/l+lPO6JW0tQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_itemdial.png
+SHA1-Digest: CyhGlcLiHkWqKT3d9biIQJgCAss=
+
+Name: res/drawable-nodpi-v4/blue_bt_historydial_p.png
+SHA1-Digest: yMi8MjQXikNJ8dZPGkTfTTiyPww=
+
+Name: res/raw/bt_historyitem.xml
+SHA1-Digest: T9E9cniI9atfLPE1enpnptlm/ao=
+
+Name: res/drawable-nodpi-v4/red_btav_right_bk.png
+SHA1-Digest: z3OimCHv2U0MZiWmULDz3RbbcX8=
+
+Name: res/drawable-nodpi-v4/blue_bt_editcontact_btn_p.png
+SHA1-Digest: ikxGpQV7pxljNOAR1vehXbW/s3U=
+
+Name: res/drawable-nodpi-v4/bt_pwd_bg.png
+SHA1-Digest: RBsRg8W++8YHvxo+UDJ8Y8UUfZ8=
+
+Name: res/drawable-nodpi-v4/bt_pwdok.png
+SHA1-Digest: PDiPFm9B2Iq/wi5KFlXNd9jP9jI=
+
+Name: res/anim/scale_in.xml
+SHA1-Digest: VN6svYQA+K95mPSSa/P+a2GRiYg=
+
+Name: res/drawable-nodpi-v4/blue_bt_icocontact.png
+SHA1-Digest: kSveP6Qf8EYGOlQETTNfEFAJ//c=
+
+Name: res/drawable-nodpi-v4/bt_menuhistory_p.png
+SHA1-Digest: oeNn5dAH3PcRnzSAP4Pmk0VeSnY=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialdial_p.png
+SHA1-Digest: WmQ/TBCzU5v2WnrYO8tdcCwZfRo=
+
+Name: res/drawable-nodpi-v4/purple_history_item.png
+SHA1-Digest: Qs2l8O48fgSTDe5DM7mGfw0Dnk0=
+
+Name: res/drawable-nodpi-v4/red_bt_dial3.png
+SHA1-Digest: b4hknPm3iKVvZYx+tDK1aUd7Rys=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialdel_p.png
+SHA1-Digest: 87M0JFuFlVfv9s5WYoB0oW+57qk=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactsave.png
+SHA1-Digest: 23xqHyum+prFHR6F1Tiws2u3TrU=
+
+Name: res/drawable-nodpi-v4/bt_linewhite2.png
+SHA1-Digest: osj3LqKN02vTbatS+ZPVzZs0D+M=
+
+Name: res/drawable-nodpi-v4/blue_bt_historyright_bk.png
+SHA1-Digest: DlxUEePyQCwZWoDhkMQZp8fGVmI=
+
+Name: res/drawable-nodpi-v4/jiu_bk_frame.9.png
+SHA1-Digest: DqIQbldEwkrLbK1KjzL6+E0P4e0=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd2.png
+SHA1-Digest: x3+w9mLxUnoGQdeQ0T/CksVBmFs=
+
+Name: res/drawable-nodpi-v4/pink_bt_menuhistory_p.png
+SHA1-Digest: +DF2kubZk/ldL83kU3UZ7pMA14M=
+
+Name: res/drawable-nodpi-v4/purple_contact_item_p.png
+SHA1-Digest: K1bc1PS5wBSA1wRxmoJ+8KAqV8Q=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi4_p.png
+SHA1-Digest: qemNmEGT3gOePAvWHrSvHFafNnw=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd1.png
+SHA1-Digest: qJHvQzufz8iNJup0riIh999GkUc=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd9_p.png
+SHA1-Digest: pGSlnJVatnk5nPHDf8f2e0Hy/u4=
+
+Name: res/drawable-nodpi-v4/red_contact_item.png
+SHA1-Digest: RJC0hUtaHfEB4Wbx5RU1tuAxWG4=
+
+Name: res/drawable-nodpi-v4/red_bt_navi2_p.png
+SHA1-Digest: c8E1Ph6V0hYvPkiGPSFsvinQucg=
+
+Name: res/drawable-nodpi-v4/pink_bt_linkcut.png
+SHA1-Digest: Kmmw9L2F6Vs8ENCgWkhgqagZ07A=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd3_p.png
+SHA1-Digest: t5VhPjkKGfn3O/L41mqfuQMjff8=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial5_p.png
+SHA1-Digest: I7RLuWFLMpKsA/BXyarxPn7u32U=
+
+Name: res/drawable-nodpi-v4/recsound_ico_mic.png
+SHA1-Digest: 2j+idU7K2FwZVEz6UhY4C+aWnYE=
+
+Name: res/drawable-nodpi-v4/pink_bt_menupair_p.png
+SHA1-Digest: SEC4Q/qtJ1T8yjYcGIvBd6sS0mk=
+
+Name: res/drawable-nodpi-v4/purple_bt_load02.png
+SHA1-Digest: JDNELEljfOLJfhZkK5mF9GNYSSQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd_tv.png
+SHA1-Digest: 1UfCCojsMQYZsyOXp7WzSjcaMMk=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd4.png
+SHA1-Digest: wlboCVAoAulUv4+1D0X78hGTKlA=
+
+Name: res/drawable-nodpi-v4/bt_menuset.png
+SHA1-Digest: eVKeYnZub3t/MS/hnrFj7MDIP7E=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial6_p.png
+SHA1-Digest: 0DZoGZfGfhhdUzzj6qD3OMAQkk0=
+
+Name: res/drawable-nodpi-v4/blue_bt_menupair_p.png
+SHA1-Digest: y6N0sKjtpzBBHNSbq7dB3xP2RoQ=
+
+Name: res/drawable-nodpi-v4/bt_dialdel_p.png
+SHA1-Digest: HYAdBsQBZMQgZnJYeppBJ9REVLk=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd2_p.png
+SHA1-Digest: emuY5C9S2rJ8jIsVZkjccook3S8=
+
+Name: res/drawable-nodpi-v4/bt_contactsave.png
+SHA1-Digest: KUkyZ4VJJJysEUV0tgGEOtZe24Q=
+
+Name: res/drawable-nodpi-v4/blue_bt_pairlink.png
+SHA1-Digest: D2i2MNqu72KHvTWvfZUUxJqb+yg=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial5_p.png
+SHA1-Digest: BjUoNQyVbcRw1JspH4YDK2TgkVU=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi9.png
+SHA1-Digest: VB3q0kf7BWZ+F9WC/nLQELYSkf4=
+
+Name: res/drawable-nodpi-v4/blue_bt_navidial.png
+SHA1-Digest: bf2Pwv2iZHrbnhF0GkG2Ep7ec1E=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwddel.png
+SHA1-Digest: wCJNv4l2FrOrGutiiHQNvz7La9E=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial2.png
+SHA1-Digest: 7SlXLugP0T46olBhSuUeuftBzX4=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactclear.png
+SHA1-Digest: MEG9cdqbPA3OJf7oK6Mlc9Ng7rY=
+
+Name: res/drawable-nodpi-v4/pink_bt_voiceswitch_p.png
+SHA1-Digest: Q7zSV44gUcYzBm6x/wNka67vVkQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial0_p.png
+SHA1-Digest: p5d5I9xpTgvPTOuMQwAxiofbofM=
+
+Name: res/drawable-nodpi-v4/red_bt_pwddel_p.png
+SHA1-Digest: hCqRjGUFolhnUp7KTJZ+ER70rVg=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi1_p.png
+SHA1-Digest: rSoWQPB4Jo1IWDn+g/W1V9sqCFc=
+
+Name: res/drawable-nodpi-v4/bt_navi9.png
+SHA1-Digest: Z+DWGaTr7un9FIeYYt58MZXcaP8=
+
+Name: res/anim/scale_out.xml
+SHA1-Digest: k+mNeYBuLVulSQrM8oD5JzE2saU=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialhang.png
+SHA1-Digest: nEIgtLlQp31T7+7WJ5Xl/0ceV5Q=
+
+Name: res/drawable-nodpi-v4/pink_bt_load10.png
+SHA1-Digest: E9Z151MVGOOfox/mhd9wOBCNluQ=
+
+Name: res/drawable-nodpi-v4/bt_dial1.png
+SHA1-Digest: Mz4XpwlXA+oxqii1n4q6dtXYVeY=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialhang.png
+SHA1-Digest: gxA5qX4tY6xTjfyoWAYgLn1yzpc=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd4_p.png
+SHA1-Digest: uk2UMB2vh0W8kDwJok8kYv/nitU=
+
+Name: res/drawable-nodpi-v4/purple_bt_navisound.png
+SHA1-Digest: PKkWf1S7kxEDFpjktho73EFdQ+U=
+
+Name: res/drawable-nodpi-v4/bt_bookdel_p.png
+SHA1-Digest: ALHsVL3yWhcV8l6gvAAjgEAzipI=
+
+Name: res/drawable-nodpi-v4/blue_btav_pan_bk.png
+SHA1-Digest: 7RMU5x6HffClDgNaX0lKXcGAMms=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd8_p.png
+SHA1-Digest: VqA5NVgRH++aEGU2awADeBLiDf4=
+
+Name: res/drawable-nodpi-v4/blue_bt_holdon_p.png
+SHA1-Digest: vMAFAvu/Qrh/y3EauRktS0Z10oI=
+
+Name: res/drawable-nodpi-v4/bt_icocontact.png
+SHA1-Digest: 13/Tfptr2dD4Dq5FENp4C2AeiEA=
+
+Name: res/drawable-nodpi-v4/red_act_bk.png
+SHA1-Digest: XFbLAQIYnBTEfCdV8APR9sX8QzA=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial9.png
+SHA1-Digest: lNA6ZGBHGsuFv3FP8ykya+N9eKk=
+
+Name: res/anim/pop_contacts_menu_show.xml
+SHA1-Digest: vYMblsJh90b68IWPb+FTOsvz8xM=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial6_p.png
+SHA1-Digest: fPu/EZV1Z/BKTjwHRBQ6Nu6n8U8=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi5_p.png
+SHA1-Digest: eX8z4e3Ze3xbysySKtM4zzAUfSI=
+
+Name: res/drawable-nodpi-v4/bt_icomisscall.png
+SHA1-Digest: 7cVUqXStRcy2ImqoTtvuTG0Zs5s=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dialj_p.png
+SHA1-Digest: pfPu9NJiGwrum+WFmb99OUG5yuI=
+
+Name: res/drawable-nodpi-v4/history_item.png
+SHA1-Digest: klQlPouVOJJhTWhMbi11CmUKqDk=
+
+Name: res/drawable-nodpi-v4/bt_pwd8.png
+SHA1-Digest: ct6emD1QfoxmLJOmTZCObr/sIGg=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactdown_p.png
+SHA1-Digest: kjcv0ITXhnDjd4urXSz39IWOIDA=
+
+Name: res/drawable-nodpi-v4/pink_contact_item.png
+SHA1-Digest: U1qiTXiSCbWbzo20Han05EkT1o0=
+
+Name: res/drawable-nodpi-v4/red_bt_dialdial.png
+SHA1-Digest: tt39HKUGXgEPdD4WQRxZpL3zJGc=
+
+Name: res/drawable-nodpi-v4/pink_bt_historyout_p.png
+SHA1-Digest: 8pgeihScIJh/Mr9bYwLJijef+LA=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_bk.png
+SHA1-Digest: AWcDERt+p1EFdMcVRlP/InrsPI0=
+
+Name: res/anim/bottom_in.xml
+SHA1-Digest: tWQFDQ8LPd3xmzLCpueYbo5mUjE=
+
+Name: res/raw/bt_pair.xml
+SHA1-Digest: dD+4KPZyCSe0Z4IC+vzp6tyR7Ds=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dialtxt_bk.png
+SHA1-Digest: qAVqqc3FjQ7cHo8SYNX04JLH4f8=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactclear_p.png
+SHA1-Digest: jUw/hH/y+QZLNJzSj9Zngt7O3Mk=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial9.png
+SHA1-Digest: eessS2+igyrVzolPRrUMHcqcIj8=
+
+Name: res/drawable-nodpi-v4/bt_contactdown_p.png
+SHA1-Digest: mcoF/Atn//4Xh5u8ALQDPp6jU1c=
+
+Name: res/drawable-nodpi-v4/purple_bt_editcontact_bk.png
+SHA1-Digest: dXEd0Pnv4WxMHV4UdsDN7YpVk80=
+
+Name: res/drawable-nodpi-v4/red_bt_linkcut_p.png
+SHA1-Digest: lqGHs/Y4ZWCQEFW0RdapEGkxTxc=
+
+Name: res/drawable-nodpi-v4/red_bt_menuav.png
+SHA1-Digest: VRHPLVwWBpo5O5CMENsNkjh10Fc=
+
+Name: res/drawable-nodpi-v4/red_btav_pause_p.png
+SHA1-Digest: kolQaIypnwFeF/qKj4bejgFRJ0o=
+
+Name: res/drawable-nodpi-v4/purple_bt_load01.png
+SHA1-Digest: wI8nA92UI5/OvBDUyXb4DOOGzTY=
+
+Name: res/drawable-nodpi-v4/bt_voiceswitch.png
+SHA1-Digest: WvVcRbxCQPALhrQboGiCcKdzENI=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialx_p.png
+SHA1-Digest: b0NfY/Wt+lsnyVQfVzLNJsLB4P8=
+
+Name: res/drawable-nodpi-v4/red_bt_load07.png
+SHA1-Digest: rfcyWyAe4VDqzQcxpXRNJt1q88U=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi6.png
+SHA1-Digest: MjmX9YYB0dl4+1GOMTXFzbVTgqU=
+
+Name: res/drawable-nodpi-v4/red_bt_menurecord.png
+SHA1-Digest: EV10lQ4UgOgoK6sY0FE0p42SEFY=
+
+Name: res/drawable-nodpi-v4/bt_dialhang_p.png
+SHA1-Digest: F/W3FC3PkyQBbbAoWclJ9gz357E=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactdown_p.png
+SHA1-Digest: KzXTIkGdzml4Qqu/lGV1yVQjIHA=
+
+Name: res/drawable-nodpi-v4/red_bt_editcontact_bk.png
+SHA1-Digest: hDF8/izcIBspfD0SkfVi4QWCOfg=
+
+Name: res/drawable-nodpi-v4/pink_bt_historyin_p.png
+SHA1-Digest: MWXYnvlzgO6/JbHsuqc1+GW1uHA=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial2_p.png
+SHA1-Digest: 2VhmKeYRlkZVJXH2cuL8cSy4vh8=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd5.png
+SHA1-Digest: bEiQ3hHoQ9x9/U9L9dui3Dbz7OA=
+
+Name: res/drawable-nodpi-v4/bt_history_bk.png
+SHA1-Digest: e9mIcC7nTwIOtq5KFqTpidUwIRE=
+
+Name: res/drawable-nodpi-v4/blue_btav_play.png
+SHA1-Digest: b3BMU82cHURivOgZjDt/I9bFtT0=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial6_p.png
+SHA1-Digest: iLUkT0NlbVMiJih0bUfWWaN6Ohw=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial1_p.png
+SHA1-Digest: j1hJAhxgUXgxjtsdTJlmtdMFq4E=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd3_p.png
+SHA1-Digest: ZQ02xNTm+exFOd+ZHDXbieQDEbw=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd9_p.png
+SHA1-Digest: dt1J99ZlPJHbffSsoAL4yYbfWiI=
+
+Name: res/drawable-nodpi-v4/red_bt_editcontact_btn_p.png
+SHA1-Digest: gGkjP/3HKJsnORsF6By5PTZUQCU=
+
+Name: res/drawable-nodpi-v4/btav_prev.png
+SHA1-Digest: AJUKbqmAAuAQwUQfCpC61ugVmsE=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial1.png
+SHA1-Digest: TVZRVMeeka/RhAl7dG2vKbd5RBE=
+
+Name: res/drawable-nodpi-v4/purple_btav_prev_p.png
+SHA1-Digest: iSZMaJ4NUIrX1W3yxhhgOj3puRM=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial9.png
+SHA1-Digest: 40orMYAxIoVbZWc1FE15IPUmilw=
+
+Name: res/drawable-nodpi-v4/pink_btav_play_p.png
+SHA1-Digest: QOlPahM7JrnyIYMw+vsh6t0jlkY=
+
+Name: res/drawable-nodpi-v4/purple_bt_linkcut_p.png
+SHA1-Digest: Kvummmp+blPv+bPFcWn1eU3S84M=
+
+Name: res/drawable-nodpi-v4/red_bt_dial4.png
+SHA1-Digest: ZIRSUD8SBbfEgpeHdXdIfHmFs8E=
+
+Name: res/drawable-nodpi-v4/bt_linewhite.png
+SHA1-Digest: bgBeBjX4YrerZjq6AzR7YuPfpEo=
+
+Name: res/drawable-nodpi-v4/pink_act_bk.png
+SHA1-Digest: WNTw2+i2KvTEfMBY5jIINfp/LDk=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_hang.png
+SHA1-Digest: Bms21idIf66xfpWTrdZESJOUuVg=
+
+Name: res/drawable-nodpi-v4/bt_historylist_bk.png
+SHA1-Digest: WGNFCPTT0mBji3ZyPdfdHpE8PoI=
+
+Name: res/drawable-nodpi-v4/red_bt_dialj.png
+SHA1-Digest: BTsT5YH99oyoNdS3PGBp/DPlXbw=
+
+Name: res/drawable-nodpi-v4/bt_navi8.png
+SHA1-Digest: k7uyKvqU5xCBM+FHqJaelTAUqbY=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialdel_p.png
+SHA1-Digest: OrGSk73Jb575vl023/CrhcO4Ino=
+
+Name: res/drawable-nodpi-v4/bt_editcontact_btn.png
+SHA1-Digest: yN9kBnzUCFbyD4/jz0onsIkl2uQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial3.png
+SHA1-Digest: gFIQ2bJXIiZk014mGqKtL5Zd0e0=
+
+Name: res/drawable-nodpi-v4/bt_pwd5.png
+SHA1-Digest: i0RImm+fkIng7qTXB6NUJJIiV0Y=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_bk.png
+SHA1-Digest: SNVGKKUacca7y1knUAjXTK5KKOw=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactdown.png
+SHA1-Digest: NH8qIvIFw6QpLEm0ocLNePzkkAc=
+
+Name: res/drawable/toast_bg.xml
+SHA1-Digest: ZoJ+6zF7TsQLTJlfBQ2IZgskSqQ=
+
+Name: res/drawable-nodpi-v4/btav_prev_p.png
+SHA1-Digest: DD1Iq8u6H54JisC9d6MmDO2hkiA=
+
+Name: res/drawable-nodpi-v4/pink_bt_connect_bk.png
+SHA1-Digest: GKSoDoh+s4axz6OSFreK47ywRj0=
+
+Name: res/drawable-nodpi-v4/purple_bt_link_p.png
+SHA1-Digest: v22xfp4E8Yfrl5ysESxWKok0Wl0=
+
+Name: res/drawable-nodpi-v4/pink_bt_navihang.png
+SHA1-Digest: VrpudmOwl6bavOuseVJHyK20MKw=
+
+Name: res/drawable-nodpi-v4/blue_bt_connect_bk.png
+SHA1-Digest: iRe9KutgTSFm6FXWY5nVZ5Sq3A0=
+
+Name: res/drawable-nodpi-v4/purple_bt_itemdial_p.png
+SHA1-Digest: hVNMmxUWAIpG1JZuz8DUZUko+0o=
+
+Name: res/drawable-nodpi-v4/pink_bt_navikeyhide_bk.png
+SHA1-Digest: kAXIlS5KAS3RS5EMYKmfjdKwaq8=
+
+Name: res/drawable-nodpi-v4/red_bt_contactclear_p.png
+SHA1-Digest: lxg1ttzQfHf6OfWmPY0i4b13kgA=
+
+Name: res/drawable-nodpi-v4/bt_historydial.png
+SHA1-Digest: uzHss5kDZo49p8yBXG+i8Jdmrh8=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial8.png
+SHA1-Digest: E/MtzsD2+IhLQCF/ZI2M8vScafA=
+
+Name: res/drawable-nodpi-v4/btav_playpause.png
+SHA1-Digest: LvDQgUkF8LEJrWD4T2vCYmSDcGA=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd8_p.png
+SHA1-Digest: fu9DXc/fJCEq4g0eM79huwxHeXA=
+
+Name: res/drawable-nodpi-v4/red_switch_pointer.png
+SHA1-Digest: TEUg5or615gH98PLy6gSJB1rnfM=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyin.png
+SHA1-Digest: op5CJikFfj7mtweniqxP7vCEcNQ=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dialx.png
+SHA1-Digest: glGccVadypccX4fidjGzLeVGLpM=
+
+Name: res/drawable-nodpi-v4/red_bt_menuset.png
+SHA1-Digest: WcKxc+88tEtZNnNqEokCVgttH8o=
+
+Name: res/drawable-nodpi-v4/blue_bt_editcontact_bk.png
+SHA1-Digest: uzYTP7J9UrVxkISlyUzzJF9PuiY=
+
+Name: res/drawable-nodpi-v4/pink_bt_load11.png
+SHA1-Digest: 6cgS8nTyJWBKs5Jz/mXvWlNdW3E=
+
+Name: res/drawable-nodpi-v4/red_btav_next.png
+SHA1-Digest: BSYT3KZi184sFfMuB5HhUua+vRY=
+
+Name: res/drawable-nodpi-v4/seekbar.png
+SHA1-Digest: 4NHtVABrRrDzLpXoOM3OtxQ0rdY=
+
+Name: res/anim/loading_anim_list.xml
+SHA1-Digest: kfO+QbkwbPN0iHihrelV8J/nJYs=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyin_p.png
+SHA1-Digest: iFzHPiaPmiSXy6h3Tv2eGPCp3z0=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd0.png
+SHA1-Digest: PJWEIYkwQzZESOS7Dzk39GNT1Eo=
+
+Name: res/drawable-nodpi-v4/red_recsound_bk.png
+SHA1-Digest: 0T5NCjsulrNvoU/h3xsKoT1nU6I=
+
+Name: res/drawable-nodpi-v4/red_bt_contactsearch_p.png
+SHA1-Digest: hSjYKWOj3V0taOLS1SdZSXTg1NY=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial1_p.png
+SHA1-Digest: Vv0l1+oPNhQZYeKENqHocmlLI1E=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi6_p.png
+SHA1-Digest: pne4W/mxRsU/w0fdLseSGEmZ0BM=
+
+Name: res/drawable-nodpi-v4/pink_contact_item_p.png
+SHA1-Digest: VSB8C9NWQSKS3RVSMGoURlW7QkU=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd7_p.png
+SHA1-Digest: dGOuwh03QOV2g0BzeuJejhiq450=
+
+Name: res/drawable-nodpi-v4/purple_bt_contacttxt_bk.png
+SHA1-Digest: htwxGaf+U1dTyzT3vJuLDbxk7dE=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd6_p.png
+SHA1-Digest: m+6JThmgPu0BWJTCeIXPkdQkLSw=
+
+Name: res/raw/bt_contact.xml
+SHA1-Digest: u/myEbxclu2m5cIsfCfepr12FSQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial7_p.png
+SHA1-Digest: K7iMzl8s3tkqGotuwVdbx4tYiaA=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: res/drawable-nodpi-v4/bt_menuhistory.png
+SHA1-Digest: US58jtg20STDCg8hrPfirTOjOg4=
+
+Name: res/drawable-nodpi-v4/blue_bt_menupair.png
+SHA1-Digest: qdYjaq4sR+docTvMgGnezh7jXic=
+
+Name: res/drawable-nodpi-v4/pink_bt_historyright_bk.png
+SHA1-Digest: hBjKI3LW3EF6W7JT+v8BeE71ul0=
+
+Name: res/drawable-nodpi-v4/pink_history_item_p.png
+SHA1-Digest: Qbm3b1bpZRHUMFKHxr7g5GkUayM=
+
+Name: res/drawable-nodpi-v4/bt_editcontact_btn_p.png
+SHA1-Digest: qQp3shBABsSCiLQPek2gf3iPMEM=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dialj.png
+SHA1-Digest: N9Es2uHBIL+Bo/COOXFpKPPCj2w=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd6.png
+SHA1-Digest: J/NusqUOXMql5VbYWl7gYYn5NaM=
+
+Name: res/drawable-nodpi-v4/blue_bt_menuav.png
+SHA1-Digest: 55vaZDY6xARAnLUbhK1comeP4DU=
+
+Name: res/drawable-nodpi-v4/bt_contact_bk_p.png
+SHA1-Digest: w7M92WdLPOpo9gvriVUqkS95z/A=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial4.png
+SHA1-Digest: 4y3vcPALNscklvuTa24VxdQ4Zes=
+
+Name: res/anim/top_out.xml
+SHA1-Digest: onWXgsDVZQJhWSzpx0gOrNck92k=
+
+Name: res/drawable-nodpi-v4/bt_pop_dialx.png
+SHA1-Digest: EskiAkXC9S6fVhipDg0vak/ejd4=
+
+Name: res/drawable-nodpi-v4/red_bt_load08.png
+SHA1-Digest: BRpzVRQoh1TFAN7tggGLS6o961Y=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial9_p.png
+SHA1-Digest: DvGcx+k2eIK4GejMttl+K8mu13c=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/drawable-nodpi-v4/bt_pwd6.png
+SHA1-Digest: PO1fZ0edNI+eG7A4W/NzEC2ZnoQ=
+
+Name: res/drawable-nodpi-v4/red_bt_contactdown_p.png
+SHA1-Digest: /ALvFWbUyiXYajjabUxK+xaWQJ4=
+
+Name: res/drawable-nodpi-v4/purple_contact_item.png
+SHA1-Digest: vQfgRDrqmCq1MSvJ9ZYn4VcFWVg=
+
+Name: res/drawable-nodpi-v4/red_history_item.png
+SHA1-Digest: l4SbMO+yTDLDHwn6mC8SccNNX9g=
+
+Name: res/drawable-nodpi-v4/red_bt_paircut_p.png
+SHA1-Digest: DBfO4raEya1IUczaeewPN5Fn81c=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi7.png
+SHA1-Digest: RKK41RtqyP09LPq8e8k90lP868Y=
+
+Name: res/drawable-nodpi-v4/pink_btav_stop_p.png
+SHA1-Digest: 9PqIHJ9JFfsGti5ETvJcZvk5Qr8=
+
+Name: res/drawable-nodpi-v4/bt_historyitem_p.png
+SHA1-Digest: PmrDzLKNUbFRxOF32DWaafI2sN8=
+
+Name: res/drawable-nodpi-v4/bt_icoincall.png
+SHA1-Digest: AuB72PJNkstUAuJqBZBe2ekdlWg=
+
+Name: res/drawable-nodpi-v4/red_bt_navisound_p.png
+SHA1-Digest: GNakSJfZI8v7a5b2F/eEGvhSPrU=
+
+Name: res/drawable-nodpi-v4/bt_navi7.png
+SHA1-Digest: N7Zj4WjZ9wDSM+i6jp3ubL5L04E=
+
+Name: res/drawable-nodpi-v4/purple_back.png
+SHA1-Digest: gOslGB+6utJ7spcsqvXOaylQWJU=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialx_p.png
+SHA1-Digest: dMJgRQEMdqrREDOVX1IY9n6CtOo=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial0.png
+SHA1-Digest: CZVvTzgvlUflDl7c2Zxe5wx353w=
+
+Name: res/anim/left_in.xml
+SHA1-Digest: YsKrfzu68kCCa/XTlz1NipHoedo=
+
+Name: res/drawable-nodpi-v4/bt_pairlink_p.png
+SHA1-Digest: sf4+LBmmxn17UQOeq4jZE3GlpIY=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactpan_bk.png
+SHA1-Digest: DqV8ripoUNKsg3x2FmYqZ21RsTM=
+
+Name: res/drawable-nodpi-v4/blue_bt_menu_bk.png
+SHA1-Digest: K6lCtfZWhGQDmI+X3XTGP4fKaQs=
+
+Name: res/drawable-nodpi-v4/blue_bt_pairclear_p.png
+SHA1-Digest: yOIhoS3HnX38L25J6RAZ6pJUOEI=
+
+Name: res/drawable-nodpi-v4/btav_pause_p.png
+SHA1-Digest: GOY0J8lHm7/7ol5/Pa3HoyW9YOY=
+
+Name: res/drawable-nodpi-v4/red_bt_dial5.png
+SHA1-Digest: D+CaUJYDzq/9bGAKAgAOEAecLOc=
+
+Name: res/drawable-nodpi-v4/back.png
+SHA1-Digest: HFhuh8KQE6wCHk0OztTh5GehViw=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd5_p.png
+SHA1-Digest: c088Z64YTS7U/or5MUsgotwxWaM=
+
+Name: res/drawable-nodpi-v4/bt_pairclear_p.png
+SHA1-Digest: krEHyK3Vg7sP48T1hmNbwo64i2s=
+
+Name: res/drawable-nodpi-v4/pink_bt_set_editbk.png
+SHA1-Digest: MigP/7O4sFfjicXIKoSaiowdw6k=
+
+Name: res/drawable-nodpi-v4/bt_dial0.png
+SHA1-Digest: 9AvHk77DIMIRuq1c7cNUlIxuBIc=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_hang_p.png
+SHA1-Digest: 5UQdQpZfTWVcufvgq9zadrd5rGk=
+
+Name: res/drawable-nodpi-v4/blue_bt_load09.png
+SHA1-Digest: cXPrr0/ZpZQVrVYKZUU4pcF2Xok=
+
+Name: res/drawable-nodpi-v4/bt_set_btn2.png
+SHA1-Digest: NkD35VzgaT2Ewd2/xRnhFrHzwPc=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial0_p.png
+SHA1-Digest: 4g21fRYTLb+CBeX6dhxZnJNOues=
+
+Name: res/drawable-nodpi-v4/pink_bt_navitxt_bk.png
+SHA1-Digest: US96SecDwv6ju3AGIcTri1QLw0c=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi8.png
+SHA1-Digest: b8CiEd/zkh5pfQCHLSeaO2KIfuA=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd2_p.png
+SHA1-Digest: gbn+wD45Y6POfj/BTd9y8+fSRuw=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi1_p.png
+SHA1-Digest: /voYc1wEaxpG5Sl1zQQvWQBM3uo=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactsearch.png
+SHA1-Digest: o6aaO46/cFYTU+qGV0TtQR2JT5g=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwddel_p.png
+SHA1-Digest: R0viqaaCUBiJwl8yNE00pLPeFNo=
+
+Name: res/drawable-nodpi-v4/red_btav_playpause_p.png
+SHA1-Digest: HiP+6CRThuydJKnFKONn4S7zm7c=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi2_p.png
+SHA1-Digest: mzrFoeEW8g8StCbSoiTXyUh8zss=
+
+Name: res/drawable-nodpi-v4/red_history_item_p.png
+SHA1-Digest: cfYw74Fvolu9vJvaB8+oO7LBVJk=
+
+Name: res/drawable-nodpi-v4/red_bt_navitxt_bk.png
+SHA1-Digest: R5PHKmBK9lUS9HbM87SFH3hljUE=
+
+Name: res/drawable-nodpi-v4/bt_paircut_p.png
+SHA1-Digest: ca0y9XCsUx1Zs2ziBQ9ohGcLdCY=
+
+Name: res/drawable-nodpi-v4/purple_btav_stop.png
+SHA1-Digest: q4MaBDb9n5R4z5EK6DjROlOOC4k=
+
+Name: res/drawable-nodpi-v4/blue_bt_set_btn_p.png
+SHA1-Digest: zEFwgstaxzTiXqSejygq7uCnba8=
+
+Name: res/drawable-nodpi-v4/purple_bt_load07.png
+SHA1-Digest: qRSIFO98Q4vPHpYzXHB1Tga9kLw=
+
+Name: res/anim/pop_btgps_hidden.xml
+SHA1-Digest: +qcWAlQiaSfzpeHLAPySgUukZQM=
+
+Name: res/drawable-nodpi-v4/seekbar_text.png
+SHA1-Digest: tdtsvBpgAwuB0i1a/mgTBqbMbFo=
+
+Name: res/drawable-nodpi-v4/pink_switch_on.png
+SHA1-Digest: Jg8pvEixDvcfVSgrLQywhmMNqdI=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial2_p.png
+SHA1-Digest: GZMzvZJUDSUmkkTLxlk2inK3aB8=
+
+Name: res/drawable-nodpi-v4/pink_bt_talking_bk.png
+SHA1-Digest: 3yx5w1Cau8hPd6m1uUQhOm/XpiI=
+
+Name: res/drawable-nodpi-v4/bt_contacttxt_bk.png
+SHA1-Digest: DHOtJGXohM6x4Mr8DIPYVGmXYpg=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd_bg.png
+SHA1-Digest: b4ZQlt5iMkA0pzSOJOh/jiK4BPM=
+
+Name: res/drawable-nodpi-v4/pink_btav_playpause.png
+SHA1-Digest: Ez4FKXp5Ykf5V3Zt7yV1wim0TAc=
+
+Name: res/drawable-nodpi-v4/purple_recsound_btn_p.png
+SHA1-Digest: Hy4m/qWs2lmCD6etuE+NV2m4NYI=
+
+Name: res/drawable-nodpi-v4/pink_back_p.png
+SHA1-Digest: nm0Z6C7GbGB0isfEVmRFE3S/U8o=
+
+Name: res/drawable-nodpi-v4/bt_pwd3.png
+SHA1-Digest: 97Ae7pGmcPTB8Z3xy7bJpiSUpQ0=
+
+Name: res/drawable-nodpi-v4/red_bt_load05.png
+SHA1-Digest: jADudWE1m7tfYffuhIj0b1U0Hoc=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial3_p.png
+SHA1-Digest: Hl5yQ4iIchkXW85nV8Ll5gfmFpo=
+
+Name: res/drawable-nodpi-v4/pink_bt_editcontact_btn.png
+SHA1-Digest: /5fjRXDdeKHMWR+74a7axFfliI4=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd_tv.png
+SHA1-Digest: qW8wSHF4U6hxLGZPIVGl4DUVlrE=
+
+Name: res/drawable-nodpi-v4/red_btav_next_p.png
+SHA1-Digest: H6TU22e61EGZNWpaJrZHCuRpoLY=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi8.png
+SHA1-Digest: hjSeuGmcV3qWndrx+WoRHwqzkgI=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial8.png
+SHA1-Digest: UvFkrBfCeBAgr/R8iM5xnzZDscs=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial7.png
+SHA1-Digest: WEcr5UxtuFwHmPHwcQAmQGscAE8=
+
+Name: res/anim/pop_history_menu_show.xml
+SHA1-Digest: Ny+XMNMb2Zp3Q5v/EVsB12o84zs=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd3.png
+SHA1-Digest: kCdK7K7l+Zna2mpQsFjH2sf12hQ=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd7.png
+SHA1-Digest: QfUmf1DXogeZ25/Nn1OHgO8zXCs=
+
+Name: res/drawable-nodpi-v4/red_bt_historyleft_bk.png
+SHA1-Digest: WIa+yFQd4Lo9f66JrqsCAXJJyi0=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dialx.png
+SHA1-Digest: rh0evQZv1J0dcbTVmqBH0grrVfY=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_hang_p.png
+SHA1-Digest: nAZPV08JH8xmATFdjUtjKgccNTw=
+
+Name: res/drawable-nodpi-v4/blue_contact_item.png
+SHA1-Digest: pOAZGGmf6ypg9PAHFEwbqdKnkFw=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi4.png
+SHA1-Digest: gE8GKytmLMhQT34mLdWUvzBLmQc=
+
+Name: res/drawable-nodpi-v4/purple_bt_pairlink.png
+SHA1-Digest: Bz2Upqo5nnesdW2MamT2S6zdscg=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd7_p.png
+SHA1-Digest: +h2b7UjyxXlrYU354zDYS/Jes10=
+
+Name: res/drawable-nodpi-v4/bt_dialx.png
+SHA1-Digest: UdGENBPd+U6Ou1Sov5iatct3Zm0=
+
+Name: res/drawable-nodpi-v4/red_bt_dialx_p.png
+SHA1-Digest: NoAMQOawzuHdnGwMVnPNV51Rq3Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_navihang.png
+SHA1-Digest: Jj6N5siZT1z4TxRPSgiXXDe0DY8=
+
+Name: res/drawable-nodpi-v4/blue_bt_navij_p.png
+SHA1-Digest: LPlWtdFWLMbBrj5jmVrRT1bPJFg=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial0.png
+SHA1-Digest: BeLSpNL6lkXtaw33BjTNkf2po7g=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd6_p.png
+SHA1-Digest: Xu3Jmviy9Y96yyUT6MB+M74IXN0=
+
+Name: res/drawable-nodpi-v4/red_bt_pwddel.png
+SHA1-Digest: uKuf1gPnYbUiifclnyYVproddjs=
+
+Name: res/drawable-nodpi-v4/bt_pwddel.png
+SHA1-Digest: MIO1fA75d7rbVfeoY9i2lXMdca4=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_hang.png
+SHA1-Digest: kfyBTetbzJvS2JSVZxk4DWlvF7w=
+
+Name: res/drawable-nodpi-v4/btav_stop_p.png
+SHA1-Digest: K9SeqXme9+qtxgouJLjwbDoTFQ4=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial3.png
+SHA1-Digest: cCrWKTwky2PC4qCWS8aBTzYSBVg=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial7.png
+SHA1-Digest: VyWamHdJEx2Nkj5aP2LAPhxzF/Y=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialj_p.png
+SHA1-Digest: ceElfWHoV/PFQA5R5ElEfPP0sG8=
+
+Name: res/drawable-nodpi-v4/red_bt_navix.png
+SHA1-Digest: gTPpa+c50Fb4N0mKrV/VthZUeRY=
+
+Name: res/drawable-nodpi-v4/bt_holdon_p.png
+SHA1-Digest: H/8UBeq69nPAQs3aciM0mGS4DJc=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi0.png
+SHA1-Digest: nGy52gBShhrZ9dDq4/8FBuQIuTI=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyclear_p.png
+SHA1-Digest: Gvf3Ag1V2yGj17bTdV9tFW3Fl7s=
+
+Name: pinyindb/pinyin_gwoyeu_mapping.xml
+SHA1-Digest: bkX+LUlZgXmZe95SrIkYAOcgQ4s=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd5.png
+SHA1-Digest: sayRAV4sYqqu9rOUitP+uFlP7aQ=
+
+Name: res/drawable-nodpi-v4/red_bt_dialx.png
+SHA1-Digest: l5UHpbfN1QjnylxI4H2Kf6YsO6A=
+
+Name: res/drawable-nodpi-v4/bt_dial2_p.png
+SHA1-Digest: Jwo1C/sDyEjD5H8wSaDiGcrgZ7A=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd4.png
+SHA1-Digest: gU7x53bSiBZD20RCNPXpkk1frrs=
+
+Name: res/drawable-nodpi-v4/pink_switch_off.png
+SHA1-Digest: +qlLvhdt/8r/IKkTT9L5QJMMbwc=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial7_p.png
+SHA1-Digest: 6llBw+dAOQLt8pPGDqekq8g+PJg=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi1.png
+SHA1-Digest: uFFkkjNuqlAsOsLpBlSUqNcgExY=
+
+Name: res/drawable-nodpi-v4/bt_dial9_p.png
+SHA1-Digest: 8rTQEroWKi+/cW7iV5OSj1H3RoU=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyclear.png
+SHA1-Digest: V73yNebgpMOHuNrQYCLDLpdp/cQ=
+
+Name: res/drawable-nodpi-v4/bt_navidial.png
+SHA1-Digest: d8WJQtauY+EYJ2tYg56WjzjD6JE=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialtxt_bk.png
+SHA1-Digest: FAFzlujUi4ziCR4q8TR/lPzq7PI=
+
+Name: res/raw/bt_popbt_func.xml
+SHA1-Digest: Cj6JdSixIbKwNUkusYt/YVkXTVI=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial0.png
+SHA1-Digest: yN6dFkkuB9R12DmuJY4Pi8QjiJc=
+
+Name: res/drawable-nodpi-v4/btav_pause.png
+SHA1-Digest: g1lEpYU+6/lwanCj6tWdbuZOcOI=
+
+Name: res/drawable-nodpi-v4/red_bt_contact_bk.png
+SHA1-Digest: TsRXwN8GYFSp5aexUsOM9VyHDGU=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial2_p.png
+SHA1-Digest: 4lYjFS8T4+mX5ixjRTG/WJ/tMSs=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dialx_p.png
+SHA1-Digest: Ue3SMq2mGi24Ce+GPrRni6jdNTM=
+
+Name: res/drawable-nodpi-v4/blue_bt_contact_bk_p.png
+SHA1-Digest: Olp8NDTlA5QYj1gAwMEXadpDyog=
+
+Name: res/drawable-nodpi-v4/contact_edit.png
+SHA1-Digest: dVGMy8D+JHIaeyPsGk2UDiD0Q/4=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial9_p.png
+SHA1-Digest: 0bYfPaL+TxWdbVJVL0eA8j5pK04=
+
+Name: res/drawable-nodpi-v4/blue_btav_next.png
+SHA1-Digest: 3QMzTfm8VSvMIlxd2ERCdtWpvNs=
+
+Name: res/drawable-nodpi-v4/bt_paircut.png
+SHA1-Digest: 1PM2aLa/a3+z0msHl0CVbRq2d50=
+
+Name: res/drawable-nodpi-v4/bt_pairpage_p.png
+SHA1-Digest: OSgC0sFbsOD8uXI4uqZzZHjV5vc=
+
+Name: res/drawable-nodpi-v4/bt_dialj_p.png
+SHA1-Digest: rx7SUOxzlYz1JQwzXwBEKjCBhpI=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial7_p.png
+SHA1-Digest: LqAdYqOe3XrsX5QX37mNDQKwN4U=
+
+Name: assets/ring_connect.mp3
+SHA1-Digest: kLO9BSzE5BbkU4glCNZnhyEU0n0=
+
+Name: res/drawable-nodpi-v4/btn_on.png
+SHA1-Digest: 2hPZmEG/pJOYEMXpBB4bBea67GM=
+
+Name: res/drawable-nodpi-v4/red_bt_navi0.png
+SHA1-Digest: RWogcPhcYKVXtXZ5ACYyPlDFraQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_editcontact_btn_p.png
+SHA1-Digest: 04yIAHS0+I5gdtoxn3Wy3XejhHM=
+
+Name: res/drawable-nodpi-v4/red_bt_menucontact.png
+SHA1-Digest: OoOMO/pOYnlTR5r1U6JtLpsSrIM=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: res/drawable/bt_bitmap_bk.xml
+SHA1-Digest: 8FBiz08a9qEagJgfGyTdTWGehy0=
+
+Name: res/drawable-nodpi-v4/red_bt_connect_bk.png
+SHA1-Digest: A6GB0fyq9itWjkrc+nPhba9MeoM=
+
+Name: res/drawable-nodpi-v4/bt_menudial.png
+SHA1-Digest: UMgQJ3tsUfQqTnKQco4xw432XBo=
+
+Name: res/drawable-nodpi-v4/purple_bt_historydel_p.png
+SHA1-Digest: AxTLxhRjFBH88MpA8X7/E3DREC4=
+
+Name: res/drawable-nodpi-v4/red_bt_navihang_p.png
+SHA1-Digest: P3pz2ZyWgZ3kiHjPa7+1zhoqowk=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd8.png
+SHA1-Digest: 9JPoYuWupVj4yoyJ5Ubj5lQdZw0=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialnum_bk.png
+SHA1-Digest: tge2yQpdknZPBLEczp+KXC43UzY=
+
+Name: res/drawable-nodpi-v4/bt_navit_bk.png
+SHA1-Digest: aZmqGbT8T62ih6JDVAt/r8yTIvM=
+
+Name: res/drawable-nodpi-v4/blue_bt_menucontact.png
+SHA1-Digest: GnKU+VdVFlEkCY1q+hkJAoJtTWU=
+
+Name: res/drawable-nodpi-v4/bt_load12.png
+SHA1-Digest: YeFz74CZkWLvwR0verOvRup1N7E=
+
+Name: res/drawable-nodpi-v4/pink_btav_next_p.png
+SHA1-Digest: /yaPKiDQaRSmX92pq5rizvpT2xs=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi7.png
+SHA1-Digest: 9hG0bzUZSwygmyZBRe8SavjiAqU=
+
+Name: res/anim/delete_btn_show.xml
+SHA1-Digest: EARWX/7WWNbAb+5e3hQMKiuQ06g=
+
+Name: res/drawable-nodpi-v4/blue_bt_menurecord_p.png
+SHA1-Digest: ar396uWHdNfcOHErg/Iz1N75458=
+
+Name: res/drawable-nodpi-v4/bt_dial7_p.png
+SHA1-Digest: iGXxzEtp6y5QCRVNizXMjT2/HIo=
+
+Name: res/drawable-nodpi-v4/bt_navi6_p.png
+SHA1-Digest: nPp+hGUT9SDR97Gw7E8ngm5hDHc=
+
+Name: res/drawable-nodpi-v4/purple_bt_load06.png
+SHA1-Digest: IkBiLcpXUinUhfwxTBIigliL3Fs=
+
+Name: res/drawable-nodpi-v4/bt_pwd1_p.png
+SHA1-Digest: VxEkW0SJFCi9+eSOBhww+Ka4g0A=
+
+Name: res/drawable-nodpi-v4/red_bt_voiceswitch.png
+SHA1-Digest: o/MfWmGy6j1BpIuHpNfR6hnw7U0=
+
+Name: res/drawable-nodpi-v4/red_bt_menupair.png
+SHA1-Digest: E9KZPybUrpB0XkKaMp70BozTgkQ=
+
+Name: res/drawable-nodpi-v4/red_bt_holdon.png
+SHA1-Digest: w+U6oHmOSyrvYoxZvMCaeFjhV4A=
+
+Name: res/drawable-nodpi-v4/bt_dial4_p.png
+SHA1-Digest: SDFN8NnnoN2Pqofu73xJJh9LlZo=
+
+Name: res/drawable-nodpi-v4/purple_bt_menudial.png
+SHA1-Digest: 7tcJPLIjv8pt1fYullpP160j9BI=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial7_p.png
+SHA1-Digest: Zem+GI5gxfHylzzev59cLIX2CPo=
+
+Name: res/drawable-nodpi-v4/bt_popdel_bk.png
+SHA1-Digest: 253t3vaha4KpwOck0xV7gZKgIRM=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialj.png
+SHA1-Digest: JWeCZr+5qDmQhLaaH0CWx11B+K8=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial8.png
+SHA1-Digest: YkZ+jBDE1ok3x4LxKR2346i0z7c=
+
+Name: res/drawable-nodpi-v4/red_bt_navikeyhide_bk.png
+SHA1-Digest: JAMVAkEcaX/+GGm3cBEJSmd6JAw=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi7.png
+SHA1-Digest: 4PcgsauPc4aNwlWdgulvkZ2jIx0=
+
+Name: res/drawable-nodpi-v4/pink_bt_contact_bk.png
+SHA1-Digest: 6Y+cnIl/6nzS2cEhHVb6ySIzfv8=
+
+Name: res/drawable-nodpi-v4/blue_bt_editcontact_btn.png
+SHA1-Digest: 2T9uSoiwuX9Zj7lDJcBJjJfwmd8=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd0_p.png
+SHA1-Digest: qR36Yx4/A1YZ6+sEnr+F6BZbGRY=
+
+Name: res/drawable-nodpi-v4/red_bt_load06.png
+SHA1-Digest: O1B2txujDqtvN9swr48NQ/ZndQM=
+
+Name: res/drawable-nodpi-v4/blue_act_bk.png
+SHA1-Digest: +9j3GAlHwBFfe5bMv5q+h9tbgm8=
+
+Name: res/drawable-nodpi-v4/pink_bt_contacttxt_bk.png
+SHA1-Digest: NBJGHaZlb7Y7VhB9yX9VGZDIoBc=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactclear_p.png
+SHA1-Digest: qK6LFoVHqxrZHDxWpsbuf+YoOsQ=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial4_p.png
+SHA1-Digest: LMg8tM5Qrgb5l6u2IwEKpk2vmXs=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd1_p.png
+SHA1-Digest: b9G9Gnk4jgy+45foOFu68y5tDcU=
+
+Name: res/drawable-nodpi-v4/bt_editcontact_bk.png
+SHA1-Digest: RGx0Fa+/aqun/V3B+S99FlkKp8M=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd4_p.png
+SHA1-Digest: C7ESLi+HrhSSgPLXSKt1ySUFj0s=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd2.png
+SHA1-Digest: rlKLxhxaNAMI3FzxOYCKpbhzktI=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi1.png
+SHA1-Digest: t5LKxQIy4Y4o/YoDoE+62QQRPGQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi0_p.png
+SHA1-Digest: q1PGihudOaPByIAQE/v51mR1+tI=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial5_p.png
+SHA1-Digest: cnuCThLQN0N7cb2aZDMD+87/+T8=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi5.png
+SHA1-Digest: FtpsM8+LfNPLmGV3XwIF4RKgXN4=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial8.png
+SHA1-Digest: NBJ8bWpFuXN4TOOvXcnWsSb3nwU=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd6.png
+SHA1-Digest: FBeYRGSOk4a7quPAovr9SCjwpKg=
+
+Name: res/drawable-nodpi-v4/bt_voiceswitch_p.png
+SHA1-Digest: gDp8SMXHkQMS0aJWGZD+8dTrTZ4=
+
+Name: res/drawable-nodpi-v4/bt_contactclear.png
+SHA1-Digest: ovH8R50NMzuUsIrQl4q4pbjl5XU=
+
+Name: res/anim/top_in.xml
+SHA1-Digest: gCE+rVgrMJ6hAuJ0Xx7Q4pRdE+Y=
+
+Name: res/drawable-nodpi-v4/bt_navi8_p.png
+SHA1-Digest: h1tSo7xAXdfTlD968RNxank07zY=
+
+Name: res/drawable-nodpi-v4/bt_pwddel_p.png
+SHA1-Digest: zoMitSqKxVlv+ruGyMtU738yQPs=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd5.png
+SHA1-Digest: cDaVolAJGIuml9RyrAyRxr/f9J8=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi2.png
+SHA1-Digest: 1ivzWBm2tj7nlj1c7TJOWuP/GLA=
+
+Name: res/drawable-nodpi-v4/red_back.png
+SHA1-Digest: kSb2iuqsj8pebApGmkqy2K9mCL8=
+
+Name: res/drawable-nodpi-v4/bt_pwd4.png
+SHA1-Digest: MukqG7mKdzXTpFsphcESowDwTDU=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial1.png
+SHA1-Digest: sLl9j6LvKqrI+xPmvy99HNXBU7M=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactsave_p.png
+SHA1-Digest: DM1Y3ylScB+qwxWeK9lX2YcKfv8=
+
+Name: res/drawable-nodpi-v4/btset_input.png
+SHA1-Digest: usPltaS7IlMf4qJ8qlwlUsP/c5s=
+
+Name: res/drawable-nodpi-v4/purple_bt_dialj.png
+SHA1-Digest: p3BL475GHe6nsNELPj1C1gbIXXU=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial9.png
+SHA1-Digest: edLq9ja82M0JXHk67ZOlB1Wewr4=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial2.png
+SHA1-Digest: 88n3ywwSTInH42HHPio32ncM0+g=
+
+Name: res/drawable-nodpi-v4/bt_icolinkobd.png
+SHA1-Digest: 0JsR4V9Sn+Oz1viUAYJZJEIIGno=
+
+Name: res/drawable-nodpi-v4/bt_menupair.png
+SHA1-Digest: Ene88U3HCejhc/fQq7/vl25yqgI=
+
+Name: res/drawable-nodpi-v4/blue_recsound_bk.png
+SHA1-Digest: juCIolkv7u9Zznv3EhrJN4cLJyY=
+
+Name: res/drawable-nodpi-v4/purple_bt_cut_p.png
+SHA1-Digest: XazomzHM0v1+u9X7J6psVcH+To0=
+
+Name: res/drawable-nodpi-v4/bt_menurecord.png
+SHA1-Digest: hdkOJhGgN3uLanMkNJKkt0xuQJ8=
+
+Name: res/drawable-nodpi-v4/bt_setpan_bk.png
+SHA1-Digest: sEbunf7EB6kUu6jMA94rsqMP/LY=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial9_p.png
+SHA1-Digest: /zmHmXRsHS27e+m7efw6Hz6BC9g=
+
+Name: assets/ring_search.mp3
+SHA1-Digest: VwlrHGN21BW6pODuky0jpHjAqzQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactsave.png
+SHA1-Digest: rPZbZncMAwdwymruHfOIJ8QMILI=
+
+Name: res/drawable-nodpi-v4/purple_contact_edit.png
+SHA1-Digest: iZaWQhokR9Bk5Md71Gn20UX6r/s=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dialtxt_bk.png
+SHA1-Digest: I8WZPB84+oURTif2vtwionw42K8=
+
+Name: res/drawable-nodpi-v4/bt_pop_dialj_p.png
+SHA1-Digest: ky5sx554QCrDMezAACnDRNBNE/Q=
+
+Name: res/drawable-nodpi-v4/red_bt_talking_bk.png
+SHA1-Digest: HD0Ao2HF8u+A/CebLJtXp8LFd1Q=
+
+Name: res/drawable-nodpi-v4/purple_btav_prev.png
+SHA1-Digest: A8Tbd2v3dNPdRDeFiTf6jYwwqBc=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dialj_p.png
+SHA1-Digest: qtEFOCyD3MQvs4a/JA7aVXBpWwQ=
+
+Name: res/drawable-nodpi-v4/recsound_btn_p.png
+SHA1-Digest: d58PvGHWQ+lgoW+asCAXBvnKM+o=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dial1.png
+SHA1-Digest: 69xBsVREC7UxU+XaNKhdcFiaeB0=
+
+Name: res/drawable-nodpi-v4/bt_menudial_p.png
+SHA1-Digest: q5qF/poEIMwOuQV9MbWALO2uHSM=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactclear.png
+SHA1-Digest: RV+PFsInspSTHmk+RDr3Mmbr1qo=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialhang.png
+SHA1-Digest: ri3JcHxonvRdXMbR6t/A0bt80Uw=
+
+Name: res/drawable-nodpi-v4/sw_normal.png
+SHA1-Digest: CZK8eKrzbyx+bR63eDyXZ/DOz+E=
+
+Name: res/drawable-nodpi-v4/red_bt_pwd9.png
+SHA1-Digest: SMW4Y5B3TNlg1m7v+G/ywK6oEh8=
+
+Name: res/drawable-nodpi-v4/blue_contact_item_p.png
+SHA1-Digest: lV0QYhuMPmv0G5LTlwZlTKQtRLA=
+
+Name: res/drawable-nodpi-v4/bt_set_btn2_p.png
+SHA1-Digest: mAOg9p8tq7Wf/eHJGOjQQTuBsDk=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi6.png
+SHA1-Digest: Zn46oIcyxShAd3gj/OfNPDQYG5A=
+
+Name: res/drawable-nodpi-v4/bt_pwd8_p.png
+SHA1-Digest: dj/QUh+WlxX0luL7nueNLgPBt68=
+
+Name: res/drawable-nodpi-v4/red_bt_load03.png
+SHA1-Digest: BzNmZqwGJ9uAT7SsojBsEO0W2ug=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial5_p.png
+SHA1-Digest: iTeAxKzgjw0ItWJ4+kLHWr2G26Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_keyboardhide_p.png
+SHA1-Digest: mkz2b6kRT6xNQsz4h4Bvf1lzM+E=
+
+Name: res/drawable-nodpi-v4/bt_menurecord_p.png
+SHA1-Digest: QOvjd/lHraAPT43ELQc4rZ/4BPQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_load05.png
+SHA1-Digest: efDm4h8FcPA2XvtaK1nCi7ac0L0=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi4_p.png
+SHA1-Digest: WTKmU7Er+MuT1UdguJbXB9wXI/4=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd5.png
+SHA1-Digest: gNAUYxi2zYfZ0/u1Wfh1ZBYnhNY=
+
+Name: res/drawable-nodpi-v4/bt_pwdok_p.png
+SHA1-Digest: sEYRWcMA3S8BM77pbixCxwFpJaM=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi2.png
+SHA1-Digest: dCOMYZLKPxkm4Qs89ZTAyr8WRhM=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialdel.png
+SHA1-Digest: vJQfhZVNLYuvBXDlQufQqaq5LO8=
+
+Name: res/drawable-nodpi-v4/pink_bt_navisound.png
+SHA1-Digest: +R39tnw+0S0/cu3/rG/j/kH0Hp4=
+
+Name: res/drawable-nodpi-v4/red_bt_holdon_p.png
+SHA1-Digest: FqZcSOFfj4o1IokdKkP2uPmt0C4=
+
+Name: res/drawable-nodpi-v4/btav_right_bk.png
+SHA1-Digest: F84jd8IyiGduj/KGnLvl/BxgAWw=
+
+Name: res/drawable-nodpi-v4/bt_keyboardshow.png
+SHA1-Digest: Ia3qTBI90KbWN07PwmclGRfhnNE=
+
+Name: res/drawable-nodpi-v4/bt_historyout.png
+SHA1-Digest: bxIZY8r83vgp+jBv7Ewgv3xfNV8=
+
+Name: res/raw/bt_contactitem.xml
+SHA1-Digest: nh6fMislrQ/8mRUfWKeqzfCI0k8=
+
+Name: res/drawable-nodpi-v4/pink_bt_set_btn_p.png
+SHA1-Digest: jXOTaPi9GMhnD8VaUaCpA53/75g=
+
+Name: res/drawable-nodpi-v4/pink_bt_load09.png
+SHA1-Digest: lxNY3lLHWejbJCH1/BclJXImCMc=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi6.png
+SHA1-Digest: eTo5s5wayl7rVrYZIEHmRH4fegs=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial5.png
+SHA1-Digest: 3WimHMTdSvPglprgi1SWRaswdyw=
+
+Name: res/drawable-nodpi-v4/bt_historymiss_p.png
+SHA1-Digest: 8U3OnN377/Ri6qQ6wwYcVMNydiM=
+
+Name: res/drawable-nodpi-v4/purple_btav_right_bk.png
+SHA1-Digest: a7HkRNeXLt5jBqWtOagT3nm3YLE=
+
+Name: res/drawable-nodpi-v4/pink_recsound_btn_p.png
+SHA1-Digest: Z2xsaQkO73DaG5+CZO+OJRk5EX4=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi2.png
+SHA1-Digest: 8Vyv5d36c7SQuQ5xZNgk/FkirjE=
+
+Name: res/drawable-nodpi-v4/blue_bt_contactdown.png
+SHA1-Digest: HTov4sSdOttfe46Wmr7qHRUdUuU=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_accept_p.png
+SHA1-Digest: As4Dt01BdKdZZtyI/yz3W8jesQI=
+
+Name: res/drawable-nodpi-v4/bt_dialdel.png
+SHA1-Digest: iEWMBe+Y5hULcPQabh6VcVWnKAk=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd3.png
+SHA1-Digest: /wvpcougxxoj5Rc390qPMTSVX3s=
+
+Name: res/drawable-nodpi-v4/blue_bt_load10.png
+SHA1-Digest: 3f2bBeSj4QgrtqVoaJ58ip5oBj4=
+
+Name: res/drawable-nodpi-v4/bt_navisound.png
+SHA1-Digest: oj/G+oDxZsOx6xaxcTFJyOPgsvo=
+
+Name: res/drawable-nodpi-v4/bt_pwd2_p.png
+SHA1-Digest: TUmAzbx8BoRL5uEI+J/eW65gJ0o=
+
+Name: res/drawable-nodpi-v4/purple_act_bk.png
+SHA1-Digest: yZQYHQ0T4ceuI9KjhzbiyxQiNjg=
+
+Name: res/drawable-nodpi-v4/red_btav_stop.png
+SHA1-Digest: o1+ud3jxPZ3h7Pu+U7FxFoe83ZU=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial6.png
+SHA1-Digest: J+9OYyUhnMTbMHu7m2/r8GzaaY0=
+
+Name: res/drawable-nodpi-v4/purple_btav_stop_p.png
+SHA1-Digest: +JQP0xrgVCbewu3viFFTE0FsmbM=
+
+Name: res/drawable-nodpi-v4/bt_historymiss.png
+SHA1-Digest: rudEKg7O21o18U4WOrCjoyqOvys=
+
+Name: res/drawable-nodpi-v4/bt_pwd1.png
+SHA1-Digest: RozGXQaSQehBc/iI7xaoMBzMd9Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_menurecord.png
+SHA1-Digest: ezupqt8oYiCmcApIQpmxs2cz//E=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialtxt_bk.png
+SHA1-Digest: pLXUlINZ94AciD0dqrdA19Hq+K0=
+
+Name: res/drawable-nodpi-v4/pink_bt_pop_dialtxt_bk.png
+SHA1-Digest: 0sQHT/NqVIAc10OashOLN/DlzB0=
+
+Name: res/anim/pop_pin_hidden.xml
+SHA1-Digest: 9VgaJLFECeqF/Bz4eFudZzwOYSI=
+
+Name: res/drawable-nodpi-v4/purple_bt_pop_dial9.png
+SHA1-Digest: JN/1EdeuntezTINuJve78/QXRI0=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial1_p.png
+SHA1-Digest: bIR1Et7uCRiukpBXh44n57IRbEE=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial0_p.png
+SHA1-Digest: P32Rjq6+Xiag8k+ufwevrkC0rKc=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_bk.png
+SHA1-Digest: E/4OQkpYRMtPybKgs2JfuMDoKRI=
+
+Name: res/drawable-nodpi-v4/bt_navi4_p.png
+SHA1-Digest: Ey2bMVQS149yP7thae9HqHo9W/4=
+
+Name: res/drawable-nodpi-v4/red_bt_dial1.png
+SHA1-Digest: /rxxC/9novdaJq3q/WJpp2Y6+5c=
+
+Name: res/drawable-nodpi-v4/purple_bt_navikeyhide_bk.png
+SHA1-Digest: r4PX7nwwXeWVWKw4I45upFkURWY=
+
+Name: res/drawable-nodpi-v4/blue_switch_off.png
+SHA1-Digest: gPESflqcmLKn3G2ikzd+S8de2ws=
+
+Name: res/drawable-nodpi-v4/bt_pwd3_p.png
+SHA1-Digest: k7snKPmqwFl6Tll3OpONw+nFRpM=
+
+Name: res/drawable-nodpi-v4/bt_pwd9_p.png
+SHA1-Digest: xy14g6GLHuwL4wQDv2UZ+fG0+Ek=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi3_p.png
+SHA1-Digest: ottb1EgEFB8c7rRXLPv9+cCFfN0=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi9_p.png
+SHA1-Digest: RxtRSU/UvClX0xUtGYzIUzYnrtQ=
+
+Name: res/drawable-nodpi-v4/purple_btav_pause_p.png
+SHA1-Digest: u4liAmxJMMyHt1LbNXQRnlp9hhw=
+
+Name: res/drawable-nodpi-v4/purple_bt_navikeyshow_bk.png
+SHA1-Digest: 1PGeFq4a06LfviaU7ezcAx8x6ho=
+
+Name: pinyindb/unicode_to_hanyu_pinyin.txt
+SHA1-Digest: +pZoFAhL7+9SPf06nOIVmAeI52A=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial8_p.png
+SHA1-Digest: CUSt4IbvO5Yd0WR2Sa6YP7GRi34=
+
+Name: res/drawable-nodpi-v4/bt_navikeyshow_bk.png
+SHA1-Digest: wtV7lQ9b3EcZzf2BeWnd3tjq58E=
+
+Name: res/drawable-nodpi-v4/blue_bt_historymiss_p.png
+SHA1-Digest: jtKRGuVk11FILGUNSkbTTUJyCag=
+
+Name: res/drawable-nodpi-v4/back_p.png
+SHA1-Digest: wMlnJTBkWgjZzdlJ5vPpqH+zKMQ=
+
+Name: res/drawable-nodpi-v4/bt_navi5_p.png
+SHA1-Digest: qh57w62KfMCA9NaTBtXLogHelMk=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial5.png
+SHA1-Digest: LY5baHNeBLL2PQqYT2W1PaGfZRw=
+
+Name: res/drawable-nodpi-v4/purple_btav_playpause.png
+SHA1-Digest: rJaVsdjfP5S7LEO+HWMnUWWY9Tg=
+
+Name: res/drawable-nodpi-v4/btav_ico_bk.png
+SHA1-Digest: jc3tlgnj/Vb9beOseHjClp1UmXM=
+
+Name: res/drawable-nodpi-v4/purple_bt_menudial_p.png
+SHA1-Digest: ujUk4eRLLU0JMl4Su3bEqtZaDpM=
+
+Name: res/drawable-nodpi-v4/bt_pairlink.png
+SHA1-Digest: ua4Q1Ji4Z2KsPtn//5OTyM69w3I=
+
+Name: res/drawable-nodpi-v4/pink_btav_play.png
+SHA1-Digest: LLjJ8fcHigvlMIehKYPCcKjlV0g=
+
+Name: res/drawable-nodpi-v4/red_bt_navikeyshow_bk.png
+SHA1-Digest: 0afQAUjb/PXGDnrUPUXMvqVKJ2U=
+
+Name: res/drawable-nodpi-v4/purple_thirdphone_switch_p.png
+SHA1-Digest: JSjR0oPud9+w26PxOt8Qa/tbzVU=
+
+Name: assets/ru_connect_tone.wav
+SHA1-Digest: uVPQTqWu4ihRpHh3ImyVBwqKcBA=
+
+Name: res/drawable-nodpi-v4/red_bt_dialhang.png
+SHA1-Digest: AnX1tTR4KeH1uNxvyObGynhzjCc=
+
+Name: res/drawable-nodpi-v4/purple_bt_historyout.png
+SHA1-Digest: 3yu6oPKMcAKEsDmH8/gNEZcS0dk=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_accept.png
+SHA1-Digest: IFcg08346lIyCPQ/WUgFx1mIWW0=
+
+Name: res/drawable-nodpi-v4/bt_pop_dial9_p.png
+SHA1-Digest: YPfRhjxaW+MSqcQfQ67Poed+7IQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_contact_bk_p.png
+SHA1-Digest: QnYqxMopxh+IziNe7FNYzbPwdqA=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial6_p.png
+SHA1-Digest: nYrTGs0hs8Q3rwe5INNkGiz2s3w=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial2.png
+SHA1-Digest: 3BL96QIeacMcqvi1323qHhc+zZ0=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi3.png
+SHA1-Digest: 068Gb0Z9iGJVp5axOB4sV92V1oA=
+
+Name: res/drawable-nodpi-v4/bt_historyitem.png
+SHA1-Digest: c0PTqfe2ZnUmTOKG+pacBYmxmtk=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd6.png
+SHA1-Digest: qCsTyNE+skGk/WAUXflSF36DoKc=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialdial_p.png
+SHA1-Digest: +WRwK5IE7BxBvx4CoEtHr8YBkFQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_keyboardhide.png
+SHA1-Digest: wDd2RvPQvc7pG+C96+Fez97RT7k=
+
+Name: res/drawable-nodpi-v4/blue_bt_load11.png
+SHA1-Digest: BvsZrleqqyH8Rjmx+JCVobopEbc=
+
+Name: res/drawable-nodpi-v4/blue_bt_paircut_p.png
+SHA1-Digest: tvBYxPKtxIzWxgZEvtffnlm0fSs=
+
+Name: assets/fonts/ysextbold.otf
+SHA1-Digest: H2ZePyWjvaTwrNuLkkqwO77EOu8=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi8_p.png
+SHA1-Digest: R9WEKHXmzWUlRX3JC6RmbMTNg68=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dial0.png
+SHA1-Digest: 7w8hPQRFlLJi2Mec9g5+YU4CpDw=
+
+Name: res/drawable/bt_icon.png
+SHA1-Digest: 7HMOXaDC15hnOBWspWKz8UTHAeQ=
+
+Name: res/drawable-nodpi-v4/red_bt_load04.png
+SHA1-Digest: V4ekcrlPcRtXM/aPg4hLjLJsiso=
+
+Name: res/drawable-nodpi-v4/blue_bt_set_btn.png
+SHA1-Digest: JzH6A0IqrOvRzqe/0u7OSpoPTuk=
+
+Name: res/drawable-nodpi-v4/bt_pwd4_p.png
+SHA1-Digest: jSW7OU8E0TkWTIdTJMgKvdtYDjo=
+
+Name: res/drawable-nodpi-v4/pink_back.png
+SHA1-Digest: jZhWvbZ1WHA0SoO2K36DiwRj4TE=
+
+Name: res/drawable-nodpi-v4/pink_bt_historydial_p.png
+SHA1-Digest: 9F0zVyjcJRye33YBrGf1ufG77K8=
+
+Name: res/drawable-nodpi-v4/blue_bt_pwd4.png
+SHA1-Digest: EEZvnmcJ4wagQcos2bjuCFd8H6Y=
+
+Name: res/drawable-nodpi-v4/btset_bk.png
+SHA1-Digest: VIus326yDhSdcrjlNtxBk7o0em4=
+
+Name: res/drawable-nodpi-v4/blue_bt_keyboardshow.png
+SHA1-Digest: i6dgv/gd1Ssie8dcVqmnhKWVuLI=
+
+Name: res/drawable-nodpi-v4/pink_bt_navi3.png
+SHA1-Digest: dm7/ctXobQuREgn3ztJvurlNs/c=
+
+Name: res/drawable-nodpi-v4/blue_switch_pointer.png
+SHA1-Digest: fiK+qxAAVndqY8H/scNdCEmnWEA=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi3.png
+SHA1-Digest: U8E+OHgiXwbk6ezD5/v/UbHkDsM=
+
+Name: res/drawable-nodpi-v4/purple_bt_pwd4.png
+SHA1-Digest: iJ/71wIiZbtfdqYxDJtWzBHL7Zw=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial4_p.png
+SHA1-Digest: 8oaRS+9i0ivl0h8445QhqSQ3t8M=
+
+Name: res/drawable-nodpi-v4/red_back_p.png
+SHA1-Digest: EbKTl5GJlb5qRfs5Y+F1pT7SnMs=
+
+Name: res/drawable-nodpi-v4/bt_navi0_p.png
+SHA1-Digest: HzRNKTO/YFanKJtpVsg96ikrV4g=
+
+Name: assets/search_tone.mp3
+SHA1-Digest: Fdt7ezac69pTJRB32WwHXVV6fpI=
+
+Name: res/drawable-nodpi-v4/contact_item.png
+SHA1-Digest: YU1iicOjfisCpom1noHB7Zs6ltE=
+
+Name: res/drawable-nodpi-v4/red_btav_prev.png
+SHA1-Digest: kbXfZcF2uoJ+vowbQxM774CEGAA=
+
+Name: res/drawable-nodpi-v4/bt_navi3_p.png
+SHA1-Digest: G4XNu3enOxgYzVlW5n5YehZNelg=
+
+Name: res/drawable-nodpi-v4/bt_pwd2.png
+SHA1-Digest: OPIrtvsGWYlmQtZ1hj3Ar1tCGs4=
+
+Name: res/drawable-nodpi-v4/red_bt_historydial.png
+SHA1-Digest: 1FTPHNUH89v+P6tDsUKZButAkNc=
+
+Name: res/drawable-nodpi-v4/btav_pinbar.png
+SHA1-Digest: +oj0n7rXkY+uJmKmsGvrobvRXEQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_dial4.png
+SHA1-Digest: j2z11wYKCC/v/u2kbZuJbHn4wic=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial1_p.png
+SHA1-Digest: 05jOrmfpTCI+mcjPBOTvb23m/R8=
+
+Name: res/drawable-nodpi-v4/blue_bt_navij.png
+SHA1-Digest: wfBYwWFKCvpLl3yeK/GYtkj9Q/8=
+
+Name: res/drawable-nodpi-v4/red_bt_menuhistory.png
+SHA1-Digest: euIzGTqZgadGvqlVQbQl2UoxOcA=
+
+Name: res/drawable-nodpi-v4/blue_bt_dial7.png
+SHA1-Digest: GPupOWsRw1PdIXrFp4E3p3K92Js=
+
+Name: res/drawable-nodpi-v4/purple_bt_contactsave.png
+SHA1-Digest: zpqqnDZeBBUAPWqu+aj5BHWXkJo=
+
+Name: res/drawable-nodpi-v4/bt_dial1_p.png
+SHA1-Digest: AyVUNUkSneiSzWBnVPbTLxFicYg=
+
+Name: res/drawable-nodpi-v4/sw_bk.png
+SHA1-Digest: aSQ+DudjqA4afdE3gykqv6la1h0=
+
+Name: res/drawable-nodpi-v4/purple_bt_load04.png
+SHA1-Digest: pJcyOVniVy+giq3qLdAFSM8e7LU=
+
+Name: res/drawable-nodpi-v4/btav_next.png
+SHA1-Digest: 9br7RJlpic/bVBCJdCqscqPa/SA=
+
+Name: res/drawable-nodpi-v4/pink_bt_historylist_bk.png
+SHA1-Digest: u8EjFsLOjo7SxMEYvfUm0FNGvB0=
+
+Name: res/drawable-nodpi-v4/red_bt_dialnum_bk.png
+SHA1-Digest: 1SNq5wSR5SZrPTqDd1UV1jyR+zI=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_hang_p.png
+SHA1-Digest: ZhiX1fFyrSrXdeK2AVe+TkBFfVw=
+
+Name: res/drawable-nodpi-v4/bt_pwd6_p.png
+SHA1-Digest: Iaf5LkYhJoVEbzy/FVlq5PRVPv0=
+
+Name: res/drawable-nodpi-v4/thirdphone_bk.png
+SHA1-Digest: uYM3ZDYZxZbfQwoCpOmn6ZQqe2Y=
+
+Name: res/drawable-nodpi-v4/blue_bt_pop_dialx.png
+SHA1-Digest: X+mzK/diOioEd4DYc17Al1sznp8=
+
+Name: res/drawable-nodpi-v4/purple_bt_set_editbk.png
+SHA1-Digest: ruwFS/R0/BI/URnyIWDc6CkGM/8=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dialj.png
+SHA1-Digest: ypMx4MobSUje6JBQhMMjIjNp1tY=
+
+Name: res/drawable-nodpi-v4/blue_bt_navi4.png
+SHA1-Digest: cgG68ELy2QAu0R+BkWj5DUt1riY=
+
+Name: res/drawable-nodpi-v4/blue_bt_dialdial.png
+SHA1-Digest: Ivzt73Dz+wYsE0dt0DvMYoGU7S4=
+
+Name: res/drawable-nodpi-v4/bt_menuav.png
+SHA1-Digest: yGG4R1aOMFSvWod3fmuJKOu0VxQ=
+
+Name: res/drawable-nodpi-v4/blue_bt_keyboardshow_p.png
+SHA1-Digest: 5OgLXDMd+IT7rkaz3scPtgh/Xr0=
+
+Name: res/drawable-nodpi-v4/bt_contactsave_p.png
+SHA1-Digest: lMHF2lTzjP6vnNnVUqp+gG8/XIA=
+
+Name: res/drawable-nodpi-v4/pink_bt_history_bk.png
+SHA1-Digest: cKUOqD2XLsRtBAB2WtxDt5R1aRo=
+
+Name: res/drawable-nodpi-v4/blue_bt_icoincall.png
+SHA1-Digest: NNItqzmXDK8Ca6ULz2DYksq9Yhg=
+
+Name: res/drawable-nodpi-v4/purple_bt_navij.png
+SHA1-Digest: lXf+m7lBDPLSOVIqHohHLC26YeY=
+
+Name: res/drawable-nodpi-v4/red_bt_dial0.png
+SHA1-Digest: 18gB5tvck4nVKCx2lE878ba3J4w=
+
+Name: res/drawable-nodpi-v4/red_bt_menu_bk.png
+SHA1-Digest: jTny/NeX38aZJyVuZ42GWQ/oHzg=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial6.png
+SHA1-Digest: IA51iLiuI7IjNTKmPZFSyaCl6vY=
+
+Name: res/drawable-nodpi-v4/blue_thirdphone_switch.png
+SHA1-Digest: hsMx/aD7uDNycZ1bsY9mpQ32K1I=
+
+Name: res/drawable-nodpi-v4/purple_bt_navij_p.png
+SHA1-Digest: KPDSce4RMFXXcXHtmd5joxT9MGQ=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactsave_p.png
+SHA1-Digest: ZbcYXKp83C0D4SJMQ8dsrS2Dz6w=
+
+Name: res/drawable-nodpi-v4/bt_navi1_p.png
+SHA1-Digest: QN4pJ+z6pCxuubX6WhcHd9vb2uk=
+
+Name: res/drawable-nodpi-v4/red_bt_keyboardhide.png
+SHA1-Digest: /QTwaUvLLrls4iHjATXs/5piKLw=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial0_p.png
+SHA1-Digest: O9WuuB/WX99lBm8PgaIGZV5jEps=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi6_p.png
+SHA1-Digest: Vk82RIh9dAyydVTXO/f2XsEzlqI=
+
+Name: res/drawable-nodpi-v4/bt_historyin.png
+SHA1-Digest: IIPuf5CNLy4NC1djZe89EeKRZJU=
+
+Name: res/drawable-nodpi-v4/red_thirdphone_accept_p.png
+SHA1-Digest: /KoGYB7BXevEYfbu+428hDNkiWg=
+
+Name: res/drawable-nodpi-v4/bt_pwd7_p.png
+SHA1-Digest: RD/eqxSY3fsyApgqBlcj8WHDPwo=
+
+Name: res/drawable-nodpi-v4/red_bt_pop_dial3.png
+SHA1-Digest: PG8PJNeYnSL53MIkNgS0MORug7k=
+
+Name: res/drawable-nodpi-v4/bt_contactsearch.png
+SHA1-Digest: xC/WHmHv6r7SwuiLtyVJyAXdvxk=
+
+Name: res/drawable-nodpi-v4/pink_bt_pwd7.png
+SHA1-Digest: D6SQq1lTAM8ssBTC15H/7S9xIbk=
+
+Name: res/drawable-nodpi-v4/history_item_p.png
+SHA1-Digest: iR55ie8D6ZfGs50MclH8+dLcuJI=
+
+Name: res/drawable-nodpi-v4/purple_bt_holdon.png
+SHA1-Digest: rOPa8raqaUafCI8uVjszFGbumDI=
+
+Name: res/drawable-nodpi-v4/bt_dial0_p.png
+SHA1-Digest: yCih3ksmmjvwTaZvrkR3zlZsfGA=
+
+Name: res/drawable-nodpi-v4/bt_historydial_p.png
+SHA1-Digest: DOupY4bob+6GSfOzzpCqDkZDaH8=
+
+Name: res/drawable-nodpi-v4/pink_bt_dialhang_p.png
+SHA1-Digest: 6qOoCcs6Ln/2SY4KhR1Hl2RWiOg=
+
+Name: res/drawable-nodpi-v4/bt_navi2_p.png
+SHA1-Digest: NhQxXijgXzFDuHI1yx2Irq+Z448=
+
+Name: res/drawable-nodpi-v4/pink_bt_paircut_p.png
+SHA1-Digest: ZS2MaBo+4+ZQURN+dCgCamp0VSU=
+
+Name: res/drawable-nodpi-v4/purple_btav_pause.png
+SHA1-Digest: ma41E6flfnTLltLkRq+lONR0bF8=
+
+Name: res/drawable-nodpi-v4/red_bt_pairclear_p.png
+SHA1-Digest: yBQYLN3Xf/5Miav13XyskaTPeTI=
+
+Name: res/drawable-nodpi-v4/pink_thirdphone_accept_p.png
+SHA1-Digest: tIZGbE6Ysg8T9T0SKk1gncR0auo=
+
+Name: res/drawable-nodpi-v4/purple_bt_navi5_p.png
+SHA1-Digest: Q4rlKdu3Pvnoricoo2a0urHOV3o=
+
+Name: res/drawable-nodpi-v4/blue_bt_navisound_p.png
+SHA1-Digest: soR8ilKhHpPTSs3pYBNqxb0gRoI=
+
+Name: res/drawable-nodpi-v4/pink_bt_contactsearch.png
+SHA1-Digest: yZWkMUxDoaGNV2mAC7v0cFtG5+Q=
+
+Name: res/drawable-nodpi-v4/purple_bt_paircut.png
+SHA1-Digest: C43GlosOWo0CJqlFwmsXNwgpemQ=
+
+Name: res/drawable-nodpi-v4/purple_bt_dial3_p.png
+SHA1-Digest: Iynqr6nYpEtqYobt1iBWkqN70os=
+

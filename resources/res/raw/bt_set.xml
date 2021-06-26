@@ -1,0 +1,67 @@
+<Root>
+	<Page id="Page_Set" paraStr="Menu_Dial">
+	    <View rect="0,0,1024,69" drawable="bt_contacttxt_bk"/>
+	    <Text rect="43,3,402,60" text="bt_btset" paraStr="Left" h="42" color="#ffffff"/>
+	    <Button id="Func_Btn_Back" rect="920,5,73,57" drawable="back"/>
+	    
+	    <ScrollView gravity="988,410" pos="20,70">
+		    <View gravity="988,82">
+		        <View rect="0,0,988,80" drawable="contact_item"/>
+		        <Text rect="25,19,270,45" paraStr="Left" text="bt_device_name" h="26" color="#FFFFFF"/>
+		        <EditText id="Set_Edit_DevName" padding="5,0,5,0" rect="365,17,250,48" color="#FFFFFF" h="26" drawable="bt_set_editbk"/>
+		       	<Button id="Set_Btn_DevNameOk" rect="815,17,143,48">
+					<Text rect="815,17,143,48" text="bt_confirm" h="26" paraStr="TruncateAtEnd" color="#ffffff,#8a8686"/>
+				</Button>
+			</View>
+			<View gravity="988,82" pos="0,0">
+		        <View rect="0,0,988,80" drawable="contact_item"/>
+		        <Text rect="25,19,270,45" paraStr="Left" text="bt_pin_pair" h="26" color="#FFFFFF"/>
+		        <EditText id="Set_Edit_Pin" padding="5,0,5,0" rect="365,17,250,48" color="#FFFFFF" h="28" drawable="bt_set_editbk"/>
+		        <Button id="Set_Btn_PinOk" rect="815,17,143,48">
+					<Text rect="815,17,143,48" text="bt_confirm" h="26" paraStr="TruncateAtEnd" color="#ffffff,#8a8686"/>
+					</Button>
+			</View>
+			<View gravity="988,82" pos="0,0">
+			    <View rect="0,0,988,80" drawable="contact_item"/>
+		        <Text rect="25,19,270,45" paraStr="Left" text="bt_auto_answer" h="26" color="#FFFFFF"/>
+		        <SwitchButton2 id="Set_Switch_AutoAnswer_2" rect="845,10,80,65" drawableExtra="switch_pointer,switch_on,switch_off"/>
+		        <Text id="Set_Txt_AutoAnswer" rect="365,16,250,48" h="26" paraStr="Center" color="#ffffff,#ff9c00"/>
+			</View>
+			<View gravity="988,82" pos="0,0">
+		        <View rect="0,0,988,80" drawable="contact_item"/>
+		        <Text rect="25,19,270,45" paraStr="Left" text="bt_bt_reset" h="28" color="#FFFFFF"/>
+				<Button id="Set_Btn_Reset" rect="815,17,143,48">
+						<Text rect="815,16,143,48" text="bt_reset" h="26" paraStr="TruncateAtEnd" color="#ffffff,#8a8686"/>
+					</Button>        
+			</View>
+			<View id="Set_View_Update" gravity="988,82" pos="0,0">
+		        <View rect="0,0,988,80" drawable="contact_item"/>
+		        <Text rect="25,19,270,45" paraStr="Left" text="bt_update" h="28" color="#FFFFFF"/>
+				<Button id="Set_Btn_Update" rect="815,17,143,48">
+						<Text rect="815,16,143,48" text="ok" h="26" paraStr="TruncateAtEnd" color="#ffffff,#8a8686"/>
+					</Button>        
+			</View>
+		</ScrollView>
+		
+	    <View rect="0,482,1024,118" drawable="bt_menu_bk"/>
+	    <Button id="Menu_Dial" rect="0,482,156,118" drawable="bt_menudial">
+	    	<Text rect="0,490,156,36" text="bt_bt" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Contact" rect="157,482,156,118" drawable="bt_menucontact">
+	    	<Text rect="157,490,156,36" text="bt_btbook" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	   	<Button id="Menu_History" rect="314,482,156,118" drawable="bt_menuhistory">
+	   		<Text rect="314,490,156,36" text="bt_history" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Av" rect="471,482,156,118" drawable="bt_menuav">
+	    	<Text rect="471,490,156,36" text="bt_btav" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+		<Button id="Menu_Pair" rect="628,482,156,118" drawable="bt_menupair">
+			 <Text rect="628,490,156,36" text="bt_btpair" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Set" rect="868,482,156,118" drawable="bt_menuset">
+	    	 <Text rect="868,490,156,36" text="bt_btset" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	</Page>
+</Root>
+

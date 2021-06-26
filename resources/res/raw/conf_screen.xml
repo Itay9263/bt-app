@@ -1,0 +1,5 @@
+<project name="screen">
+	<property name="screen_max" value="1024"/>	
+	<property name="screen_set" value="1024,600"/>	
+</project>
+

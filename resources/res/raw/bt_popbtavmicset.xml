@@ -1,0 +1,9 @@
+<Root>
+	<Page id="Page_PopBtAvMicSet" size="550,248">
+		<View rect="0,0,550,248" drawable="seekbar_popbk"/>
+		<Text rect="190,20,290,45" paraStr="Left" text="bt_btavmicset" h="28" color="#FFFFFF"/>
+		<SeekBar id="PopBtAvMic_SeekBar" drawableExtra="seekbar,seekbar_p,seekbar_thums" para="1000" rect="35,110,510,110;4,11,478,39;0,10,21,46"/>
+		<Text id="PopBtAvMic_Txt_Tumb" rect="270,180,80,40" h="28" paraStr="Left" color="#FFFFFF"/>
+	</Page>
+</Root>
+

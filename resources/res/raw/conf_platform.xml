@@ -1,0 +1,11 @@
+<project name="platform">
+	<property name="platform" value="9853"/>
+	<property name="name_diy" value="VW-PHone"/>	
+	<property name="NoPageAnimate" value="1"/>	
+	<property name="Translucent" value="1"/>
+	<property name="auto_downPhoneBook" value="1"/>
+	<property name="HistoryLogAllFlag" value="1"/>
+	<property name="sharedUserId" value="android.uid.system"/>
+	<property name="apkid" value="190063003_com.syu.bt"/>
+</project>
+

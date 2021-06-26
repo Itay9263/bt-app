@@ -1,0 +1,37 @@
+<Root>
+	<Page id="Page_Av" paraStr="Menu_Dial">
+		<View rect="0,0,1024,69" drawable="bt_contacttxt_bk"/>
+	    <Text rect="43,3,402,60" text="bt_btav" paraStr="Left" h="42" color="#ffffff"/>
+	    <Button id="Menu_Back" rect="920,5,73,57" drawable="back"/>
+	    
+		<View rect="614,121,365,300" drawable="btav_right_bk"/>
+		<Button id="Av_Btn_Prev" rect="93,290,100,63" drawable="btav_prev"/>
+		<Button id="Av_Btn_PlayPause" rect="233,290,100,63" drawable="btav_playpause"/>
+		<Button id="Av_Btn_Next" rect="372,290,100,63" drawable="btav_next"/>
+		
+		<Text id="Av_Txt_Title" rect="130,133,487,56" paraStr="Left,TruncateAtMarQuee" h="28" color="#FFFFFF"/>
+		<Text id="Av_Txt_Artist" rect="130,196,487,34" paraStr="Left,TruncateAtMarQuee" h="22" color="#808080"/>
+		<Text id="Av_Txt_Album" rect="130,223,487,34" paraStr="Left,TruncateAtMarQuee" h="22" color="#808080"/>
+		
+		<View rect="0,482,1024,118" drawable="bt_menu_bk"/>
+	    <Button id="Menu_Dial" rect="0,482,156,118" drawable="bt_menudial">
+	    	<Text rect="0,490,156,36" text="bt_bt" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Contact" rect="157,482,156,118" drawable="bt_menucontact">
+	    	<Text rect="157,490,156,36" text="bt_btbook" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	   	<Button id="Menu_History" rect="314,482,156,118" drawable="bt_menuhistory">
+	   		<Text rect="314,490,156,36" text="bt_history" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Av" rect="471,482,156,118" drawable="bt_menuav">
+	    	<Text rect="471,490,156,36" text="bt_btav" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+		<Button id="Menu_Pair" rect="628,482,156,118" drawable="bt_menupair">
+			 <Text rect="628,490,156,36" text="bt_btpair" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Set" rect="868,482,156,118" drawable="bt_menuset">
+	    	 <Text rect="868,490,156,36" text="bt_btset" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	</Page>
+</Root>
+

@@ -1,0 +1,8 @@
+<Root>
+	<Page id="Page_Pop3rdPhone" size="557,399" drawable="thirdphone_bk">
+		<Text id="Pop3rdPhone_Txt_Name" rect="30,59,493,120" h="32" color="#ffffff"/>
+		<Button id="Pop3rdPhone_Btn_Accept" rect="102,233,110,110" drawable="thirdphone_accept" paraStr="thirdphone_switch"/>
+		<Button id="Pop3rdPhone_Btn_Hang" rect="342,233,110,110" drawable="thirdphone_hang"/>
+	</Page>
+</Root>
+

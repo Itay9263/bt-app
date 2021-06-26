@@ -1,0 +1,9 @@
+<Root>
+	<Page id="Page_DialItem" drawable="history_item" size="384,53">
+		<View id="DialItem_Content">
+			<Text id="DialItem_Txt_Name" rect="5,0,160,53" h="28" paraStr="Left,TruncateAtMarQuee" color="#ffffff"/>
+			<Text id="DialItem_Txt_Number" rect="170,0,210,53" h="28" paraStr="Center,TruncateAtMarQuee" color="#ffffff"/>
+		</View>
+	</Page>
+</Root>
+

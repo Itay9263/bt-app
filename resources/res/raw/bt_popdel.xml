@@ -1,0 +1,14 @@
+<Root>
+	<Page id="Page_PopDel" drawable="bt_editcontact_bk" size="529,296">
+		<Text id="PopDel_Txt_Title" rect="16,7,496,41" text="bt_prompt" h="26" paraStr="TruncateAtEnd" color="#ffffff"/>
+		<Text id="PopDel_Txt_Content" rect="16,75,496,97" paraStr="Multiline" h="25" color="#000000"/>
+		
+		<Button id="PopDel_Btn_Ok" rect="44,229,192,51" drawable="bt_editcontact_btn">
+				<Text rect="44,229,192,51" text="yes" paraStr="Center,TruncateAtEnd" h="26" color="#ffffff"/>
+			</Button>
+		<Button id="PopDel_Btn_Cancel" rect="292,229,192,51" drawable="bt_editcontact_btn">
+				<Text rect="292,229,192,51" text="no" paraStr="Center,TruncateAtEnd" h="26" color="#ffffff"/>
+			</Button>
+	</Page>
+</Root>
+

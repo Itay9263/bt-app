@@ -1,0 +1,15 @@
+<Root>
+	<Page id="Page_PopBt_Func" size="1024,100">
+		<View rect="0,0,1024,100" drawable="bt_navikeyhide_bk"/>
+		<View rect="366,8,293,72" drawable="bt_navitxt_bk"/>
+		<Text id="PopBt_Txt_State" rect="375,15,130,30" h="20" paraStr="Left" color="#ffffff"/>
+		<Text id="PopBt_Txt_Name" rect="375,45,130,30" h="20" paraStr="Left,TruncateAtEnd" color="#ffffff"/>
+		<Text id="PopBt_Txt_Time" rect="510,15,140,30" h="20" paraStr="Right" color="#ffffff"/>
+		<Text id="PopBt_Txt_Number" rect="510,45,140,30" h="20" paraStr="Right" color="#ffffff"/>
+		<Button id="PopBt_Btn_ShowHideKeyBoard" rect="60,8,133,72" drawable="bt_keyboardshow" paraStr="bt_keyboardhide"/>
+		<Button id="PopBt_Btn_Sound" rect="215,8,133,72" drawable="bt_navisound"/>
+		<Button id="PopBt_Btn_Accept" rect="678,8,133,72" drawable="bt_navidial"/>
+		<Button id="PopBt_Btn_Hang" rect="830,8,133,72" drawable="bt_navihang"/>
+	</Page>
+</Root>
+

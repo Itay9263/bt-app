@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ActTheme">
+        <item name="android:windowBackground">@drawable/bt_bk</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ActivityStart">
+        <item name="android:windowBackground">@drawable/bt_bk</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Dialog">
+        <item name="android:windowBackground">@color/white2</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Trans">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme.Toast">
+        <item name="android:windowBackground">@android:drawable/toast_frame</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Toast</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="DialogText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="DialogText.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="strReset">
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="strPopNumber">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="sp_26:22">
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="sp_26:24">
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="txt_style_none">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="txt_style_white">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="txt_style_black">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="fade_anim">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="pop_btgps_anim">
+        <item name="android:windowEnterAnimation">@anim/pop_btgps_show</item>
+        <item name="android:windowExitAnimation">@anim/pop_btgps_hidden</item>
+    </style>
+    <style name="pop_pin_anim">
+        <item name="android:windowEnterAnimation">@anim/pop_pin_show</item>
+        <item name="android:windowExitAnimation">@anim/pop_pin_hidden</item>
+    </style>
+    <style name="pop_suspend_anim">
+        <item name="android:windowEnterAnimation">@anim/pop_suspend_show</item>
+        <item name="android:windowExitAnimation">@anim/pop_suspend_hidden</item>
+    </style>
+    <style name="pop_history_menu_anim">
+        <item name="android:windowEnterAnimation">@anim/pop_history_menu_show</item>
+        <item name="android:windowExitAnimation">@anim/pop_history_menu_hidden</item>
+    </style>
+    <style name="pop_add_contacts_anim">
+        <item name="android:windowEnterAnimation">@anim/pop_add_contacts_show</item>
+        <item name="android:windowExitAnimation">@anim/pop_add_contacts_hidden</item>
+    </style>
+    <style name="pop_contacts_menu_anim">
+        <item name="android:windowEnterAnimation">@anim/pop_contacts_menu_show</item>
+        <item name="android:windowExitAnimation">@anim/pop_contacts_menu_hidden</item>
+    </style>
+    <style name="popwindow_delete_btn_anim_style">
+        <item name="android:windowEnterAnimation">@anim/delete_btn_show</item>
+        <item name="android:windowExitAnimation">@anim/delete_btn_hide</item>
+    </style>
+    <style name="scale_anim">
+        <item name="android:windowEnterAnimation">@anim/scale_in</item>
+        <item name="android:windowExitAnimation">@anim/scale_out</item>
+    </style>
+    <style name="fade_anim_style">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+</resources>

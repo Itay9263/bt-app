@@ -1,0 +1,44 @@
+<Root>
+	<Page id="Page_Contact" paraStr="Menu_Dial">
+	    <View rect="0,0,1024,69" drawable="bt_contacttxt_bk"/>
+	    <Text rect="43,3,402,60" text="bt_btbook" paraStr="Left" h="42" color="#ffffff"/>
+	    <EditText id="Contact_Edit_Search" paraStr="Right" h="26" color="#FFFFFF" rect="607,5,303,57" drawable="contact_edit"/>
+	    <Button id="Func_Btn_Back" rect="920,5,73,57" drawable="back"/>
+	    
+		<View rect="243,69,14,412" drawable="bt_historyleft_bk"/>
+		<GridView id="Contact_ListView" longclick="1" rect="264,70,746,410" paraStr="Page_ContactItem" h="5"/>
+		<Button id="Contact_Btn_Search" rect="0,77,228,69" drawable="bt_contactsearch">
+			<Text rect="80,77,148,69" text="bt_book_query" paraStr="Center,TruncateAtMarQuee" h="28" color="#ffffff"/>
+		</Button>
+		<Button id="Contact_Btn_Download" rect="0,157,228,69" drawable="bt_contactdown">
+			<Text rect="80,157,148,69" text="bt_book_download" paraStr="Center,TruncateAtMarQuee" h="28" color="#ffffff"/>
+		</Button>
+		<Button id="Contact_Btn_Save" rect="0,237,228,69" drawable="bt_contactdown">
+			<Text rect="80,237,148,69" text="bt_book_save" paraStr="Center,TruncateAtMarQuee" h="28" color="#ffffff"/>
+		</Button>
+		<Button id="Contact_Btn_Clear" rect="0,317,228,69" drawable="bt_contactclear">
+			<Text rect="80,317,148,69" text="bt_book_clear" paraStr="Center,TruncateAtMarQuee" h="28" color="#ffffff"/>
+		</Button>
+		
+		<View rect="0,482,1024,118" drawable="bt_menu_bk"/>
+	    <Button id="Menu_Dial" rect="0,482,156,118" drawable="bt_menudial">
+	    	<Text rect="0,490,156,36" text="bt_bt" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Contact" rect="157,482,156,118" drawable="bt_menucontact">
+	    	<Text rect="157,490,156,36" text="bt_btbook" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	   	<Button id="Menu_History" rect="314,482,156,118" drawable="bt_menuhistory">
+	   		<Text rect="314,490,156,36" text="bt_history" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Av" rect="471,482,156,118" drawable="bt_menuav">
+	    	<Text rect="471,490,156,36" text="bt_btav" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+		<Button id="Menu_Pair" rect="628,482,156,118" drawable="bt_menupair">
+			 <Text rect="628,490,156,36" text="bt_btpair" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Set" rect="868,482,156,118" drawable="bt_menuset">
+	    	 <Text rect="868,490,156,36" text="bt_btset" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	</Page>
+</Root>
+

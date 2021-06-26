@@ -1,0 +1,9 @@
+<Root>
+	<Page id="Page_PairItem" drawable="contact_item" size="740,82">
+		<View id="PairItem_Content">
+			<Text id="PairItem_Txt_Addr" rect="40,12,280,60" paraStr="Left,TruncateAtMarQuee" color="#ffffff" h="28"/>
+			<Text id="PairItem_Txt_Name" rect="320,12,280,60" paraStr="Center,TruncateAtMarQuee" color="#ffffff" h="28"/>
+			<Text id="PairItem_Icon" rect="660,17,53,47"/>
+		</View>
+	</Page>
+</Root>

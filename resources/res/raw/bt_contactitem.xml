@@ -1,0 +1,11 @@
+<Root>
+	<Page id="Page_ContactItem" drawable="contact_item" size="740,82">
+		<View id="ContactItem_Content">
+			<View rect="9,22,33,33" drawable="bt_icocontact"/>
+			<Text id="ContactItem_Txt_Name_Highlight" rect="60,14,270,50" h="28" paraStr="Left,TruncateAtMarQuee" color="#ffffff"/>
+			<Text id="ContactItem_Txt_Number_Highlight" rect="340,14,270,50" h="28" paraStr="Center,TruncateAtMarQuee" color="#ffffff"/>
+			<Button id="ContactItem_Btn_Dial" rect="650,15,75,60" posIco="22,10,36,30" icon="bt_itemdial"/>
+		</View>
+	</Page>
+</Root>
+

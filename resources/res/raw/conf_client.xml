@@ -1,0 +1,9 @@
+<project name="client">
+	<property name="app-name" value="BT"/>
+	<property name="ver-name" value="1.0"/>
+	<property name="client-name" value="DZSJ"/>
+	<property name="client-folder" value="德众尚杰"/>		
+	<property name="ui-id" value="4"/>
+	<property name="platform-name" value="9853"/>	
+</project>
+

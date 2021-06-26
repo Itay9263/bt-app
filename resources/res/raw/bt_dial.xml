@@ -1,0 +1,87 @@
+<Root>
+	<Page id="Page_Dial" paraStr="Menu_Dial" drawable="act_bk">
+	    
+		<View id="View_Dial_Info" rect="198,39,635,343" drawable="bt_talking_bk">
+			<Text rect="483,82,126,42" paraStr="Left,TruncateAtMarQuee" id="Dial_Txt_Name" h="26" color="#FFFFFF"/>
+			<Text rect="610,82,215,42" paraStr="Left,TruncateAtMarQuee" id="Dial_Txt_Num" h="26" color="#FFFFFF"/>
+			<Text id="Dial_Txt_TalkTime" rect="498,242,326,42" h="22" paraStr="Left" color="#ffffff"/>
+			<Button id="Dial_Btn_Dial" rect="235,289,107,86" drawable="bt_dialdial"/>
+			<Button id="Dial_Btn_Hang" rect="685,289,107,86" drawable="bt_dialhang"/>
+			<Button id="Dial_Btn_VoiceSwitch" rect="535,289,107,86" drawable="bt_voiceswitch"/>
+			<Button id="Dial_Btn_HideNumber" rect="385,289,107,86" drawable="bt_holdon"/>
+		</View>
+	
+		<View id="View_Concact_info" rect="5,0,1016,318">
+		    <View rect="32,04,370,60" drawable="bt_connect_bk">
+				<Text rect="87,10,307,48" paraStr="Left" id="Dial_Txt_LinkName" h="30" color="#FFFFFF"/>
+			</View>
+			
+		    <Button id="Contace_Btn_Save1" longclick="1" rect="37,120,182,176" drawable="bt_contact_bk">
+				<Text rect="139,134,60,36" text="bt_contact_1" paraStr="Right" h="28" color="#ffffff"/>
+				<Text id="Contact_add1" rect="44,259,170,34" text="bt_contact_add" paraStr="Left,TruncateAtMarQuee" h="26" color="#ffffff"/>
+				<Text id="Contact_name1" rect="42,176,172,61" paraStr="Center,TruncateAtMarQuee" h="26" color="#ffffff"/>
+			</Button>
+			
+		   	<Button id="Contace_Btn_Save2" longclick="1" rect="229,120,182,176" drawable="bt_contact_bk">
+				<Text rect="336,134,60,36" text="bt_contact_2" paraStr="Right" h="28" color="#ffffff"/>
+				<Text id="Contact_add2" rect="239,259,170,34" text="bt_contact_add" paraStr="Left,TruncateAtMarQuee" h="26" color="#ffffff"/>
+				<Text id="Contact_name2" rect="234,176,172,61" paraStr="Center,TruncateAtMarQuee" h="26" color="#ffffff"/>
+			</Button>
+			
+		    <Button id="Contace_Btn_Save3" longclick="1" rect="421,120,182,176" drawable="bt_contact_bk">
+				<Text rect="528,134,60,36" text="bt_contact_3" paraStr="Right" h="28" color="#ffffff"/>
+				<Text id="Contact_add3" rect="428,259,170,34" text="bt_contact_add" paraStr="Left,TruncateAtMarQuee" h="26" color="#ffffff"/>
+				<Text id="Contact_name3" rect="426,176,172,61" paraStr="Center,TruncateAtMarQuee" h="26" color="#ffffff"/>
+			</Button>
+			
+		    <Button id="Contace_Btn_Save4" longclick="1" rect="613,120,182,176" drawable="bt_contact_bk">
+				<Text rect="720,134,60,36" text="bt_contact_4" paraStr="Right" h="28" color="#ffffff"/>
+				<Text id="Contact_add4" rect="620,259,170,34" text="bt_contact_add" paraStr="Left,TruncateAtMarQuee" h="26" color="#ffffff"/>
+				<Text id="Contact_name4" rect="618,176,172,61" paraStr="Center,TruncateAtMarQuee" h="26" color="#ffffff"/>
+			</Button>
+			
+		    <Button id="Contace_Btn_Save5" longclick="1" rect="805,120,182,176" drawable="bt_contact_bk">
+				<Text rect="913,134,60,36" text="bt_contact_5" paraStr="Right" h="28" color="#ffffff"/>
+				<Text id="Contact_add5" rect="813,259,170,34" text="bt_contact_add" paraStr="Left,TruncateAtMarQuee" h="26" color="#ffffff"/>
+				<Text id="Contact_name5" rect="810,176,172,61" paraStr="Center,TruncateAtMarQuee" h="26" color="#ffffff"/>
+			</Button>
+		</View>
+		
+		<View id="Dial_HideNumber" rect="204,46,624,242" drawable="bt_pop_dialtxt_bk">
+		    <Button id="Dial_Btn_1" rect="263,49,122,73" drawable="bt_pop_dial1"/>
+			<Button id="Dial_Btn_2" rect="388,49,122,73" drawable="bt_pop_dial2"/>
+			<Button id="Dial_Btn_3" rect="512,49,122,73" drawable="bt_pop_dial3"/>
+			<Button id="Dial_Btn_4" rect="263,131,122,73" drawable="bt_pop_dial4"/>
+			<Button id="Dial_Btn_5" rect="388,131,122,73" drawable="bt_pop_dial5"/>
+			<Button id="Dial_Btn_6" rect="512,131,122,73" drawable="bt_pop_dial6"/>
+			<Button id="Dial_Btn_7" rect="263,207,122,73" drawable="bt_pop_dial7"/>
+			<Button id="Dial_Btn_8" rect="388,207,122,73" drawable="bt_pop_dial8"/>
+			<Button id="Dial_Btn_9" rect="512,207,122,73" drawable="bt_pop_dial9"/>
+			<Button id="Dial_Btn_X" rect="636,49,122,73" drawable="bt_pop_dialx"/>
+			<Button id="Dial_Btn_0" longclick="1" rect="636,131,122,73" drawable="bt_pop_dial0"/>
+			<Button id="Dial_Btn_J" rect="636,207,122,73" drawable="bt_pop_dialj"/>
+		</View>
+		
+		
+	    <View rect="0,422,1024,118" drawable="bt_menu_bk"/>
+	    <Button id="Menu_Dial" rect="0,422,156,118" drawable="bt_menudial">
+	    	<Text rect="0,430,156,36" text="bt_bt" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Contact" rect="157,422,156,118" drawable="bt_menucontact">
+	    	<Text rect="157,430,156,36" text="bt_btbook" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	   	<Button id="Menu_History" rect="314,422,156,118" drawable="bt_menuhistory">
+	   		<Text rect="314,430,156,36" text="bt_history" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Av" rect="471,422,156,118" drawable="bt_menuav">
+	    	<Text rect="471,430,156,36" text="bt_btav" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+		<Button id="Menu_Pair" rect="628,422,156,118" drawable="bt_menupair">
+			 <Text rect="628,430,156,36" text="bt_btpair" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	    <Button id="Menu_Set" rect="868,422,156,118" drawable="bt_menuset">
+	    	 <Text rect="868,430,156,36" text="bt_btset" paraStr="Center,TruncateAtMarQuee" h="25" color="#ffffff"/>
+	    </Button>
+	</Page>
+</Root>
+

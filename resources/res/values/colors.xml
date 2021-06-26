@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_demo">#ff33b4e4</color>
+    <color name="dark_green">#009dce</color>
+    <color name="dark_gray">#727272</color>
+    <color name="gray3">#3e3d3d</color>
+    <color name="gray2">#dcdcdcdc</color>
+    <color name="white3">#20ffffff</color>
+    <color name="white2">#b0ffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black3">#a0000000</color>
+    <color name="black2">#b0000000</color>
+    <color name="black">#ff000000</color>
+    <color name="green2">#b000ff00</color>
+    <color name="green">#ff00ff00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="blue2">#b00000ff</color>
+    <color name="red2">#b0ff0000</color>
+    <color name="red">#ffff0000</color>
+    <color name="item_bgColor1">#aa7ec0ee</color>
+    <color name="item_bgColor2">#aaadd8e6</color>
+    <color name="ondine">#d0aaccaa</color>
+    <color name="azure2">#d0336699</color>
+    <color name="azure3">#a0336699</color>
+    <color name="azure4">#20336699</color>
+    <color name="azure">#ff336699</color>
+    <color name="transparent2">#40000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

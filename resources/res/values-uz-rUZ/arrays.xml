@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="suspend_time">
+        <item>40   秒</item>
+        <item>20   秒</item>
+        <item>10   秒</item>
+        <item>  5   秒</item>
+        <item> OFF </item>
+    </array>
+</resources>

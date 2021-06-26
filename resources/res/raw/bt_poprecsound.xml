@@ -1,0 +1,8 @@
+<Root>
+	<Page id="Page_PopRecSound" drawable="recsound_bk" size="400,300">
+	    <View rect="26,42,99,154" drawable="recsound_ico_mic"/>
+	    <Text id="PopRecSound_Txt_Tip" rect="131,87,261,84" color="#FFFFFF" h="28" paraStr="Multiline"/>
+	    <Button id="PopRecSound_Btn_Stop" rect="88,229,222,48" text="str_stoprecord" color="#FFFFFF" h="28" drawable="recsound_btn"/>
+	</Page>
+</Root>
+
